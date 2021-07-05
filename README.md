@@ -5,5 +5,6 @@ git 配置可参考https://gitee.com/help/articles/4122
 :	git clone -b dev https://gitee.com/yl00/Clannad.git
 
 上传
-:	git add *
+:	git add .
+	git commit -m "comment"
 	git push origin dev
