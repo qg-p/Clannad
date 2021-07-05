@@ -7,4 +7,4 @@ git 配置可参考https://gitee.com/help/articles/4122
 上传
 :	git add .
 	git commit -m "comment"
-	git push origin dev
+	git push --all
