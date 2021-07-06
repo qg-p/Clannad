@@ -1,0 +1,12 @@
+run:
+  python chat.py
+
+input:
+  whatever except '()', 'and', etc.
+  especially:
+    - 'exit' or 'quit' for killing this bot
+    - '.train' or '.update' to train the bot with all conversations in every
+      files in ./training_data
+    - '.learn English' to train with English corpus in
+      C:\Users\username\chatterbot_corpus\data\english
+	
