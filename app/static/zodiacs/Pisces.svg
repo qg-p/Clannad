@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg27"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="c-Pisces.svg">
+  <defs
+     id="defs21" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#665979"
+     bordercolor="#7fed8b"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.9921875"
+     inkscape:cx="33.593177"
+     inkscape:cy="49.864182"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     guidehicolor="#dcdb41"
+     guidehiopacity="0.74901961"
+     guidecolor="#e23136"
+     guideopacity="0.74901961"
+     objecttolerance="10"
+     inkscape:window-width="960"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="0"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-smooth-nodes="true">
+    <sodipodi:guide
+       position="32,32"
+       orientation="-1,0"
+       id="guide2500"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(226,49,54)" />
+    <sodipodi:guide
+       position="32,32"
+       orientation="0,-1"
+       id="guide2502" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;paint-order:markers stroke fill"
+       id="rect2504"
+       width="20"
+       height="20"
+       x="22"
+       y="22" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#d3d456;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 22,32 H 42"
+       id="path3069" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#d3d456;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 32,22 V 42"
+       id="path3071" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#d3d456;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path3073"
+       sodipodi:type="arc"
+       sodipodi:cx="20"
+       sodipodi:cy="42"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       sodipodi:start="0"
+       sodipodi:end="2.8797933"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 32,42 A 12,12 0 0 1 21.566314,53.897338 12,12 0 0 1 8.40889,45.105828" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#d3d456;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle3075"
+       sodipodi:type="arc"
+       sodipodi:cx="-44"
+       sodipodi:cy="42"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       sodipodi:start="0"
+       sodipodi:end="2.8797933"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M -32,42 A 12,12 0 0 1 -42.433686,53.897338 12,12 0 0 1 -55.59111,45.105828"
+       transform="scale(-1,1)" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#d3d456;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle3077"
+       sodipodi:type="arc"
+       sodipodi:cx="20"
+       sodipodi:cy="-22"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       sodipodi:start="0"
+       sodipodi:end="2.8797933"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 32,-22 A 12,12 0 0 1 21.566314,-10.102662 12,12 0 0 1 8.40889,-18.894172"
+       transform="scale(1,-1)" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#d3d456;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="circle3079"
+       sodipodi:type="arc"
+       sodipodi:cx="-44"
+       sodipodi:cy="-22"
+       sodipodi:rx="12"
+       sodipodi:ry="12"
+       sodipodi:start="0"
+       sodipodi:end="2.8797933"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -32,-22 a 12,12 0 0 1 -10.433686,11.897338 12,12 0 0 1 -13.157424,-8.79151"
+       transform="scale(-1)" />
+  </g>
+</svg>
