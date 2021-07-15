@@ -11,7 +11,7 @@ nlu:
     - good evening
     - moin
     - hey there
-    - let's go
+    - let is go
     - hey dude
     - goodmorning
     - goodevening
@@ -90,3 +90,5244 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - who are you?
+
+- intent: ask_bot
+  examples: |
+    - Are you a boy or a girl?
+    - Are you a man or a woman?
+    - Are you handsome?
+    - Do you have anyone you love?
+    - I don't know what to ask?
+    - Will you help me
+
+
+
+
+
+
+- intent: Leo_time
+  examples: |
+    -Leo Time
+    -When is Leo is time?
+    -I want to know the Leo time
+    -You know what time it is in Leo
+    -Can you tell me what time is Leo
+    -I don't know Leo time
+    -Is there anything you want to tell me about Leo time
+    -Leo_time
+    -Leo specific time
+    -When is Leo
+
+- intent: Leo_man_is_character
+  examples: |
+    -Leo man is character
+    -What is Leo man is character?
+    -I want to know the Leo man is character
+    -What is Leo man is character like
+    -You know what character it is in Leo man
+    -What do you think of Leo man is character
+    -Is there anything you want to tell me about Leo man is character
+
+- intent: Leo_personality
+  examples: |
+    -Leo personality
+    -What is Leo personality?
+    -I want to know the Leo personality
+    -What is Leo personality like
+    -You know what personality it is in Leo
+    -What do you think of Leo personality
+    -Is there anything you want to tell me about Leo personality
+    
+- intent: Leo_woman_is_character
+  examples: |
+    -Leo woman is character
+    -What is Leo woman is character?
+    -I want to know the Leo woman is character
+    -What is Leo woman is character like
+    -You know what character it is in Leo woman
+    -What do you think of Leo woman is character
+    -Is there anything you want to tell me about Leo woman is character
+    
+- intent: Get_along_with_Leo
+  examples: |
+    -How to get along with Leo
+    -Eight don't is with Leo
+    -Good for you and Leo
+    -What should you pay attention to when you are with Leo
+    -How to communicate with Leo
+
+- intent: Different_Leo
+  examples: |
+    -What is the difference between Leo and other Constellations
+    -What is unique about Leo
+    -Leo is special
+    -the difference between Leo and other Constellations
+    -Different Leo
+
+- intent: Leo_alone
+  examples: |
+    -What does Leo like to do alone
+    -What will Leo do when they are alone
+    -Leo is way to be alone
+    -You know what will Leo do when they are alone
+    -I want to know What does Leo like to do alone
+
+- intent: The_advantages_of_Leo
+  examples: |
+    -The advantages of Leo
+    -What are the advantages of Leo
+    -What are the good qualities of Leo
+    -What are the attractions of Leo
+    -Excellent Leo
+
+- intent: Disadvantages_of_Leo
+  examples: |
+    -Disadvantages of Leo
+    -What are the disadvantages of Leo
+    -What makes you hate Leo
+    -What are the disgusting things about Leo
+    -Leo is shortcomings
+
+- intent: Leo_is_attitude_towards_work
+  examples: |
+    -Leo is attitude towards work
+    -How does Leo treat work
+    -Do you know Leo is work attitude
+    -I want to know how Leo works
+    -What is Leo is attitude towards work
+
+
+- intent: Leo_is_rest
+  examples: |
+    -What do Leo do in their spare time
+    -Leo how to relax
+    -Leo at leisure
+    -Do you know What do Leo do in their spare time
+    -I want to know Leo at leisure
+
+- intent: Leo_is_lucky_thing
+  examples: |
+    -What lucky things do Leo have?
+    -Do you know What lucky things do Leo have
+    -I want to know What lucky things do Leo have
+    -How can Leo change his fortune
+    -What does Leo need to be lucky
+
+- intent: Leo_and_friends
+  examples: |
+    -How do Leo treat friends
+    -What do Leo think of friendship
+    -How good are Leo to friends
+    -What is Leo is attitude towards friends
+    -Leo: how to get along with friends
+    -What do you think of Leo and his friends
+    -Leo is sincerity to friends
+    -Leo how to treat the friendship correctly
+
+- intent: Leo_notes
+  examples: |
+    -What should Leo pay attention to
+    -Leo should pay more attention to it
+    -Do you know What should Leo pay attention to
+    -I want to know Leo should pay more attention to it
+    -Tell me more about Leo
+    -Leo: what you need to watch out for
+
+- intent: Before_Leo
+  examples: |
+    -Before_Leo
+    -Before Leo
+    -pre-Leo
+    -Preceding Leo
+    -Preceding_Leo
+    -Leo before
+    -Leo_before
+    -Leo Before
+    -Leo_Before
+    -What is the sign before Leo?
+    -What is it before Leo?
+    -What is before Leo?
+    -You know what is before Leo?
+    -You know what is the sign before Leo?
+    -You know what is it before Leo?
+    -Can you tell me what is before Leo?
+    -Can you tell me what the sign before Leo?
+    -Can you tell me what it before Leo?
+    -I don't know what is before Leo
+    -I don't know what is the sign before Leo
+    -I don't know what is it before Leo
+    -Is there anything you want to tell me about what is it before Leo?
+    -Is there anything you want to tell me about what is the sign before Leo?
+    -Is there anything you want to tell me about what is before Leo?
+    -I want to know what is it before Leo
+    -I want to know what is the sign before Leo
+    -I want to know what is before Leo
+
+- intent: After_Leo
+  examples: |
+    -After_Leo
+    -After Leo
+    -Next_Leo
+    -Next Leo
+    -Leo after
+    -Leo_after
+    -Leo After
+    -Leo_After
+    -What is the sign after Leo?
+    -What is it after Leo?
+    -What is after Leo?
+    -You know what is after Leo?
+    -You know what is the sign after Leo?
+    -You know what is it after Leo?
+    -Can you tell me what is after Leo?
+    -Can you tell me what the sign after Leo?
+    -Can you tell me what it after Leo?
+    -I don't know what is after Leo
+    -I don't know what is the sign after Leo
+    -I don't know what is it after Leo
+    -Is there anything you want to tell me about what is it after Leo?
+    -Is there anything you want to tell me about the sign after Leo?
+    -I want to know what is it after Leo
+    -I want to know what is the sign after Leo
+    -I want to know what is after Leo
+
+- intent: Hobby_Leo
+  examples: |
+    -What are Leo's hobbies?
+    -Hobbies_Leo
+    -Hobbies Leo
+    -Hobby_Leo
+    -Hobby Leo
+    -You know what are Leo's hobbies?
+    -Can you tell me what are Leo's hobbies?
+    -I don't know what are Leo's hobbies
+    -Is there anything you want to tell me about Leo's hobbies?
+    -I want to know what are Leo's hobbies
+    -Leo's hobby
+    -Leo's hobbies
+    -Hobbies of Leo's
+    -Hobbies about Leo
+    -Hobby about Leo
+
+- intent: Three_views_Leo
+  examples: |
+    -What are Leo's three views?
+    -Three_views_Leo
+    -Three views Leo
+    -Three view_Leo
+    -You know what are Leo's three views?
+    -Can you tell me what are Leo's three views?
+    -I don't know what are Leo's three views
+    -Is there anything you want to tell me about Leo's three views?
+    -I want to know what are Leo's three views
+    -Leo's three view
+    -Leo's three views
+    -Three views of Leo's
+    -Three views about Leo
+
+- intent: Afraid_of_Leo
+  examples: |
+    -What are Leo's afraid of?
+    -Afraid of_Leo
+    -Afraid of about Leo
+    -You know what are Leo's afraid of?
+    -Can you tell me what are Leo's afraid of?
+    -I don't know what are Leo's afraid of
+    -Is there anything you want to tell me about what are Leo's afraid of?
+    -I want to know what are Leo's afraid of
+    -Leo's afraid of
+    -Afraid_Leo
+    -A Leo afraid of
+
+- intent: Looks_Leo
+  examples: |
+    -Leo_looks
+    -Leo looks
+    -Leo_Looks
+    -Leo Looks
+    -Looks_Leo
+    -Looks Leo
+    -What does a Leo look like?
+    -You know what does a Leo look like?
+    -Can you tell me what does a Leo look like?
+    -I don't know what does a Leo look like
+    -Is there anything you want to tell me about what does a Leo look like?
+    -I want to know what does a Leo look like
+
+- intent: Ability_Leo
+  examples: |
+    -How about Leo's ability to do things?
+    -Ability_Leo
+    -Ability Leo
+    -Ability of Leo
+    -Leo's ability
+    -You know how about Leo's ability to do things?
+    -Can you tell me how about Leo's ability to do things?
+    -I don't know how about Leo's ability to do things
+    -Is there anything you want to tell me about Leo's ability to do things?
+    -I want to know how about Leo's ability to do things
+
+- intent: Expression_Leo
+  examples: |
+    -How expressive is Leo?
+    -Expression_Leo
+    -Expression Leo
+    -Expression of Leo
+    -Leo's Expression
+    -You know how expressive is Leo?
+    -Can you tell me how expressive is Leo?
+    -I don't know how expressive is Leo
+    -Is there anything you want to tell me about Leo's ability of expression?
+    -I want to know how expressive is Leo
+    -You know how about Leo's ability of expression?
+    -Can you tell me how about Leo's ability of expression?
+    -I don't know how about Leo's ability of expression
+    -I want to know how about Leo's ability of expression
+
+- intent: Solve_Leo
+  examples: |
+    -How does Leo solve problems?
+    -Solve_Leo
+    -Solve problems_Leo
+    -Leo solve problems
+    -You know how does Leo solve problems?
+    -Can you tell me how does Leo solve problems?
+    -I don't know how does Leo solve problems
+    -Is there anything you want to tell me about how does Leo solve problems?
+    -I want to know how does Leo solve problems
+
+- intent: Treat_parents_Leo
+  examples: |
+    -How does Leo treat their parents?
+    -Treat parents_Leo
+    -Treat parents Leo
+    -Leo treat parents
+    -You know how does Leo treat their parents?
+    -Can you tell me how does Leo treat their parents?
+    -I don't know how does Leo treat their parents
+    -Is there anything you want to tell me about how does Leo treat their parents?
+    -I want to know how does Leo treat their parents
+
+- intent: Treat_children_Leo
+  examples: |
+    -How does Leo treat children?
+    -Treat children_Leo
+    -Treat children Leo
+    -Leo treat children
+    -You know how does Leo treat children?
+    -Can you tell me how does Leo treat children?
+    -I don't know how does Leo treat children
+    -Is there anything you want to tell me about how does Leo treat children?
+    -I want to know how does Leo treat children
+
+- intent: Fortune_Leo
+  examples: |
+    -How is Leo in fortune this year
+    -Fortune_Leo
+    -Fortune Leo
+    -Leo's fortune
+    -You know how is Leo in fortune this year?
+    -Can you tell me how is Leo in fortune this year?
+    -I don't know how is Leo in fortune this year
+    -Is there anything you want to tell me about how is Leo in fortune this year?
+    -I want to know how is Leo in fortune this year
+
+- intent: Leo_fortune
+  examples: |
+    -constellation fortune
+    -constellation fortune query
+    -What's constellation's luck this year
+    -constellation luck today
+    -I want to know constellation fortune query
+    -Do you know what's constellation's luck this year
+    -Is constellation lucky now
+    -constellation's best fortune tomorrow
+    -The complete forecast of constellation's fortune
+    -constellation's fortune in the coming week
+    -What's the outlook for this year？
+
+- intent: Constellation_characteristics 
+  examples: |
+    -What are the characteristics of each constellation
+    -Do you know the characteristics of each of the twelve Constellations
+    -I want to know what are the characteristics of each constellation
+    -All the characteristics of the twelve Constellations
+    -The basic characteristics of the twelve Constellations
+    -Constellation characteristics
+    -How to look at the basic characteristics of the twelve Constellations
+    -What are the basic characteristics of the twelve Constellations
+    -How to evaluate the basic characteristics of the twelve Constellations
+    -The strongest characteristics of the twelve Constellations
+
+- intent: Constellation_shortcomings
+  examples: |
+    -What are the disadvantages of each constellation
+    -The biggest drawback of the twelve Constellations
+    -I want to know what are the disadvantages of each constellation
+    -Constellation shortcomings
+    -Do you know the biggest drawback of the twelve Constellations
+    -How to view the shortcomings of different Constellations
+    -How to evaluate the shortcomings of the twelve Constellations
+    -What are the shortcomings of different Constellations
+    -Do you have any different disadvantages of constellation
+
+- intent: Constellation_time 
+  examples: |
+    -Time period of each constellation, online waiting
+    -What are the twelve Constellations and the corresponding time
+    -The most accurate and up-to-date date table of 12 Constellations
+    -What is the time of each constellation
+    -Constellation time
+    -How to know the time of the twelve Constellations
+    -I want to know the most accurate and up-to-date date table of 12 Constellations
+    -Do you know what is the time of each constellation
+    -Constellation time division
+    -I want to know something about Constellation time division
+
+- intent: Constellation_graphics
+  examples: |
+    -What is the figure of each constellation
+    -Do you know what is the figure of each constellation
+    -I want to know what is the figure of each constellation
+    -What are the representative figures of the twelve Constellations?
+    -How to know what is the representative figure of the twelve Constellations?
+    -Constellation graphics
+    -Tell me what the representative figure of the twelve Constellations is
+    -Different figures of the twelve Constellations
+    -I want to know something about Different figures of the twelve Constellations
+
+- intent: Astrology_origin
+  examples: |
+    -What is the origin of Constellations
+    -I want to know the origin of astrology
+    -Do you know what is the origin of Constellations
+    -The origin of astrology
+    -How do you know the origin of Constellations
+    -Tell me the origin of Constellations
+    -Can you tell me the origin of Constellations
+    -What is the origin of the twelve Constellations
+    -How do all the Constellations come into being
+    -Where does constellation theory originate
+
+- intent: Know_constellation
+  examples: |
+    -Do you know the constellation
+    -Do you know much about Constellations
+    -What do you know about Constellations
+    -How much do you know about Constellations
+    -I want to know if you know constellation
+    -Tell me what you know about Constellations
+    -I want to hear what you know about Constellations
+    -I want to see what you know about Constellations
+    -Please show me what you know about Constellations
+
+- intent: Ascendant_constellation
+  examples: |
+    -What is the rising sign
+    -I want to know what is the rising sign
+    -Do you know what is the rising sign
+    -Tell me about your understanding of the rising sign
+    -Tell me what the rising sign is
+    -What is my rising sign
+    -How to check your rising sign
+    -Can you tell me about your understanding of the rising sign
+    -What does the rising constellation stand for
+    -How does the rising sign work out
+
+- intent: Think_Constellations
+  examples: |
+    -What do you think of Constellations
+    -How do you view the Constellations
+    -How do you think about the constellation
+    -What do you think about Constellations?
+    -Do you know Constellations
+    -I want to know understanding of constellation
+    -Tell me about Constellations
+    -Can you tell me about Constellations
+    -Regarding Constellations, what do you recognize?
+
+- intent: Like_Constellations
+  examples: |
+    -Which constellation do you like best
+    -What's your favorite constellation
+    -I want to know which constellation do you like best
+    -Do you know what's your favorite constellation
+    -Tell me what's your favorite constellation
+    -Can you tell me what's your favorite constellation
+    -Twelve Constellations what Constellations do you prefer best?
+    -Chat a chat your favorite constellation, see which constellation is most popular
+    -What the favorite constellation is and why the favorit
+
+- intent: Hate_constellation
+  examples: |
+    -Which constellation do you hate most
+    -What's your least favorite constellation
+    -I want to know your least favorite constellation
+    -Tell me the sign you hate the most
+    -What do you think of your favorite constellation
+    -How to describe your least favorite constellation
+    -Talk about your favorite constellation
+    -How to evaluate your least favorite Constellations
+
+- intent: Constellation_friends
+  examples: |
+    -Which constellation do you want to make friends with
+    -Which constellation is best for making friends
+    -The best constellation for making friends
+    -I want to know the best constellation for making friends
+    -What do you think is the best constellation for making friends
+    -Tell me what constellation you think is best for making friends
+    -Constellation friends
+    -Best constellation friend
+    -My favorite constellation friends
+    -Among the twelve Constellations, the four most suitable for friends
+
+- intent: Constellation_oneself
+  examples: |
+    -How does each constellation see itself
+    -How do people of the twelve Constellations evaluate themselves from the bottom of their hearts
+    -What do you think of your Constellations
+    -How to treat constellation correctly
+    -Constellation_oneself
+    -How do people of the twelve sign think of other Constellations
+    -In your eyes, can constellation knowledge be taken seriously, and what do you think of it?
+    -How to look at Constellations, how to look at yourself, what Constellations
+    -Constellation oneself
+    -How do you want others to see you
+
+- intent: Constellation_treat
+  examples: |
+    -How does each constellation treat others
+    -Constellation_treat
+    -Twelve Constellations: good at treating others differently and have different attitudes towards different people
+    -Always like to treat others differently
+    -Twelve Constellations are how to love a person, how to do in the face of betrayal, how to meet difficulties
+    -Treat family and friends especially gentle, treat outsider very tough constellation, are you like this
+    -How to see what constellation others are at the first sight
+    -Constellation treat
+    -The constellation who is extremely kind-hearted and doesn't know how to hurt others, especially the first one heart
+    -Who are the Constellations that you want others to pay attention to in every move
+
+- intent: Constellation_luck
+  examples: |
+    -What's the luck of each constellation
+    -Everyone's fortune is different. What's the fortune of the Constellations
+    -What's the trend of each constellation?
+    -I want to know how lucky each constellation is this year?
+    -Can the constellation fortune be believed? Why does the content fortune of each constellation say not
+    -Constellation_luck
+    -Constellation fortune query Today's fortune query Daily Horoscope
+    -Detailed explanation of daily constellation
+    -Constellation luck
+    -What do you think of the horoscope of each month
+
+- intent: Constellation_talent
+  examples: |
+    -The talent of every constellation
+    -The talent of the twelve Constellations
+    -What are the unusual talents of the twelve Constellations? Astrology tells you
+    -Everyone has a unique talent, so the natural talent of 12 Constellations is different
+    -Each constellation has a talent. What is your talent?
+    -Which of the two Constellations has amazing talent?
+    -What are the innate talents of the 12 Constellations
+    -What are the unique talents of the twelve Constellations?
+    -What are the talents of the 12 Constellations
+    -Constellation talent
+
+- intent: Scorpio_time
+  examples: |
+    -Scorpio Time
+    -When is Scorpio is time?
+    -I want to know the Scorpio time
+    -You know what time it is in Scorpio
+    -Can you tell me what time is Scorpio
+    -I don't know Scorpio time
+    -Is there anything you want to tell me about Scorpio time
+    -Scorpio_time
+    -Scorpio specific time
+    -When is Scorpio
+
+- intent: Before_Scorpio
+  examples: |
+    -Before_Scorpio
+    -Before Scorpio
+    -pre-Scorpio
+    -Preceding Scorpio
+    -Preceding_Scorpio
+    -Scorpio before
+    -Scorpio_before
+    -Scorpio Before
+    -Scorpio_Before
+    -What is the sign before Scorpio?
+    -What is it before Scorpio?
+    -What is before Scorpio?
+    -You know what is before Scorpio?
+    -You know what is the sign before Scorpio?
+    -You know what is it before Scorpio?
+    -Can you tell me what is before Scorpio?
+    -Can you tell me what the sign before Scorpio?
+    -Can you tell me what it before Scorpio?
+    -I don't know what is before Scorpio
+    -I don't know what is the sign before Scorpio
+    -I don't know what is it before Scorpio
+    -Is there anything you want to tell me about what is it before Scorpio?
+    -Is there anything you want to tell me about what is the sign before Scorpio?
+    -Is there anything you want to tell me about what is before Scorpio?
+    -I want to know what is it before Scorpio
+    -I want to know what is the sign before Scorpio
+    -I want to know what is before Scorpio
+
+- intent: After_Scorpio
+  examples: |
+    -After_Scorpio
+    -After Scorpio
+    -Next_Scorpio
+    -Next Scorpio
+    -Scorpio after
+    -Scorpio_after
+    -Scorpio After
+    -Scorpio_After
+    -What is the sign after Scorpio?
+    -What is it after Scorpio?
+    -What is after Scorpio?
+    -You know what is after Scorpio?
+    -You know what is the sign after Scorpio?
+    -You know what is it after Scorpio?
+    -Can you tell me what is after Scorpio?
+    -Can you tell me what the sign after Scorpio?
+    -Can you tell me what it after Scorpio?
+    -I don't know what is after Scorpio
+    -I don't know what is the sign after Scorpio
+    -I don't know what is it after Scorpio
+    -Is there anything you want to tell me about what is it after Scorpio?
+    -Is there anything you want to tell me about the sign after Scorpio?
+    -I want to know what is it after Scorpio
+    -I want to know what is the sign after Scorpio
+    -I want to know what is after Scorpio
+
+- intent: Hobby_Scorpio
+  examples: |
+    -What are Scorpio's hobbies?
+    -Hobbies_Scorpio
+    -Hobbies Scorpio
+    -Hobby_Scorpio
+    -Hobby Scorpio
+    -You know what are Scorpio's hobbies?
+    -Can you tell me what are Scorpio's hobbies?
+    -I don't know what are Scorpio's hobbies
+    -Is there anything you want to tell me about Scorpio's hobbies?
+    -I want to know what are Scorpio's hobbies
+    -Scorpio's hobby
+    -Scorpio's hobbies
+    -Hobbies of Scorpio's
+    -Hobbies about Scorpio
+    -Hobby about Scorpio
+
+- intent: Three_views_Scorpio
+  examples: |
+    -What are Scorpio's three views?
+    -Three_views_Scorpio
+    -Three views Scorpio
+    -Three view_Scorpio
+    -You know what are Scorpio's three views?
+    -Can you tell me what are Scorpio's three views?
+    -I don't know what are Scorpio's three views
+    -Is there anything you want to tell me about Scorpio's three views?
+    -I want to know what are Scorpio's three views
+    -Scorpio's three view
+    -Scorpio's three views
+    -Three views of Scorpio's
+    -Three views about Scorpio
+
+- intent: Afraid_of_Scorpio
+  examples: |
+    -What are Scorpio's afraid of?
+    -Afraid of_Scorpio
+    -Afraid of about Scorpio
+    -You know what are Scorpio's afraid of?
+    -Can you tell me what are Scorpio's afraid of?
+    -I don't know what are Scorpio's afraid of
+    -Is there anything you want to tell me about what are Scorpio's afraid of?
+    -I want to know what are Scorpio's afraid of
+    -Scorpio's afraid of
+    -Afraid_Scorpio
+    -A Scorpio afraid of
+
+- intent: Looks_Scorpio
+  examples: |
+    -Scorpio_looks
+    -Scorpio looks
+    -Scorpio_Looks
+    -Scorpio Looks
+    -Looks_Scorpio
+    -Looks Scorpio
+    -What does a Scorpio look like?
+    -You know what does a Scorpio look like?
+    -Can you tell me what does a Scorpio look like?
+    -I don't know what does a Scorpio look like
+    -Is there anything you want to tell me about what does a Scorpio look like?
+    -I want to know what does a Scorpio look like
+
+- intent: Ability_Scorpio
+  examples: |
+    -How about Scorpio's ability to do things?
+    -Ability_Scorpio
+    -Ability Scorpio
+    -Ability of Scorpio
+    -Scorpio's ability
+    -You know how about Scorpio's ability to do things?
+    -Can you tell me how about Scorpio's ability to do things?
+    -I don't know how about Scorpio's ability to do things
+    -Is there anything you want to tell me about Scorpio's ability to do things?
+    -I want to know how about Scorpio's ability to do things
+
+- intent: Expression_Scorpio
+  examples: |
+    -How expressive is Scorpio?
+    -Expression_Scorpio
+    -Expression Scorpio
+    -Expression of Scorpio
+    -Scorpio's Expression
+    -You know how expressive is Scorpio?
+    -Can you tell me how expressive is Scorpio?
+    -I don't know how expressive is Scorpio
+    -Is there anything you want to tell me about Scorpio's ability of expression?
+    -I want to know how expressive is Scorpio
+    -You know how about Scorpio's ability of expression?
+    -Can you tell me how about Scorpio's ability of expression?
+    -I don't know how about Scorpio's ability of expression
+    -I want to know how about Scorpio's ability of expression
+
+- intent: Solve_Scorpio
+  examples: |
+    -How does Scorpio solve problems?
+    -Solve_Scorpio
+    -Solve problems_Scorpio
+    -Scorpio solve problems
+    -You know how does Scorpio solve problems?
+    -Can you tell me how does Scorpio solve problems?
+    -I don't know how does Scorpio solve problems
+    -Is there anything you want to tell me about how does Scorpio solve problems?
+    -I want to know how does Scorpio solve problems
+
+- intent: Treat_parents_Scorpio
+  examples: |
+    -How does Scorpio treat their parents?
+    -Treat parents_Scorpio
+    -Treat parents Scorpio
+    -Scorpio treat parents
+    -You know how does Scorpio treat their parents?
+    -Can you tell me how does Scorpio treat their parents?
+    -I don't know how does Scorpio treat their parents
+    -Is there anything you want to tell me about how does Scorpio treat their parents?
+    -I want to know how does Scorpio treat their parents
+
+- intent: Treat_children_Scorpio
+  examples: |
+    -How does Scorpio treat children?
+    -Treat children_Scorpio
+    -Treat children Scorpio
+    -Scorpio treat children
+    -You know how does Scorpio treat children?
+    -Can you tell me how does Scorpio treat children?
+    -I don't know how does Scorpio treat children
+    -Is there anything you want to tell me about how does Scorpio treat children?
+    -I want to know how does Scorpio treat children
+
+- intent: Fortune_Scorpio
+  examples: |
+    -How is Scorpio in fortune this year
+    -Fortune_Scorpio
+    -Fortune Scorpio
+    -Scorpio's fortune
+    -You know how is Scorpio in fortune this year?
+    -Can you tell me how is Scorpio in fortune this year?
+    -I don't know how is Scorpio in fortune this year
+    -Is there anything you want to tell me about how is Scorpio in fortune this year?
+    -I want to know how is Scorpio in fortune this year
+
+- intent: Scorpio_man_is_character
+  examples: |
+    -Scorpio man's character
+    -What is Scorpio man's character?
+    -I want to know the Scorpio man's character
+    -What's Scorpio man's character like
+    -You know what character it is in Scorpio man
+    -What do you think of Scorpio man's character
+    -Is there anything you want to tell me about Scorpio man's character
+
+- intent: Scorpio_personality
+  examples: |
+    -Scorpio personality
+    -What is Scorpio personality?
+    -I want to know the Scorpio personality
+    -What's Scorpio personality like
+    -You know what personality it is in Scorpio
+    -What do you think of Scorpio personality
+    -Is there anything you want to tell me about Scorpio personality
+
+- intent: Scorpio_woman_is_character
+  examples: |
+    -Scorpio woman's character
+    -What is Scorpio woman's character?
+    -I want to know the Scorpio woman's character
+    -What's Scorpio woman's character like
+    -You know what character it is in Scorpio woman
+    -What do you think of Scorpio woman's character
+    -Is there anything you want to tell me about Scorpio woman's character
+    -Scorpio_woman_is_character 
+    -Scorpio woman is character 
+
+- intent: Get_along_with_Scorpio
+  examples: |
+    -How to get along with Scorpio
+    -Eight don't's with Scorpio
+    -Good for you and Scorpio
+    -What should you pay attention to when you are with Scorpio
+    -How to communicate with Scorpio
+    -communicate with Scorpio 
+    -to communicate with Scorpio 
+    -How to communicate with Scorpio 
+
+- intent: Different_Scorpio
+  examples: |
+    -What's the difference between Scorpio and other constellations
+    -What's unique about Scorpio
+    -Scorpio's special
+    -the difference between Scorpio and other constellations
+    -Different Scorpio
+    -Different  Scorpio
+    -Different_Scorpio
+    -Different   Scorpio
+    -Different    Scorpio
+    -Scorpio's special
+    -Scorpio special
+    -Scorpio_special 
+
+- intent: Scorpio_alone
+  examples: |
+    -What does Scorpio like to do alone
+    -What will Scorpio do when they are alone
+    -Scorpio's way to be alone
+    -You know what will Scorpio do when they are alone
+    -I want to know What does Scorpio like to do alone
+    -Scorpio's way to be alone 
+    -Scorpio's way alone 
+    -Scorpio alone 
+    -Scorpio's way to be alone what
+
+- intent: The_advantages_of_Scorpio
+  examples: |
+    -The advantages of Scorpio
+    -What are the advantages of Scorpio
+    -What are the good qualities of Scorpio
+    -What are the attractions of Scorpio
+    -Excellent Scorpio
+    -Excellent_Scorpio 
+    -The_advantages_of_Scorpio 
+    -The advantages of Scorpio what
+    -I want to know the advantages of Scorpio
+    -Do you know the advantages of Scorpio 
+
+- intent: Disadvantages_of_Scorpio
+  examples: |
+    -Disadvantages of Scorpio
+    -What are the disadvantages of Scorpio
+    -What makes you hate Scorpio
+    -What are the disgusting things about Scorpio
+    -Scorpio's shortcomings
+    -Scorpio shortcomings
+    -Disadvant Scorpio 
+    -I want to know Scorpio's shortcomings 
+
+- intent: Scorpio_is_attitude_towards_work
+  examples: |
+    -Scorpio's attitude towards work
+    -How does Scorpio treat work
+    -Do you know Scorpio's work attitude
+    -I want to know how Scorpio works
+    -What's Scorpio's attitude towards work
+    -Scorpio's attitude towards work 
+    -Scorpio attitude work 
+    -Scorpio's attitude towards work what
+
+- intent: Scorpio_is_rest
+  examples: |
+    -What do Scorpio do in their spare time
+    -Scorpio how to relax
+    -Scorpio at leisure
+    -Do you know What do Scorpio do in their spare time
+    -I want to know Scorpio at leisure
+    -Scorpio at leisure 
+    -Scorpio leisure 
+    -Scorpio_at_leisure 
+
+- intent: Scorpio_is_lucky_thing
+  examples: |
+    -What lucky things do Scorpio have?
+    -Do you know What lucky things do Scorpio have
+    -I want to know What lucky things do Scorpio have
+    -How can Scorpio change his fortune
+    -What does Scorpio need to be lucky
+    -lucky things Scorpio
+    -Scorpio change fortune 
+    -lucky_things_Scorpio 
+
+- intent: Scorpio_and_friends
+  examples: |
+    -How do Scorpio treat friends
+    -What do Scorpio think of friendship
+    -How good are Scorpio to friends
+    -What's Scorpio's attitude towards friends
+    -Scorpio: how to get along with friends
+    -What do you think of Scorpio and his friends
+    -Scorpio's sincerity to friends
+    -Scorpio how to treat the friendship correctly
+
+- intent: Scorpio_notes
+  examples: |
+    -What should Scorpio pay attention to
+    -Scorpio should pay more attention to it
+    -Do you know What should Scorpio pay attention to
+    -I want to know Scorpio should pay more attention to it
+    -Tell me more about Scorpio
+    -Scorpio: what you need to watch out for
+    -Scorpio attention
+    -Scorpio_attention 
+
+- intent: Pisces_time
+  examples: |
+    -Pisces Time
+    -When is Pisces is time?
+    -I want to know the Pisces time
+    -You know what time it is in Pisces
+    -Can you tell me what time is Pisces
+    -I don't know Pisces time
+    -Is there anything you want to tell me about Pisces time
+    -Pisces_time
+    -Pisces specific time
+    -When is Pisces
+
+- intent: Before_Pisces
+  examples: |
+    -Before_Pisces
+    -Before Pisces
+    -pre-Pisces
+    -Preceding Pisces
+    -Preceding_Pisces
+    -Pisces before
+    -Pisces_before
+    -Pisces Before
+    -Pisces_Before
+    -What is the sign before Pisces?
+    -What is it before Pisces?
+    -What is before Pisces?
+    -You know what is before Pisces?
+    -You know what is the sign before Pisces?
+    -You know what is it before Pisces?
+    -Can you tell me what is before Pisces?
+    -Can you tell me what the sign before Pisces?
+    -Can you tell me what it before Pisces?
+    -I don't know what is before Pisces
+    -I don't know what is the sign before Pisces
+    -I don't know what is it before Pisces
+    -Is there anything you want to tell me about what is it before Pisces?
+    -Is there anything you want to tell me about what is the sign before Pisces?
+    -Is there anything you want to tell me about what is before Pisces?
+    -I want to know what is it before Pisces
+    -I want to know what is the sign before Pisces
+    -I want to know what is before Pisces
+
+- intent: After_Pisces
+  examples: |
+    -After_Pisces
+    -After Pisces
+    -Next_Pisces
+    -Next Pisces
+    -Pisces after
+    -Pisces_after
+    -Pisces After
+    -Pisces_After
+    -What is the sign after Pisces?
+    -What is it after Pisces?
+    -What is after Pisces?
+    -You know what is after Pisces?
+    -You know what is the sign after Pisces?
+    -You know what is it after Pisces?
+    -Can you tell me what is after Pisces?
+    -Can you tell me what the sign after Pisces?
+    -Can you tell me what it after Pisces?
+    -I don't know what is after Pisces
+    -I don't know what is the sign after Pisces
+    -I don't know what is it after Pisces
+    -Is there anything you want to tell me about what is it after Pisces?
+    -Is there anything you want to tell me about the sign after Pisces?
+    -I want to know what is it after Pisces
+    -I want to know what is the sign after Pisces
+    -I want to know what is after Pisces
+
+- intent: Hobby_Pisces
+  examples: |
+    -What are Pisces's hobbies?
+    -Hobbies_Pisces
+    -Hobbies Pisces
+    -Hobby_Pisces
+    -Hobby Pisces
+    -You know what are Pisces's hobbies?
+    -Can you tell me what are Pisces's hobbies?
+    -I don't know what are Pisces's hobbies
+    -Is there anything you want to tell me about Pisces's hobbies?
+    -I want to know what are Pisces's hobbies
+    -Pisces's hobby
+    -Pisces's hobbies
+    -Hobbies of Pisces's
+    -Hobbies about Pisces
+    -Hobby about Pisces
+
+- intent: Three_views_Pisces
+  examples: |
+    -What are Pisces's three views?
+    -Three_views_Pisces
+    -Three views Pisces
+    -Three view_Pisces
+    -You know what are Pisces's three views?
+    -Can you tell me what are Pisces's three views?
+    -I don't know what are Pisces's three views
+    -Is there anything you want to tell me about Pisces's three views?
+    -I want to know what are Pisces's three views
+    -Pisces's three view
+    -Pisces's three views
+    -Three views of Pisces's
+    -Three views about Pisces
+
+- intent: Afraid_of_Pisces
+  examples: |
+    -What are Pisces's afraid of?
+    -Afraid of_Pisces
+    -Afraid of about Pisces
+    -You know what are Pisces's afraid of?
+    -Can you tell me what are Pisces's afraid of?
+    -I don't know what are Pisces's afraid of
+    -Is there anything you want to tell me about what are Pisces's afraid of?
+    -I want to know what are Pisces's afraid of
+    -Pisces's afraid of
+    -Afraid_Pisces
+    -A Pisces afraid of
+
+- intent: Looks_Pisces
+  examples: |
+    -Pisces_looks
+    -Pisces looks
+    -Pisces_Looks
+    -Pisces Looks
+    -Looks_Pisces
+    -Looks Pisces
+    -What does a Pisces look like?
+    -You know what does a Pisces look like?
+    -Can you tell me what does a Pisces look like?
+    -I don't know what does a Pisces look like
+    -Is there anything you want to tell me about what does a Pisces look like?
+    -I want to know what does a Pisces look like
+
+
+- intent: Ability_Pisces
+  examples: |
+    -How about Pisces's ability to do things?
+    -Ability_Pisces
+    -Ability Pisces
+    -Ability of Pisces
+    -Pisces's ability
+    -You know how about Pisces's ability to do things?
+    -Can you tell me how about Pisces's ability to do things?
+    -I don't know how about Pisces's ability to do things
+    -Is there anything you want to tell me about Pisces's ability to do things?
+    -I want to know how about Pisces's ability to do things
+
+- intent: Expression_Pisces
+  examples: |
+    -How expressive is Pisces?
+    -Expression_Pisces
+    -Expression Pisces
+    -Expression of Pisces
+    -Pisces's Expression
+    -You know how expressive is Pisces?
+    -Can you tell me how expressive is Pisces?
+    -I don't know how expressive is Pisces
+    -Is there anything you want to tell me about Pisces's ability of expression?
+    -I want to know how expressive is Pisces
+    -You know how about Pisces's ability of expression?
+    -Can you tell me how about Pisces's ability of expression?
+    -I don't know how about Pisces's ability of expression
+    -I want to know how about Pisces's ability of expression
+
+- intent: Solve_Pisces
+  examples: |
+    -How does Pisces solve problems?
+    -Solve_Pisces
+    -Solve problems_Pisces
+    -Pisces solve problems
+    -You know how does Pisces solve problems?
+    -Can you tell me how does Pisces solve problems?
+    -I don't know how does Pisces solve problems
+    -Is there anything you want to tell me about how does Pisces solve problems?
+    -I want to know how does Pisces solve problems
+
+- intent: Treat_parents_Pisces
+  examples: |
+    -How does Pisces treat their parents?
+    -Treat parents_Pisces
+    -Treat parents Pisces
+    -Pisces treat parents
+    -You know how does Pisces treat their parents?
+    -Can you tell me how does Pisces treat their parents?
+    -I don't know how does Pisces treat their parents
+    -Is there anything you want to tell me about how does Pisces treat their parents?
+    -I want to know how does Pisces treat their parents
+
+
+- intent: Treat_children_Pisces
+  examples: |
+    -How does Pisces treat children?
+    -Treat children_Pisces
+    -Treat children Pisces
+    -Pisces treat children
+    -You know how does Pisces treat children?
+    -Can you tell me how does Pisces treat children?
+    -I don't know how does Pisces treat children
+    -Is there anything you want to tell me about how does Pisces treat children?
+    -I want to know how does Pisces treat children
+
+- intent: Fortune_Pisces
+  examples: |
+    -How is Pisces in fortune this year
+    -Fortune_Pisces
+    -Fortune Pisces
+    -Pisces's fortune
+    -You know how is Pisces in fortune this year?
+    -Can you tell me how is Pisces in fortune this year?
+    -I don't know how is Pisces in fortune this year
+    -Is there anything you want to tell me about how is Pisces in fortune this year?
+    -I want to know how is Pisces in fortune this year
+
+- intent: Pisces_man_is_character
+  examples: |
+    -Pisces man's character
+    -What is Pisces man's character?
+    -I want to know the Pisces man's character
+    -What's Pisces man's character like
+    -You know what character it is in Pisces man
+    -What do you think of Pisces man's character
+    -Is there anything you want to tell me about Pisces man's character
+
+- intent: Pisces_personality
+  examples: |
+    -Pisces personality
+    -What is Pisces personality?
+    -I want to know the Pisces personality
+    -What's Pisces personality like
+    -You know what personality it is in Pisces
+    -What do you think of Pisces personality
+    -Is there anything you want to tell me about Pisces personality
+
+- intent: Pisces_woman_is_character
+  examples: |
+    -Pisces woman's character
+    -What is Pisces woman's character?
+    -I want to know the Pisces woman's character
+    -What's Pisces woman's character like
+    -You know what character it is in Pisces woman
+    -What do you think of Pisces woman's character
+    -Is there anything you want to tell me about Pisces woman's character
+
+- intent: Get_along_with_Pisces
+  examples: |
+    -How to get along with Pisces
+    -Eight don't's with Pisces
+    -Good for you and Pisces
+    -What should you pay attention to when you are with Pisces
+    -How to communicate with Pisces
+    -Get_along_with_Pisces 
+    -Get  along  with  Pisces 
+
+
+- intent: Different_Pisces
+  examples: |
+    -What's the difference between Pisces and other constellations
+    -What's unique about Pisces
+    -Pisces's special
+    -the difference between Pisces and other constellations
+    -Different Pisces
+    -Different_Pisces
+    -Different in Pisces
+    -Pisces_ Different
+
+- intent: Pisces_alone
+  examples: |
+    -What does Pisces like to do alone
+    -What will Pisces do when they are alone
+    -Pisces's way to be alone
+    -You know what will Pisces do when they are alone
+    -I want to know What does Pisces like to do alone
+    -Pisces's way to be alone
+    -Pisces alone 
+    -Pisces-alone 
+
+
+- intent: The_advantages_of_Pisces
+  examples: |
+    -The advantages of Pisces
+    -What are the advantages of Pisces
+    -What are the good qualities of Pisces
+    -What are the attractions of Pisces
+    -Excellent Pisces
+    -The_advantages_of_ Pisces
+    -Pisces advantages 
+
+
+- intent: Disadvantages_of_Pisces
+  examples: |
+    -Disadvantages of Pisces
+    -What are the disadvantages of Pisces
+    -What makes you hate Pisces
+    -What are the disgusting things about Pisces
+    -Pisces's shortcomings
+    -Disadvantages_of_ Pisces
+    - Pisces Disadvantages
+
+- intent: Pisces_is_attitude_towards_work
+  examples: |
+    -Pisces's attitude towards work
+    -How does Pisces treat work
+    -Do you know Pisces's work attitude
+    -I want to know how Pisces works
+    -What's Pisces's attitude towards work
+    -Pisces's_attitude_towards_work
+    -Pisces work attitude 
+
+
+- intent: Pisces_is_rest
+  examples: |
+    -What do Pisces do in their spare time
+    -Pisces how to relax
+    -Pisces at leisure
+    -Do you know What do Pisces do in their spare time
+    -I want to know Pisces at leisure
+    -Pisces at leisure
+    -Pisces is rest
+
+- intent: Pisces_is_lucky_thing
+  examples: |
+    -What lucky things do Pisces have?
+    -Do you know What lucky things do Pisces have
+    -I want to know What lucky things do Pisces have
+    -How can Pisces change his fortune
+    -What does Pisces need to be lucky
+    -Pisces lucky thing
+    -Pisces_luck
+
+- intent: Pisces_and_friends
+  examples: |
+    -How do Pisces treat friends
+    -What do Pisces think of friendship
+    -How good are Pisces to friends
+    -What's Pisces's attitude towards friends
+    -Pisces: how to get along with friends
+    -What do you think of Pisces and his friends
+    -Pisces's sincerity to friends
+    -Pisces how to treat the friendship correctly
+
+- intent: Pisces_notes
+  examples: |
+    -What should Pisces pay attention to
+    -Pisces should pay more attention to it
+    -Do you know What should Pisces pay attention to
+    -I want to know Pisces should pay more attention to it
+    -Tell me more about Pisces
+    -Pisces: what you need to watch out for
+    -Pisces_notes 
+
+- intent: Libra_time
+  examples: |
+    -Libra Time
+    -When is Libra is time?
+    -I want to know the Libra time
+    -You know what time it is in Libra
+    -Can you tell me what time is Libra
+    -I don't know Libra time
+    -Is there anything you want to tell me about Libra time
+    -Libra_time
+    -Libra specific time
+    -When is Libra
+
+- intent: Before_Libra
+  examples: |
+    -Before_Libra
+    -Before Libra
+    -pre-Libra
+    -Preceding Libra
+    -Preceding_Libra
+    -Libra before
+    -Libra_before
+    -Libra Before
+    -Libra_Before
+    -What is the sign before Libra?
+    -What is it before Libra?
+    -What is before Libra?
+    -You know what is before Libra?
+    -You know what is the sign before Libra?
+    -You know what is it before Libra?
+    -Can you tell me what is before Libra?
+    -Can you tell me what the sign before Libra?
+    -Can you tell me what it before Libra?
+    -I don't know what is before Libra
+    -I don't know what is the sign before Libra
+    -I don't know what is it before Libra
+    -Is there anything you want to tell me about what is it before Libra?
+    -Is there anything you want to tell me about what is the sign before Libra?
+    -Is there anything you want to tell me about what is before Libra?
+    -I want to know what is it before Libra
+    -I want to know what is the sign before Libra
+    -I want to know what is before Libra
+
+- intent: After_Libra
+  examples: |
+    -After_Libra
+    -After Libra
+    -Next_Libra
+    -Next Libra
+    -Libra after
+    -Libra_after
+    -Libra After
+    -Libra_After
+    -What is the sign after Libra?
+    -What is it after Libra?
+    -What is after Libra?
+    -You know what is after Libra?
+    -You know what is the sign after Libra?
+    -You know what is it after Libra?
+    -Can you tell me what is after Libra?
+    -Can you tell me what the sign after Libra?
+    -Can you tell me what it after Libra?
+    -I don't know what is after Libra
+    -I don't know what is the sign after Libra
+    -I don't know what is it after Libra
+    -Is there anything you want to tell me about what is it after Libra?
+    -Is there anything you want to tell me about the sign after Libra?
+    -I want to know what is it after Libra
+    -I want to know what is the sign after Libra
+    -I want to know what is after Libra
+
+- intent: Hobby_Libra
+  examples: |
+    -What are Libra's hobbies?
+    -Hobbies_Libra
+    -Hobbies Libra
+    -Hobby_Libra
+    -Hobby Libra
+    -You know what are Libra's hobbies?
+    -Can you tell me what are Libra's hobbies?
+    -I don't know what are Libra's hobbies
+    -Is there anything you want to tell me about Libra's hobbies?
+    -I want to know what are Libra's hobbies
+    -Libra's hobby
+    -Libra's hobbies
+    -Hobbies of Libra's
+    -Hobbies about Libra
+    -Hobby about Libra
+
+- intent: Three_views_Libra
+  examples: |
+    -What are Libra's three views?
+    -Three_views_Libra
+    -Three views Libra
+    -Three view_Libra
+    -You know what are Libra's three views?
+    -Can you tell me what are Libra's three views?
+    -I don't know what are Libra's three views
+    -Is there anything you want to tell me about Libra's three views?
+    -I want to know what are Libra's three views
+    -Libra's three view
+    -Libra's three views
+    -Three views of Libra's
+    -Three views about Libra
+
+- intent: Afraid_of_Libra
+  examples: |
+    -What are Libra's afraid of?
+    -Afraid of_Libra
+    -Afraid of about Libra
+    -You know what are Libra's afraid of?
+    -Can you tell me what are Libra's afraid of?
+    -I don't know what are Libra's afraid of
+    -Is there anything you want to tell me about what are Libra's afraid of?
+    -I want to know what are Libra's afraid of
+    -Libra's afraid of
+    -Afraid_Libra
+    -A Libra afraid of
+
+- intent: Looks_Libra
+  examples: |
+    -Libra_looks
+    -Libra looks
+    -Libra_Looks
+    -Libra Looks
+    -Looks_Libra
+    -Looks Libra
+    -What does a Libra look like?
+    -You know what does a Libra look like?
+    -Can you tell me what does a Libra look like?
+    -I don't know what does a Libra look like
+    -Is there anything you want to tell me about what does a Libra look like?
+    -I want to know what does a Libra look like
+
+- intent: Ability_Libra
+  examples: |
+    -How about Libra's ability to do things?
+    -Ability_Libra
+    -Ability Libra
+    -Ability of Libra
+    -Libra's ability
+    -You know how about Libra's ability to do things?
+    -Can you tell me how about Libra's ability to do things?
+    -I don't know how about Libra's ability to do things
+    -Is there anything you want to tell me about Libra's ability to do things?
+    -I want to know how about Libra's ability to do things
+
+- intent: Expression_Libra
+  examples: |
+    -How expressive is Libra?
+    -Expression_Libra
+    -Expression Libra
+    -Expression of Libra
+    -Libra's Expression
+    -You know how expressive is Libra?
+    -Can you tell me how expressive is Libra?
+    -I don't know how expressive is Libra
+    -Is there anything you want to tell me about Libra's ability of expression?
+    -I want to know how expressive is Libra
+    -You know how about Libra's ability of expression?
+    -Can you tell me how about Libra's ability of expression?
+    -I don't know how about Libra's ability of expression
+    -I want to know how about Libra's ability of expression
+
+- intent: Solve_Libra
+  examples: |
+    -How does Libra solve problems?
+    -Solve_Libra
+    -Solve problems_Libra
+    -Libra solve problems
+    -You know how does Libra solve problems?
+    -Can you tell me how does Libra solve problems?
+    -I don't know how does Libra solve problems
+    -Is there anything you want to tell me about how does Libra solve problems?
+    -I want to know how does Libra solve problems
+
+- intent: Treat_parents_Libra
+  examples: |
+    -How does Libra treat their parents?
+    -Treat parents_Libra
+    -Treat parents Libra
+    -Libra treat parents
+    -You know how does Libra treat their parents?
+    -Can you tell me how does Libra treat their parents?
+    -I don't know how does Libra treat their parents
+    -Is there anything you want to tell me about how does Libra treat their parents?
+    -I want to know how does Libra treat their parents
+
+
+- intent: Treat_children_Libra
+  examples: |
+    -How does Libra treat children?
+    -Treat children_Libra
+    -Treat children Libra
+    -Libra treat children
+    -You know how does Libra treat children?
+    -Can you tell me how does Libra treat children?
+    -I don't know how does Libra treat children
+    -Is there anything you want to tell me about how does Libra treat children?
+    -I want to know how does Libra treat children
+
+- intent: Fortune_Libra
+  examples: |
+    -How is Libra in fortune this year
+    -Fortune_Libra
+    -Fortune Libra
+    -Libra's fortune
+    -You know how is Libra in fortune this year?
+    -Can you tell me how is Libra in fortune this year?
+    -I don't know how is Libra in fortune this year
+    -Is there anything you want to tell me about how is Libra in fortune this year?
+    -I want to know how is Libra in fortune this year
+
+
+- intent: Libra_man_is_character
+  examples: |
+    -Libra man's character
+    -What is Libra man's character?
+    -I want to know the Libra man's character
+    -What's Libra man's character like
+    -You know what character it is in Libra man
+    -What do you think of Libra man's character
+    -Is there anything you want to tell me about Libra man's character
+
+- intent: Libra_personality
+  examples: |
+    -Libra personality
+    -What is Libra personality?
+    -I want to know the Libra personality
+    -What's Libra personality like
+    -You know what personality it is in Libra
+    -What do you think of Libra personality
+    -Is there anything you want to tell me about Libra personality
+
+- intent: Libra_woman_is_character
+  examples: |
+    -Libra woman's character
+    -What is Libra woman's character?
+    -I want to know the Libra woman's character
+    -What's Libra woman's character like
+    -You know what character it is in Libra woman
+    -What do you think of Libra woman's character
+    -Is there anything you want to tell me about Libra woman's character
+
+- intent: Get_along_with_Libra
+  examples: |
+    -How to get along with Libra
+    -Eight don't's with Libra
+    -Good for you and Libra
+    -What should you pay attention to when you are with Libra
+    -How to communicate with Libra
+    -Get_along_with_Libra
+    -Get along with Libra
+    -Get_along_with_Libra how
+
+- intent: Different_Libra
+  examples: |
+    -What's the difference between Libra and other constellations
+    -What's unique about Libra
+    -Libra's special
+    -the difference between Libra and other constellations
+    -Different Libra
+    -Libra's_special
+    -the difference Libra
+
+- intent: Libra_alone
+  examples: |
+    -What does Libra like to do alone
+    -What will Libra do when they are alone
+    -Libra's way to be alone
+    -You know what will Libra do when they are alone
+    -I want to know What does Libra like to do alone
+    -Libra_alone
+    -Libra's way to be alone 
+    -Libra's way alone  
+
+
+- intent: The_advantages_of_Libra
+  examples: |
+    -The advantages of Libra
+    -What are the advantages of Libra
+    -What are the good qualities of Libra
+    -What are the attractions of Libra
+    -Excellent Libra
+    -Excellent_Libra
+    -Excellent  Libra
+    -Libra Excellent 
+
+- intent: Disadvantages_of_Libra
+  examples: |
+    -Disadvantages of Libra
+    -What are the disadvantages of Libra
+    -What makes you hate Libra
+    -What are the disgusting things about Libra
+    -Libra's shortcomings
+    -Disadvantages_Libra
+    -Libra Disadvantages
+
+- intent: Libra_is_attitude_towards_work
+  examples: |
+    -Libra's attitude towards work
+    -How does Libra treat work
+    -Do you know Libra's work attitude
+    -I want to know how Libra works
+    -What's Libra's attitude towards work
+    -Libra treat work
+    -How Libra works 
+
+- intent: Libra_is_rest
+  examples: |
+    -What do Libra do in their spare time
+    -Libra how to relax
+    -Libra at leisure
+    -Do you know What do Libra do in their spare time
+    -I want to know Libra at leisure
+    -Libra do what their spare time
+    -Libra is rest 
+    -Libra_is_rest 
+
+
+- intent: Libra_is_lucky_thing
+  examples: |
+    -What lucky things do Libra have?
+    -Do you know What lucky things do Libra have
+    -I want to know What lucky things do Libra have
+    -How can Libra change his fortune
+    -What does Libra need to be lucky
+    -Libra lucky
+    -Libra_luck
+
+- intent: Libra_and_friends
+  examples: |
+    -How do Libra treat friends
+    -What do Libra think of friendship
+    -How good are Libra to friends
+    -What's Libra's attitude towards friends
+    -Libra: how to get along with friends
+    -What do you think of Libra and his friends
+    -Libra's sincerity to friends
+    -Libra how to treat the friendship correctly
+
+- intent: Libra_notes
+  examples: |
+    -What should Libra pay attention to
+    -Libra should pay more attention to it
+    -Do you know What should Libra pay attention to
+    -I want to know Libra should pay more attention to it
+    -Tell me more about Libra
+    -Libra: what you need to watch out for
+    -Libra notes 
+
+
+- intent: Aquarius_time
+  examples: |
+    -Aquarius Time
+    -When is Aquarius is time?
+    -I want to know the Aquarius time
+    -You know what time it is in Aquarius
+    -Can you tell me what time is Aquarius
+    -I don't know Aquarius time
+    -Is there anything you want to tell me about Aquarius time
+    -Aquarius_time
+    -Aquarius specific time
+    -When is Aquarius
+
+- intent: Before_Aquarius
+  examples: |
+    -Before_Aquarius
+    -Before Aquarius
+    -pre-Aquarius
+    -Preceding Aquarius
+    -Preceding_Aquarius
+    -Aquarius before
+    -Aquarius_before
+    -Aquarius Before
+    -Aquarius_Before
+    -What is the sign before Aquarius?
+    -What is it before Aquarius?
+    -What is before Aquarius?
+    -You know what is before Aquarius?
+    -You know what is the sign before Aquarius?
+    -You know what is it before Aquarius?
+    -Can you tell me what is before Aquarius?
+    -Can you tell me what the sign before Aquarius?
+    -Can you tell me what it before Aquarius?
+    -I don't know what is before Aquarius
+    -I don't know what is the sign before Aquarius
+    -I don't know what is it before Aquarius
+    -Is there anything you want to tell me about what is it before Aquarius?
+    -Is there anything you want to tell me about what is the sign before Aquarius?
+    -Is there anything you want to tell me about what is before Aquarius?
+    -I want to know what is it before Aquarius
+    -I want to know what is the sign before Aquarius
+    -I want to know what is before Aquarius
+
+- intent: After_Aquarius
+  examples: |
+    -After_Aquarius
+    -After Aquarius
+    -Next_Aquarius
+    -Next Aquarius
+    -Aquarius after
+    -Aquarius_after
+    -Aquarius After
+    -Aquarius_After
+    -What is the sign after Aquarius?
+    -What is it after Aquarius?
+    -What is after Aquarius?
+    -You know what is after Aquarius?
+    -You know what is the sign after Aquarius?
+    -You know what is it after Aquarius?
+    -Can you tell me what is after Aquarius?
+    -Can you tell me what the sign after Aquarius?
+    -Can you tell me what it after Aquarius?
+    -I don't know what is after Aquarius
+    -I don't know what is the sign after Aquarius
+    -I don't know what is it after Aquarius
+    -Is there anything you want to tell me about what is it after Aquarius?
+    -Is there anything you want to tell me about the sign after Aquarius?
+    -I want to know what is it after Aquarius
+    -I want to know what is the sign after Aquarius
+    -I want to know what is after Aquarius
+
+- intent: Hobby_Aquarius
+  examples: |
+    -What are Aquarius's hobbies?
+    -Hobbies_Aquarius
+    -Hobbies Aquarius
+    -Hobby_Aquarius
+    -Hobby Aquarius
+    -You know what are Aquarius's hobbies?
+    -Can you tell me what are Aquarius's hobbies?
+    -I don't know what are Aquarius's hobbies
+    -Is there anything you want to tell me about Aquarius's hobbies?
+    -I want to know what are Aquarius's hobbies
+    -Aquarius's hobby
+    -Aquarius's hobbies
+    -Hobbies of Aquarius's
+    -Hobbies about Aquarius
+    -Hobby about Aquarius
+
+- intent: Three_views_Aquarius
+  examples: |
+    -What are Aquarius's three views?
+    -Three_views_Aquarius
+    -Three views Aquarius
+    -Three view_Aquarius
+    -You know what are Aquarius's three views?
+    -Can you tell me what are Aquarius's three views?
+    -I don't know what are Aquarius's three views
+    -Is there anything you want to tell me about Aquarius's three views?
+    -I want to know what are Aquarius's three views
+    -Aquarius's three view
+    -Aquarius's three views
+    -Three views of Aquarius's
+    -Three views about Aquarius
+
+- intent: Afraid_of_Aquarius
+  examples: |
+    -What are Aquarius's afraid of?
+    -Afraid of_Aquarius
+    -Afraid of about Aquarius
+    -You know what are Aquarius's afraid of?
+    -Can you tell me what are Aquarius's afraid of?
+    -I don't know what are Aquarius's afraid of
+    -Is there anything you want to tell me about what are Aquarius's afraid of?
+    -I want to know what are Aquarius's afraid of
+    -Aquarius's afraid of
+    -Afraid_Aquarius
+    -A Aquarius afraid of
+
+
+- intent: Looks_Aquarius
+  examples: |
+    -Aquarius_looks
+    -Aquarius looks
+    -Aquarius_Looks
+    -Aquarius Looks
+    -Looks_Aquarius
+    -Looks Aquarius
+    -What does a Aquarius look like?
+    -You know what does a Aquarius look like?
+    -Can you tell me what does a Aquarius look like?
+    -I don't know what does a Aquarius look like
+    -Is there anything you want to tell me about what does a Aquarius look like?
+    -I want to know what does a Aquarius look like
+
+- intent: Ability_Aquarius
+  examples: |
+    -How about Aquarius's ability to do things?
+    -Ability_Aquarius
+    -Ability Aquarius
+    -Ability of Aquarius
+    -Aquarius's ability
+    -You know how about Aquarius's ability to do things?
+    -Can you tell me how about Aquarius's ability to do things?
+    -I don't know how about Aquarius's ability to do things
+    -Is there anything you want to tell me about Aquarius's ability to do things?
+    -I want to know how about Aquarius's ability to do things
+
+- intent: Expression_Aquarius
+  examples: |
+    -How expressive is Aquarius?
+    -Expression_Aquarius
+    -Expression Aquarius
+    -Expression of Aquarius
+    -Aquarius's Expression
+    -You know how expressive is Aquarius?
+    -Can you tell me how expressive is Aquarius?
+    -I don't know how expressive is Aquarius
+    -Is there anything you want to tell me about Aquarius's ability of expression?
+    -I want to know how expressive is Aquarius
+    -You know how about Aquarius's ability of expression?
+    -Can you tell me how about Aquarius's ability of expression?
+    -I don't know how about Aquarius's ability of expression
+    -I want to know how about Aquarius's ability of expression
+
+- intent: Solve_Aquarius
+  examples: |
+    -How does Aquarius solve problems?
+    -Solve_Aquarius
+    -Solve problems_Aquarius
+    -Aquarius solve problems
+    -You know how does Aquarius solve problems?
+    -Can you tell me how does Aquarius solve problems?
+    -I don't know how does Aquarius solve problems
+    -Is there anything you want to tell me about how does Aquarius solve problems?
+    -I want to know how does Aquarius solve problems
+
+- intent: Treat_parents_Aquarius
+  examples: |
+    -How does Aquarius treat their parents?
+    -Treat parents_Aquarius
+    -Treat parents Aquarius
+    -Aquarius treat parents
+    -You know how does Aquarius treat their parents?
+    -Can you tell me how does Aquarius treat their parents?
+    -I don't know how does Aquarius treat their parents
+    -Is there anything you want to tell me about how does Aquarius treat their parents?
+    -I want to know how does Aquarius treat their parents
+
+- intent: Treat_children_Aquarius
+  examples: |
+    -How does Aquarius treat children?
+    -Treat children_Aquarius
+    -Treat children Aquarius
+    -Aquarius treat children
+    -You know how does Aquarius treat children?
+    -Can you tell me how does Aquarius treat children?
+    -I don't know how does Aquarius treat children
+    -Is there anything you want to tell me about how does Aquarius treat children?
+    -I want to know how does Aquarius treat children
+
+- intent: Fortune_Aquarius
+  examples: |
+    -How is Aquarius in fortune this year
+    -Fortune_Aquarius
+    -Fortune Aquarius
+    -Aquarius's fortune
+    -You know how is Aquarius in fortune this year?
+    -Can you tell me how is Aquarius in fortune this year?
+    -I don't know how is Aquarius in fortune this year
+    -Is there anything you want to tell me about how is Aquarius in fortune this year?
+    -I want to know how is Aquarius in fortune this year
+
+- intent: Aquarius_man_is_character
+  examples: |
+    -Aquarius man's character
+    -What is Aquarius man's character?
+    -I want to know the Aquarius man's character
+    -What's Aquarius man's character like
+    -You know what character it is in Aquarius man
+    -What do you think of Aquarius man's character
+    -Is there anything you want to tell me about Aquarius man's character
+
+- intent: Aquarius_personality
+  examples: |
+    -Aquarius personality
+    -What is Aquarius personality?
+    -I want to know the Aquarius personality
+    -What's Aquarius personality like
+    -You know what personality it is in Aquarius
+    -What do you think of Aquarius personality
+    -Is there anything you want to tell me about Aquarius personality
+
+- intent: Aquarius_woman_is_character
+  examples: |
+    -Aquarius woman's character
+    -What is Aquarius woman's character?
+    -I want to know the Aquarius woman's character
+    -What's Aquarius woman's character like
+    -You know what character it is in Aquarius woman
+    -What do you think of Aquarius woman's character
+    -Is there anything you want to tell me about Aquarius woman's character
+
+- intent: Get_along_with_Aquarius
+  examples: |
+    -How to get along with Aquarius
+    -Eight don't's with Aquarius
+    -Good for you and Aquarius
+    -What should you pay attention to when you are with Aquarius
+    -How to communicate with Aquarius
+
+- intent: Different_Aquarius
+  examples: |
+    -What's the difference between Aquarius and other constellations
+    -What's unique about Aquarius
+    -Aquarius's special
+    -the difference between Aquarius and other constellations
+    -Different Aquarius
+
+- intent: Aquarius_alone
+  examples: |
+    -What does Aquarius like to do alone
+    -What will Aquarius do when they are alone
+    -Aquarius's way to be alone
+    -You know what will Aquarius do when they are alone
+    -I want to know What does Aquarius like to do alone
+
+- intent: The_advantages_of_Aquarius
+  examples: |
+    -The advantages of Aquarius
+    -What are the advantages of Aquarius
+    -What are the good qualities of Aquarius
+    -What are the attractions of Aquarius
+    -Excellent Aquarius
+
+- intent: Disadvantages_of_Aquarius
+  examples: |
+    -Disadvantages of Aquarius
+    -What are the disadvantages of Aquarius
+    -What makes you hate Aquarius
+    -What are the disgusting things about Aquarius
+    -Aquarius's shortcomings
+
+- intent: Aquarius_is_attitude_towards_work
+  examples: |
+    -Aquarius's attitude towards work
+    -How does Aquarius treat work
+    -Do you know Aquarius's work attitude
+    -I want to know how Aquarius works
+    -What's Aquarius's attitude towards work
+
+- intent: Aquarius_is_rest
+  examples: |
+    -What do Aquarius do in their spare time
+    -Aquarius how to relax
+    -Aquarius at leisure
+    -Do you know What do Aquarius do in their spare time
+    -I want to know Aquarius at leisure
+
+- intent: Aquarius_is_lucky_thing
+  examples: |
+    -What lucky things do Aquarius have?
+    -Do you know What lucky things do Aquarius have
+    -I want to know What lucky things do Aquarius have
+    -How can Aquarius change his fortune
+    -What does Aquarius need to be lucky
+
+- intent: Aquarius_and_friends
+  examples: |
+    -How do Aquarius treat friends
+    -What do Aquarius think of friendship
+    -How good are Aquarius to friends
+    -What's Aquarius's attitude towards friends
+    -Aquarius: how to get along with friends
+    -What do you think of Aquarius and his friends
+    -Aquarius's sincerity to friends
+    -Aquarius how to treat the friendship correctly
+
+- intent: Aquarius_notes
+  examples: |
+    -What should Aquarius pay attention to
+    -Aquarius should pay more attention to it
+    -Do you know What should Aquarius pay attention to
+    -I want to know Aquarius should pay more attention to it
+    -Tell me more about Aquarius
+    -Aquarius: what you need to watch out for
+
+
+- intent: Gemini_time
+  examples: |
+    -Gemini Time
+    -When is Gemini is time?
+    -I want to know the Gemini time
+    -You know what time it is in Gemini
+    -Can you tell me what time is Gemini
+    -I don't know Gemini time
+    -Is there anything you want to tell me about Gemini time
+    -Gemini_time
+    -Gemini specific time
+    -When is Gemini
+
+- intent: Before_Gemini
+  examples: |
+    -Before_Gemini
+    -Before Gemini
+    -pre-Gemini
+    -Preceding Gemini
+    -Preceding_Gemini
+    -Gemini before
+    -Gemini_before
+    -Gemini Before
+    -Gemini_Before
+    -What is the sign before Gemini?
+    -What is it before Gemini?
+    -What is before Gemini?
+    -You know what is before Gemini?
+    -You know what is the sign before Gemini?
+    -You know what is it before Gemini?
+    -Can you tell me what is before Gemini?
+    -Can you tell me what the sign before Gemini?
+    -Can you tell me what it before Gemini?
+    -I don't know what is before Gemini
+    -I don't know what is the sign before Gemini
+    -I don't know what is it before Gemini
+    -Is there anything you want to tell me about what is it before Gemini?
+    -Is there anything you want to tell me about what is the sign before Gemini?
+    -Is there anything you want to tell me about what is before Gemini?
+    -I want to know what is it before Gemini
+    -I want to know what is the sign before Gemini
+    -I want to know what is before Gemini
+
+- intent: After_Gemini
+  examples: |
+    -After_Gemini
+    -After Gemini
+    -Next_Gemini
+    -Next Gemini
+    -Gemini after
+    -Gemini_after
+    -Gemini After
+    -Gemini_After
+    -What is the sign after Gemini?
+    -What is it after Gemini?
+    -What is after Gemini?
+    -You know what is after Gemini?
+    -You know what is the sign after Gemini?
+    -You know what is it after Gemini?
+    -Can you tell me what is after Gemini?
+    -Can you tell me what the sign after Gemini?
+    -Can you tell me what it after Gemini?
+    -I don't know what is after Gemini
+    -I don't know what is the sign after Gemini
+    -I don't know what is it after Gemini
+    -Is there anything you want to tell me about what is it after Gemini?
+    -Is there anything you want to tell me about the sign after Gemini?
+    -I want to know what is it after Gemini
+    -I want to know what is the sign after Gemini
+    -I want to know what is after Gemini
+
+- intent: Hobby_Gemini
+  examples: |
+    -What are Gemini's hobbies?
+    -Hobbies_Gemini
+    -Hobbies Gemini
+    -Hobby_Gemini
+    -Hobby Gemini
+    -You know what are Gemini's hobbies?
+    -Can you tell me what are Gemini's hobbies?
+    -I don't know what are Gemini's hobbies
+    -Is there anything you want to tell me about Gemini's hobbies?
+    -I want to know what are Gemini's hobbies
+    -Gemini's hobby
+    -Gemini's hobbies
+    -Hobbies of Gemini's
+    -Hobbies about Gemini
+    -Hobby about Gemini
+
+- intent: Three_views_Gemini
+  examples: |
+    -What are Gemini's three views?
+    -Three_views_Gemini
+    -Three views Gemini
+    -Three view_Gemini
+    -You know what are Gemini's three views?
+    -Can you tell me what are Gemini's three views?
+    -I don't know what are Gemini's three views
+    -Is there anything you want to tell me about Gemini's three views?
+    -I want to know what are Gemini's three views
+    -Gemini's three view
+    -Gemini's three views
+    -Three views of Gemini's
+    -Three views about Gemini
+
+- intent: Afraid_of_Gemini
+  examples: |
+    -What are Gemini's afraid of?
+    -Afraid of_Gemini
+    -Afraid of about Gemini
+    -You know what are Gemini's afraid of?
+    -Can you tell me what are Gemini's afraid of?
+    -I don't know what are Gemini's afraid of
+    -Is there anything you want to tell me about what are Gemini's afraid of?
+    -I want to know what are Gemini's afraid of
+    -Gemini's afraid of
+    -Afraid_Gemini
+    -A Gemini afraid of
+
+- intent: Looks_Gemini
+  examples: |
+    -Gemini_looks
+    -Gemini looks
+    -Gemini_Looks
+    -Gemini Looks
+    -Looks_Gemini
+    -Looks Gemini
+    -What does a Gemini look like?
+    -You know what does a Gemini look like?
+    -Can you tell me what does a Gemini look like?
+    -I don't know what does a Gemini look like
+    -Is there anything you want to tell me about what does a Gemini look like?
+    -I want to know what does a Gemini look like
+
+- intent: Ability_Gemini
+  examples: |
+    -How about Gemini's ability to do things?
+    -Ability_Gemini
+    -Ability Gemini
+    -Ability of Gemini
+    -Gemini's ability
+    -You know how about Gemini's ability to do things?
+    -Can you tell me how about Gemini's ability to do things?
+    -I don't know how about Gemini's ability to do things
+    -Is there anything you want to tell me about Gemini's ability to do things?
+    -I want to know how about Gemini's ability to do things
+
+- intent: Expression_Gemini
+  examples: |
+    -How expressive is Gemini?
+    -Expression_Gemini
+    -Expression Gemini
+    -Expression of Gemini
+    -Gemini's Expression
+    -You know how expressive is Gemini?
+    -Can you tell me how expressive is Gemini?
+    -I don't know how expressive is Gemini
+    -Is there anything you want to tell me about Gemini's ability of expression?
+    -I want to know how expressive is Gemini
+    -You know how about Gemini's ability of expression?
+    -Can you tell me how about Gemini's ability of expression?
+    -I don't know how about Gemini's ability of expression
+    -I want to know how about Gemini's ability of expression
+
+- intent: Solve_Gemini
+  examples: |
+    -How does Gemini solve problems?
+    -Solve_Gemini
+    -Solve problems_Gemini
+    -Gemini solve problems
+    -You know how does Gemini solve problems?
+    -Can you tell me how does Gemini solve problems?
+    -I don't know how does Gemini solve problems
+    -Is there anything you want to tell me about how does Gemini solve problems?
+    -I want to know how does Gemini solve problems
+
+- intent: Treat_parents_Gemini
+  examples: |
+    -How does Gemini treat their parents?
+    -Treat parents_Gemini
+    -Treat parents Gemini
+    -Gemini treat parents
+    -You know how does Gemini treat their parents?
+    -Can you tell me how does Gemini treat their parents?
+    -I don't know how does Gemini treat their parents
+    -Is there anything you want to tell me about how does Gemini treat their parents?
+    -I want to know how does Gemini treat their parents
+
+- intent: Treat_children_Gemini
+  examples: |
+    -How does Gemini treat children?
+    -Treat children_Gemini
+    -Treat children Gemini
+    -Gemini treat children
+    -You know how does Gemini treat children?
+    -Can you tell me how does Gemini treat children?
+    -I don't know how does Gemini treat children
+    -Is there anything you want to tell me about how does Gemini treat children?
+    -I want to know how does Gemini treat children
+
+- intent: Fortune_Gemini
+  examples: |
+    -How is Gemini in fortune this year
+    -Fortune_Gemini
+    -Fortune Gemini
+    -Gemini's fortune
+    -You know how is Gemini in fortune this year?
+    -Can you tell me how is Gemini in fortune this year?
+    -I don't know how is Gemini in fortune this year
+    -Is there anything you want to tell me about how is Gemini in fortune this year?
+    -I want to know how is Gemini in fortune this year
+
+- intent: Gemini_man_is_character
+  examples: |
+    -Gemini man's character
+    -What is Gemini man's character?
+    -I want to know the Gemini man's character
+    -What's Gemini man's character like
+    -You know what character it is in Gemini man
+    -What do you think of Gemini man's character
+    -Is there anything you want to tell me about Gemini man's character
+
+- intent: Gemini_personality
+  examples: |
+    -Gemini personality
+    -What is Gemini personality?
+    -I want to know the Gemini personality
+    -What's Gemini personality like
+    -You know what personality it is in Gemini
+    -What do you think of Gemini personality
+    -Is there anything you want to tell me about Gemini personality
+
+- intent: Gemini_woman_is_character
+  examples: |
+    -Gemini woman's character
+    -What is Gemini woman's character?
+    -I want to know the Gemini woman's character
+    -What's Gemini woman's character like
+    -You know what character it is in Gemini woman
+    -What do you think of Gemini woman's character
+    -Is there anything you want to tell me about Gemini woman's character
+
+- intent: Get_along_with_Gemini
+  examples: |
+    -How to get along with Gemini
+    -Eight don't's with Gemini
+    -Good for you and Gemini
+    -What should you pay attention to when you are with Gemini
+    -How to communicate with Gemini
+    -communicate with Gemini 
+    -communicate Gemini 
+
+- intent: Different_Gemini
+  examples: |
+    -What's the difference between Gemini and other constellations
+    -What's unique about Gemini
+    -Gemini's special
+    -the difference between Gemini and other constellations
+    -Different Gemini
+    -Different Gemini what 
+    -Different Gemini where
+
+- intent: Gemini_alone
+  examples: |
+    -What does Gemini like to do alone
+    -What will Gemini do when they are alone
+    -Gemini's way to be alone
+    -You know what will Gemini do when they are alone
+    -I want to know What does Gemini like to do alone
+    -Gemini_alone
+    -Gemini alone
+
+- intent: The_advantages_of_Gemini
+  examples: |
+    -The advantages of Gemini
+    -What are the advantages of Gemini
+    -What are the good qualities of Gemini
+    -What are the attractions of Gemini
+    -Excellent Gemini
+    -The_advantages_of_Gemini
+    -The advantages of Gemini
+ 
+- intent: Disadvantages_of_Gemini
+  examples: |
+    -Disadvantages of Gemini
+    -What are the disadvantages of Gemini
+    -What makes you hate Gemini
+    -What are the disgusting things about Gemini
+    -Gemini's shortcomings
+    -Disadvantages_of_Gemini
+    -Gemini Disadvantages 
+
+- intent: Gemini_is_attitude_towards_work
+  examples: |
+    -Gemini's attitude towards work
+    -How does Gemini treat work
+    -Do you know Gemini's work attitude
+    -I want to know how Gemini works
+    -What's Gemini's attitude towards work
+    -Gemini's attitude towards work
+    -Gemini's_attitude_towards_work
+
+- intent: Gemini_is_rest
+  examples: |
+    -What do Gemini do in their spare time
+    -Gemini how to relax
+    -Gemini at leisure
+    -Do you know What do Gemini do in their spare time
+    -I want to know Gemini at leisure
+    -Gemini_is_rest
+    -Gemini is rest
+    -Gemini rest
+    -Gemini_ rest 
+
+- intent: Gemini_is_lucky_thing
+  examples: |
+    -What lucky things do Gemini have?
+    -Do you know What lucky things do Gemini have
+    -I want to know What lucky things do Gemini have
+    -How can Gemini change his fortune
+    -What does Gemini need to be lucky
+    -lucky things in Gemini
+    -Gemini lucky things
+    -Gemini_lucky_things 
+ 
+- intent: Gemini_and_friends
+  examples: |
+    -How do Gemini treat friends
+    -What do Gemini think of friendship
+    -How good are Gemini to friends
+    -What's Gemini's attitude towards friends
+    -Gemini: how to get along with friends
+    -What do you think of Gemini and his friends
+    -Gemini's sincerity to friends
+    -Gemini how to treat the friendship correctly
+
+- intent: Gemini_notes
+  examples: |
+    -What should Gemini pay attention to
+    -Gemini should pay more attention to it
+    -Do you know What should Gemini pay attention to
+    -I want to know Gemini should pay more attention to it
+    -Tell me more about Gemini
+    -Gemini what you need to watch out for
+    -Gemini notes
+    -Gemini attention
+
+
+- intent: Libra_time
+  examples: |
+    -Libra Time
+    -When is Libra is time?
+    -I want to know the Libra time
+    -You know what time it is in Libra
+    -Can you tell me what time is Libra
+    -I don't know Libra time
+    -Is there anything you want to tell me about Libra time
+    -Libra_time
+    -Libra specific time
+    -When is Libra
+
+- intent: Before_Libra
+  examples: |
+    -Before_Libra
+    -Before Libra
+    -pre-Libra
+    -Preceding Libra
+    -Preceding_Libra
+    -Libra before
+    -Libra_before
+    -Libra Before
+    -Libra_Before
+    -What is the sign before Libra?
+    -What is it before Libra?
+    -What is before Libra?
+    -You know what is before Libra?
+    -You know what is the sign before Libra?
+    -You know what is it before Libra?
+    -Can you tell me what is before Libra?
+    -Can you tell me what the sign before Libra?
+    -Can you tell me what it before Libra?
+    -I don't know what is before Libra
+    -I don't know what is the sign before Libra
+    -I don't know what is it before Libra
+    -Is there anything you want to tell me about what is it before Libra?
+    -Is there anything you want to tell me about what is the sign before Libra?
+    -Is there anything you want to tell me about what is before Libra?
+    -I want to know what is it before Libra
+    -I want to know what is the sign before Libra
+    -I want to know what is before Libra
+
+- intent: After_Libra
+  examples: |
+    -After_Libra
+    -After Libra
+    -Next_Libra
+    -Next Libra
+    -Libra after
+    -Libra_after
+    -Libra After
+    -Libra_After
+    -What is the sign after Libra?
+    -What is it after Libra?
+    -What is after Libra?
+    -You know what is after Libra?
+    -You know what is the sign after Libra?
+    -You know what is it after Libra?
+    -Can you tell me what is after Libra?
+    -Can you tell me what the sign after Libra?
+    -Can you tell me what it after Libra?
+    -I don't know what is after Libra
+    -I don't know what is the sign after Libra
+    -I don't know what is it after Libra
+    -Is there anything you want to tell me about what is it after Libra?
+    -Is there anything you want to tell me about the sign after Libra?
+    -I want to know what is it after Libra
+    -I want to know what is the sign after Libra
+    -I want to know what is after Libra
+
+- intent: Hobby_Libra
+  examples: |
+    -What are Libra's hobbies?
+    -Hobbies_Libra
+    -Hobbies Libra
+    -Hobby_Libra
+    -Hobby Libra
+    -You know what are Libra's hobbies?
+    -Can you tell me what are Libra's hobbies?
+    -I don't know what are Libra's hobbies
+    -Is there anything you want to tell me about Libra's hobbies?
+    -I want to know what are Libra's hobbies
+    -Libra's hobby
+    -Libra's hobbies
+    -Hobbies of Libra's
+    -Hobbies about Libra
+    -Hobby about Libra
+
+- intent: Three_views_Libra
+  examples: |
+    -What are Libra's three views?
+    -Three_views_Libra
+    -Three views Libra
+    -Three view_Libra
+    -You know what are Libra's three views?
+    -Can you tell me what are Libra's three views?
+    -I don't know what are Libra's three views
+    -Is there anything you want to tell me about Libra's three views?
+    -I want to know what are Libra's three views
+    -Libra's three view
+    -Libra's three views
+    -Three views of Libra's
+    -Three views about Libra
+
+- intent: Afraid_of_Libra
+  examples: |
+    -What are Libra's afraid of?
+    -Afraid of_Libra
+    -Afraid of about Libra
+    -You know what are Libra's afraid of?
+    -Can you tell me what are Libra's afraid of?
+    -I don't know what are Libra's afraid of
+    -Is there anything you want to tell me about what are Libra's afraid of?
+    -I want to know what are Libra's afraid of
+    -Libra's afraid of
+    -Afraid_Libra
+    -A Libra afraid of
+
+- intent: Looks_Libra
+  examples: |
+    -Libra_looks
+    -Libra looks
+    -Libra_Looks
+    -Libra Looks
+    -Looks_Libra
+    -Looks Libra
+    -What does a Libra look like?
+    -You know what does a Libra look like?
+    -Can you tell me what does a Libra look like?
+    -I don't know what does a Libra look like
+    -Is there anything you want to tell me about what does a Libra look like?
+    -I want to know what does a Libra look like
+
+- intent: Ability_Libra
+  examples: |
+    -How about Libra's ability to do things?
+    -Ability_Libra
+    -Ability Libra
+    -Ability of Libra
+    -Libra's ability
+    -You know how about Libra's ability to do things?
+    -Can you tell me how about Libra's ability to do things?
+    -I don't know how about Libra's ability to do things
+    -Is there anything you want to tell me about Libra's ability to do things?
+    -I want to know how about Libra's ability to do things
+
+- intent: Expression_Libra
+  examples: |
+    -How expressive is Libra?
+    -Expression_Libra
+    -Expression Libra
+    -Expression of Libra
+    -Libra's Expression
+    -You know how expressive is Libra?
+    -Can you tell me how expressive is Libra?
+    -I don't know how expressive is Libra
+    -Is there anything you want to tell me about Libra's ability of expression?
+    -I want to know how expressive is Libra
+    -You know how about Libra's ability of expression?
+    -Can you tell me how about Libra's ability of expression?
+    -I don't know how about Libra's ability of expression
+    -I want to know how about Libra's ability of expression
+
+- intent: Solve_Libra
+  examples: |
+    -How does Libra solve problems?
+    -Solve_Libra
+    -Solve problems_Libra
+    -Libra solve problems
+    -You know how does Libra solve problems?
+    -Can you tell me how does Libra solve problems?
+    -I don't know how does Libra solve problems
+    -Is there anything you want to tell me about how does Libra solve problems?
+    -I want to know how does Libra solve problems
+
+- intent: Treat_parents_Libra
+  examples: |
+    -How does Libra treat their parents?
+    -Treat parents_Libra
+    -Treat parents Libra
+    -Libra treat parents
+    -You know how does Libra treat their parents?
+    -Can you tell me how does Libra treat their parents?
+    -I don't know how does Libra treat their parents
+    -Is there anything you want to tell me about how does Libra treat their parents?
+    -I want to know how does Libra treat their parents
+
+
+- intent: Treat_children_Libra
+  examples: |
+    -How does Libra treat children?
+    -Treat children_Libra
+    -Treat children Libra
+    -Libra treat children
+    -You know how does Libra treat children?
+    -Can you tell me how does Libra treat children?
+    -I don't know how does Libra treat children
+    -Is there anything you want to tell me about how does Libra treat children?
+    -I want to know how does Libra treat children
+
+- intent: Fortune_Libra
+  examples: |
+    -How is Libra in fortune this year
+    -Fortune_Libra
+    -Fortune Libra
+    -Libra's fortune
+    -You know how is Libra in fortune this year?
+    -Can you tell me how is Libra in fortune this year?
+    -I don't know how is Libra in fortune this year
+    -Is there anything you want to tell me about how is Libra in fortune this year?
+    -I want to know how is Libra in fortune this year
+
+
+- intent: Libra_man_is_character
+  examples: |
+    -Libra man's character
+    -What is Libra man's character?
+    -I want to know the Libra man's character
+    -What's Libra man's character like
+    -You know what character it is in Libra man
+    -What do you think of Libra man's character
+    -Is there anything you want to tell me about Libra man's character
+
+- intent: Libra_personality
+  examples: |
+    -Libra personality
+    -What is Libra personality?
+    -I want to know the Libra personality
+    -What's Libra personality like
+    -You know what personality it is in Libra
+    -What do you think of Libra personality
+    -Is there anything you want to tell me about Libra personality
+
+- intent: Libra_woman_is_character
+  examples: |
+    -Libra woman's character
+    -What is Libra woman's character?
+    -I want to know the Libra woman's character
+    -What's Libra woman's character like
+    -You know what character it is in Libra woman
+    -What do you think of Libra woman's character
+    -Is there anything you want to tell me about Libra woman's character
+
+- intent: Get_along_with_Libra
+  examples: |
+    -How to get along with Libra
+    -Eight don't's with Libra
+    -Good for you and Libra
+    -What should you pay attention to when you are with Libra
+    -How to communicate with Libra
+    -Get_along_with_Libra
+    -Get along with Libra
+    -Get_along_with_Libra how
+
+- intent: Different_Libra
+  examples: |
+    -What's the difference between Libra and other constellations
+    -What's unique about Libra
+    -Libra's special
+    -the difference between Libra and other constellations
+    -Different Libra
+    -Libra's_special
+    -the difference Libra
+
+- intent: Libra_alone
+  examples: |
+    -What does Libra like to do alone
+    -What will Libra do when they are alone
+    -Libra's way to be alone
+    -You know what will Libra do when they are alone
+    -I want to know What does Libra like to do alone
+    -Libra_alone
+    -Libra's way to be alone 
+    -Libra's way alone  
+
+
+- intent: The_advantages_of_Libra
+  examples: |
+    -The advantages of Libra
+    -What are the advantages of Libra
+    -What are the good qualities of Libra
+    -What are the attractions of Libra
+    -Excellent Libra
+    -Excellent_Libra
+    -Excellent  Libra
+    -Libra Excellent 
+
+- intent: Disadvantages_of_Libra
+  examples: |
+    -Disadvantages of Libra
+    -What are the disadvantages of Libra
+    -What makes you hate Libra
+    -What are the disgusting things about Libra
+    -Libra's shortcomings
+    -Disadvantages_Libra
+    -Libra Disadvantages
+
+- intent: Libra_is_attitude_towards_work
+  examples: |
+    -Libra's attitude towards work
+    -How does Libra treat work
+    -Do you know Libra's work attitude
+    -I want to know how Libra works
+    -What's Libra's attitude towards work
+    -Libra treat work
+    -How Libra works 
+
+- intent: Libra_is_rest
+  examples: |
+    -What do Libra do in their spare time
+    -Libra how to relax
+    -Libra at leisure
+    -Do you know What do Libra do in their spare time
+    -I want to know Libra at leisure
+    -Libra do what their spare time
+    -Libra is rest 
+    -Libra_is_rest 
+
+
+- intent: Libra_is_lucky_thing
+  examples: |
+    -What lucky things do Libra have?
+    -Do you know What lucky things do Libra have
+    -I want to know What lucky things do Libra have
+    -How can Libra change his fortune
+    -What does Libra need to be lucky
+    -Libra lucky
+    -Libra_luck
+
+- intent: Libra_and_friends
+  examples: |
+    -How do Libra treat friends
+    -What do Libra think of friendship
+    -How good are Libra to friends
+    -What's Libra's attitude towards friends
+    -Libra: how to get along with friends
+    -What do you think of Libra and his friends
+    -Libra's sincerity to friends
+    -Libra how to treat the friendship correctly
+
+- intent: Libra_notes
+  examples: |
+    -What should Libra pay attention to
+    -Libra should pay more attention to it
+    -Do you know What should Libra pay attention to
+    -I want to know Libra should pay more attention to it
+    -Tell me more about Libra
+    -Libra: what you need to watch out for
+    -Libra notes 
+
+
+- intent: Aquarius_time
+  examples: |
+    -Aquarius Time
+    -When is Aquarius is time?
+    -I want to know the Aquarius time
+    -You know what time it is in Aquarius
+    -Can you tell me what time is Aquarius
+    -I don't know Aquarius time
+    -Is there anything you want to tell me about Aquarius time
+    -Aquarius_time
+    -Aquarius specific time
+    -When is Aquarius
+
+- intent: Before_Aquarius
+  examples: |
+    -Before_Aquarius
+    -Before Aquarius
+    -pre-Aquarius
+    -Preceding Aquarius
+    -Preceding_Aquarius
+    -Aquarius before
+    -Aquarius_before
+    -Aquarius Before
+    -Aquarius_Before
+    -What is the sign before Aquarius?
+    -What is it before Aquarius?
+    -What is before Aquarius?
+    -You know what is before Aquarius?
+    -You know what is the sign before Aquarius?
+    -You know what is it before Aquarius?
+    -Can you tell me what is before Aquarius?
+    -Can you tell me what the sign before Aquarius?
+    -Can you tell me what it before Aquarius?
+    -I don't know what is before Aquarius
+    -I don't know what is the sign before Aquarius
+    -I don't know what is it before Aquarius
+    -Is there anything you want to tell me about what is it before Aquarius?
+    -Is there anything you want to tell me about what is the sign before Aquarius?
+    -Is there anything you want to tell me about what is before Aquarius?
+    -I want to know what is it before Aquarius
+    -I want to know what is the sign before Aquarius
+    -I want to know what is before Aquarius
+
+- intent: After_Aquarius
+  examples: |
+    -After_Aquarius
+    -After Aquarius
+    -Next_Aquarius
+    -Next Aquarius
+    -Aquarius after
+    -Aquarius_after
+    -Aquarius After
+    -Aquarius_After
+    -What is the sign after Aquarius?
+    -What is it after Aquarius?
+    -What is after Aquarius?
+    -You know what is after Aquarius?
+    -You know what is the sign after Aquarius?
+    -You know what is it after Aquarius?
+    -Can you tell me what is after Aquarius?
+    -Can you tell me what the sign after Aquarius?
+    -Can you tell me what it after Aquarius?
+    -I don't know what is after Aquarius
+    -I don't know what is the sign after Aquarius
+    -I don't know what is it after Aquarius
+    -Is there anything you want to tell me about what is it after Aquarius?
+    -Is there anything you want to tell me about the sign after Aquarius?
+    -I want to know what is it after Aquarius
+    -I want to know what is the sign after Aquarius
+    -I want to know what is after Aquarius
+
+- intent: Hobby_Aquarius
+  examples: |
+    -What are Aquarius's hobbies?
+    -Hobbies_Aquarius
+    -Hobbies Aquarius
+    -Hobby_Aquarius
+    -Hobby Aquarius
+    -You know what are Aquarius's hobbies?
+    -Can you tell me what are Aquarius's hobbies?
+    -I don't know what are Aquarius's hobbies
+    -Is there anything you want to tell me about Aquarius's hobbies?
+    -I want to know what are Aquarius's hobbies
+    -Aquarius's hobby
+    -Aquarius's hobbies
+    -Hobbies of Aquarius's
+    -Hobbies about Aquarius
+    -Hobby about Aquarius
+
+- intent: Three_views_Aquarius
+  examples: |
+    -What are Aquarius's three views?
+    -Three_views_Aquarius
+    -Three views Aquarius
+    -Three view_Aquarius
+    -You know what are Aquarius's three views?
+    -Can you tell me what are Aquarius's three views?
+    -I don't know what are Aquarius's three views
+    -Is there anything you want to tell me about Aquarius's three views?
+    -I want to know what are Aquarius's three views
+    -Aquarius's three view
+    -Aquarius's three views
+    -Three views of Aquarius's
+    -Three views about Aquarius
+
+- intent: Afraid_of_Aquarius
+  examples: |
+    -What are Aquarius's afraid of?
+    -Afraid of_Aquarius
+    -Afraid of about Aquarius
+    -You know what are Aquarius's afraid of?
+    -Can you tell me what are Aquarius's afraid of?
+    -I don't know what are Aquarius's afraid of
+    -Is there anything you want to tell me about what are Aquarius's afraid of?
+    -I want to know what are Aquarius's afraid of
+    -Aquarius's afraid of
+    -Afraid_Aquarius
+    -A Aquarius afraid of
+
+
+- intent: Looks_Aquarius
+  examples: |
+    -Aquarius_looks
+    -Aquarius looks
+    -Aquarius_Looks
+    -Aquarius Looks
+    -Looks_Aquarius
+    -Looks Aquarius
+    -What does a Aquarius look like?
+    -You know what does a Aquarius look like?
+    -Can you tell me what does a Aquarius look like?
+    -I don't know what does a Aquarius look like
+    -Is there anything you want to tell me about what does a Aquarius look like?
+    -I want to know what does a Aquarius look like
+
+- intent: Ability_Aquarius
+  examples: |
+    -How about Aquarius's ability to do things?
+    -Ability_Aquarius
+    -Ability Aquarius
+    -Ability of Aquarius
+    -Aquarius's ability
+    -You know how about Aquarius's ability to do things?
+    -Can you tell me how about Aquarius's ability to do things?
+    -I don't know how about Aquarius's ability to do things
+    -Is there anything you want to tell me about Aquarius's ability to do things?
+    -I want to know how about Aquarius's ability to do things
+
+- intent: Expression_Aquarius
+  examples: |
+    -How expressive is Aquarius?
+    -Expression_Aquarius
+    -Expression Aquarius
+    -Expression of Aquarius
+    -Aquarius's Expression
+    -You know how expressive is Aquarius?
+    -Can you tell me how expressive is Aquarius?
+    -I don't know how expressive is Aquarius
+    -Is there anything you want to tell me about Aquarius's ability of expression?
+    -I want to know how expressive is Aquarius
+    -You know how about Aquarius's ability of expression?
+    -Can you tell me how about Aquarius's ability of expression?
+    -I don't know how about Aquarius's ability of expression
+    -I want to know how about Aquarius's ability of expression
+
+- intent: Solve_Aquarius
+  examples: |
+    -How does Aquarius solve problems?
+    -Solve_Aquarius
+    -Solve problems_Aquarius
+    -Aquarius solve problems
+    -You know how does Aquarius solve problems?
+    -Can you tell me how does Aquarius solve problems?
+    -I don't know how does Aquarius solve problems
+    -Is there anything you want to tell me about how does Aquarius solve problems?
+    -I want to know how does Aquarius solve problems
+
+- intent: Treat_parents_Aquarius
+  examples: |
+    -How does Aquarius treat their parents?
+    -Treat parents_Aquarius
+    -Treat parents Aquarius
+    -Aquarius treat parents
+    -You know how does Aquarius treat their parents?
+    -Can you tell me how does Aquarius treat their parents?
+    -I don't know how does Aquarius treat their parents
+    -Is there anything you want to tell me about how does Aquarius treat their parents?
+    -I want to know how does Aquarius treat their parents
+
+- intent: Treat_children_Aquarius
+  examples: |
+    -How does Aquarius treat children?
+    -Treat children_Aquarius
+    -Treat children Aquarius
+    -Aquarius treat children
+    -You know how does Aquarius treat children?
+    -Can you tell me how does Aquarius treat children?
+    -I don't know how does Aquarius treat children
+    -Is there anything you want to tell me about how does Aquarius treat children?
+    -I want to know how does Aquarius treat children
+
+- intent: Fortune_Aquarius
+  examples: |
+    -How is Aquarius in fortune this year
+    -Fortune_Aquarius
+    -Fortune Aquarius
+    -Aquarius's fortune
+    -You know how is Aquarius in fortune this year?
+    -Can you tell me how is Aquarius in fortune this year?
+    -I don't know how is Aquarius in fortune this year
+    -Is there anything you want to tell me about how is Aquarius in fortune this year?
+    -I want to know how is Aquarius in fortune this year
+
+- intent: Aquarius_man_is_character
+  examples: |
+    -Aquarius man's character
+    -What is Aquarius man's character?
+    -I want to know the Aquarius man's character
+    -What's Aquarius man's character like
+    -You know what character it is in Aquarius man
+    -What do you think of Aquarius man's character
+    -Is there anything you want to tell me about Aquarius man's character
+
+- intent: Aquarius_personality
+  examples: |
+    -Aquarius personality
+    -What is Aquarius personality?
+    -I want to know the Aquarius personality
+    -What's Aquarius personality like
+    -You know what personality it is in Aquarius
+    -What do you think of Aquarius personality
+    -Is there anything you want to tell me about Aquarius personality
+
+- intent: Aquarius_woman_is_character
+  examples: |
+    -Aquarius woman's character
+    -What is Aquarius woman's character?
+    -I want to know the Aquarius woman's character
+    -What's Aquarius woman's character like
+    -You know what character it is in Aquarius woman
+    -What do you think of Aquarius woman's character
+    -Is there anything you want to tell me about Aquarius woman's character
+
+- intent: Get_along_with_Aquarius
+  examples: |
+    -How to get along with Aquarius
+    -Eight don't's with Aquarius
+    -Good for you and Aquarius
+    -What should you pay attention to when you are with Aquarius
+    -How to communicate with Aquarius
+
+- intent: Different_Aquarius
+  examples: |
+    -What's the difference between Aquarius and other constellations
+    -What's unique about Aquarius
+    -Aquarius's special
+    -the difference between Aquarius and other constellations
+    -Different Aquarius
+
+- intent: Aquarius_alone
+  examples: |
+    -What does Aquarius like to do alone
+    -What will Aquarius do when they are alone
+    -Aquarius's way to be alone
+    -You know what will Aquarius do when they are alone
+    -I want to know What does Aquarius like to do alone
+
+- intent: The_advantages_of_Aquarius
+  examples: |
+    -The advantages of Aquarius
+    -What are the advantages of Aquarius
+    -What are the good qualities of Aquarius
+    -What are the attractions of Aquarius
+    -Excellent Aquarius
+
+- intent: Disadvantages_of_Aquarius
+  examples: |
+    -Disadvantages of Aquarius
+    -What are the disadvantages of Aquarius
+    -What makes you hate Aquarius
+    -What are the disgusting things about Aquarius
+    -Aquarius's shortcomings
+
+- intent: Aquarius_is_attitude_towards_work
+  examples: |
+    -Aquarius's attitude towards work
+    -How does Aquarius treat work
+    -Do you know Aquarius's work attitude
+    -I want to know how Aquarius works
+    -What's Aquarius's attitude towards work
+
+- intent: Aquarius_is_rest
+  examples: |
+    -What do Aquarius do in their spare time
+    -Aquarius how to relax
+    -Aquarius at leisure
+    -Do you know What do Aquarius do in their spare time
+    -I want to know Aquarius at leisure
+
+- intent: Aquarius_is_lucky_thing
+  examples: |
+    -What lucky things do Aquarius have?
+    -Do you know What lucky things do Aquarius have
+    -I want to know What lucky things do Aquarius have
+    -How can Aquarius change his fortune
+    -What does Aquarius need to be lucky
+
+- intent: Aquarius_and_friends
+  examples: |
+    -How do Aquarius treat friends
+    -What do Aquarius think of friendship
+    -How good are Aquarius to friends
+    -What's Aquarius's attitude towards friends
+    -Aquarius: how to get along with friends
+    -What do you think of Aquarius and his friends
+    -Aquarius's sincerity to friends
+    -Aquarius how to treat the friendship correctly
+
+- intent: Aquarius_notes
+  examples: |
+    -What should Aquarius pay attention to
+    -Aquarius should pay more attention to it
+    -Do you know What should Aquarius pay attention to
+    -I want to know Aquarius should pay more attention to it
+    -Tell me more about Aquarius
+    -Aquarius: what you need to watch out for
+
+
+
+
+
+
+- intent: Virgo_time
+  examples: |
+    -Virgo Time
+    -When is Virgo is time?
+    -I want to know the Virgo time
+    -You know what time it is in Virgo
+    -Can you tell me what time is Virgo
+    -I don't know Virgo time
+    -Is there anything you want to tell me about Virgo time
+    -Virgo_time
+    -Virgo specific time
+    -When is Virgo
+
+
+
+- intent: Before_Virgo
+  examples: |
+    -Before_Virgo
+    -Before Virgo
+    -pre-Virgo
+    -Preceding Virgo
+    -Preceding_Virgo
+    -Virgo before
+    -Virgo_before
+    -Virgo Before
+    -Virgo_Before
+    -What is the sign before Virgo?
+    -What is it before Virgo?
+    -What is before Virgo?
+    -You know what is before Virgo?
+    -You know what is the sign before Virgo?
+    -You know what is it before Virgo?
+    -Can you tell me what is before Virgo?
+    -Can you tell me what the sign before Virgo?
+    -Can you tell me what it before Virgo?
+    -I don't know what is before Virgo
+    -I don't know what is the sign before Virgo
+    -I don't know what is it before Virgo
+    -Is there anything you want to tell me about what is it before Virgo?
+    -Is there anything you want to tell me about what is the sign before Virgo?
+    -Is there anything you want to tell me about what is before Virgo?
+    -I want to know what is it before Virgo
+    -I want to know what is the sign before Virgo
+    -I want to know what is before Virgo
+
+
+- intent: After_Virgo
+  examples: |
+    -After_Virgo
+    -After Virgo
+    -Next_Virgo
+    -Next Virgo
+    -Virgo after
+    -Virgo_after
+    -Virgo After
+    -Virgo_After
+    -What is the sign after Virgo?
+    -What is it after Virgo?
+    -What is after Virgo?
+    -You know what is after Virgo?
+    -You know what is the sign after Virgo?
+    -You know what is it after Virgo?
+    -Can you tell me what is after Virgo?
+    -Can you tell me what the sign after Virgo?
+    -Can you tell me what it after Virgo?
+    -I don't know what is after Virgo
+    -I don't know what is the sign after Virgo
+    -I don't know what is it after Virgo
+    -Is there anything you want to tell me about what is it after Virgo?
+    -Is there anything you want to tell me about the sign after Virgo?
+    -I want to know what is it after Virgo
+    -I want to know what is the sign after Virgo
+    -I want to know what is after Virgo
+
+
+
+
+- intent: Hobby_Virgo
+  examples: |
+    -What are Virgo's hobbies?
+    -Hobbies_Virgo
+    -Hobbies Virgo
+    -Hobby_Virgo
+    -Hobby Virgo
+    -You know what are Virgo's hobbies?
+    -Can you tell me what are Virgo's hobbies?
+    -I don't know what are Virgo's hobbies
+    -Is there anything you want to tell me about Virgo's hobbies?
+    -I want to know what are Virgo's hobbies
+    -Virgo's hobby
+    -Virgo's hobbies
+    -Hobbies of Virgo's
+    -Hobbies about Virgo
+    -Hobby about Virgo
+
+
+
+- intent: Three_views_Virgo
+  examples: |
+    -What are Virgo's three views?
+    -Three_views_Virgo
+    -Three views Virgo
+    -Three view_Virgo
+    -You know what are Virgo's three views?
+    -Can you tell me what are Virgo's three views?
+    -I don't know what are Virgo's three views
+    -Is there anything you want to tell me about Virgo's three views?
+    -I want to know what are Virgo's three views
+    -Virgo's three view
+    -Virgo's three views
+    -Three views of Virgo's
+    -Three views about Virgo
+
+
+
+- intent: Afraid_of_Virgo
+  examples: |
+    -What are Virgo's afraid of?
+    -Afraid of_Virgo
+    -Afraid of about Virgo
+    -You know what are Virgo's afraid of?
+    -Can you tell me what are Virgo's afraid of?
+    -I don't know what are Virgo's afraid of
+    -Is there anything you want to tell me about what are Virgo's afraid of?
+    -I want to know what are Virgo's afraid of
+    -Virgo's afraid of
+    -Afraid_Virgo
+    -A Virgo afraid of
+
+
+
+- intent: Looks_Virgo
+  examples: |
+    -Virgo_looks
+    -Virgo looks
+    -Virgo_Looks
+    -Virgo Looks
+    -Looks_Virgo
+    -Looks Virgo
+    -What does a Virgo look like?
+    -You know what does a Virgo look like?
+    -Can you tell me what does a Virgo look like?
+    -I don't know what does a Virgo look like
+    -Is there anything you want to tell me about what does a Virgo look like?
+    -I want to know what does a Virgo look like
+
+
+
+- intent: Ability_Virgo
+  examples: |
+    -How about Virgo's ability to do things?
+    -Ability_Virgo
+    -Ability Virgo
+    -Ability of Virgo
+    -Virgo's ability
+    -You know how about Virgo's ability to do things?
+    -Can you tell me how about Virgo's ability to do things?
+    -I don't know how about Virgo's ability to do things
+    -Is there anything you want to tell me about Virgo's ability to do things?
+    -I want to know how about Virgo's ability to do things
+
+
+
+- intent: Expression_Virgo
+  examples: |
+    -How expressive is Virgo?
+    -Expression_Virgo
+    -Expression Virgo
+    -Expression of Virgo
+    -Virgo's Expression
+    -You know how expressive is Virgo?
+    -Can you tell me how expressive is Virgo?
+    -I don't know how expressive is Virgo
+    -Is there anything you want to tell me about Virgo's ability of expression?
+    -I want to know how expressive is Virgo
+    -You know how about Virgo's ability of expression?
+    -Can you tell me how about Virgo's ability of expression?
+    -I don't know how about Virgo's ability of expression
+    -I want to know how about Virgo's ability of expression
+
+
+- intent: Solve_Virgo
+  examples: |
+    -How does Virgo solve problems?
+    -Solve_Virgo
+    -Solve problems_Virgo
+    -Virgo solve problems
+    -You know how does Virgo solve problems?
+    -Can you tell me how does Virgo solve problems?
+    -I don't know how does Virgo solve problems
+    -Is there anything you want to tell me about how does Virgo solve problems?
+    -I want to know how does Virgo solve problems
+
+
+
+- intent: Treat_parents_Virgo
+  examples: |
+    -How does Virgo treat their parents?
+    -Treat parents_Virgo
+    -Treat parents Virgo
+    -Virgo treat parents
+    -You know how does Virgo treat their parents?
+    -Can you tell me how does Virgo treat their parents?
+    -I don't know how does Virgo treat their parents
+    -Is there anything you want to tell me about how does Virgo treat their parents?
+    -I want to know how does Virgo treat their parents
+
+
+
+- intent: Treat_children_Virgo
+  examples: |
+    -How does Virgo treat children?
+    -Treat children_Virgo
+    -Treat children Virgo
+    -Virgo treat children
+    -You know how does Virgo treat children?
+    -Can you tell me how does Virgo treat children?
+    -I don't know how does Virgo treat children
+    -Is there anything you want to tell me about how does Virgo treat children?
+    -I want to know how does Virgo treat children
+
+
+
+- intent: Fortune_Virgo
+  examples: |
+    -How is Virgo in fortune this year
+    -Fortune_Virgo
+    -Fortune Virgo
+    -Virgo's fortune
+    -You know how is Virgo in fortune this year?
+    -Can you tell me how is Virgo in fortune this year?
+    -I don't know how is Virgo in fortune this year
+    -Is there anything you want to tell me about how is Virgo in fortune this year?
+    -I want to know how is Virgo in fortune this year
+
+
+
+- intent: Virgo_man_is_character
+  examples: |
+    -Virgo man's character
+    -What is Virgo man's character?
+    -I want to know the Virgo man's character
+    -What's Virgo man's character like
+    -You know what character it is in Virgo man
+    -What do you think of Virgo man's character
+    -Is there anything you want to tell me about Virgo man's character
+
+
+
+- intent: Virgo_personality
+  examples: |
+    -Virgo personality
+    -What is Virgo personality?
+    -I want to know the Virgo personality
+    -What's Virgo personality like
+    -You know what personality it is in Virgo
+    -What do you think of Virgo personality
+    -Is there anything you want to tell me about Virgo personality
+
+
+
+- intent: Virgo_woman_is_character
+  examples: |
+    -Virgo woman's character
+    -What is Virgo woman's character?
+    -I want to know the Virgo woman's character
+    -What's Virgo woman's character like
+    -You know what character it is in Virgo woman
+    -What do you think of Virgo woman's character
+    -Is there anything you want to tell me about Virgo woman's character
+
+
+
+- intent: Get_along_with_Virgo
+  examples: |
+    -How to get along with Virgo
+    -Eight don't's with Virgo
+    -Good for you and Virgo
+    -What should you pay attention to when you are with Virgo
+    -How to communicate with Virgo
+
+
+
+- intent: Different_Virgo
+  examples: |
+    -What's the difference between Virgo and other constellations
+    -What's unique about Virgo
+    -Virgo's special
+    -the difference between Virgo and other constellations
+    -Different Virgo
+
+- intent: Virgo_alone
+  examples: |
+    -What does Virgo like to do alone
+    -What will Virgo do when they are alone
+    -Virgo's way to be alone
+    -You know what will Virgo do when they are alone
+    -I want to know What does Virgo like to do alone
+
+
+
+
+- intent: The_advantages_of_Virgo
+  examples: |
+    -The advantages of Virgo
+    -What are the advantages of Virgo
+    -What are the good qualities of Virgo
+    -What are the attractions of Virgo
+    -Excellent Virgo
+
+
+
+- intent: Disadvantages_of_Virgo
+  examples: |
+    -Disadvantages of Virgo
+    -What are the disadvantages of Virgo
+    -What makes you hate Virgo
+    -What are the disgusting things about Virgo
+    -Virgo's shortcomings
+
+- intent: Virgo_is_attitude_towards_work
+  examples: |
+    -Virgo's attitude towards work
+    -How does Virgo treat work
+    -Do you know Virgo's work attitude
+    -I want to know how Virgo works
+    -What's Virgo's attitude towards work
+
+
+- intent: Virgo_is_rest
+  examples: |
+    -What do Virgo do in their spare time
+    -Virgo how to relax
+    -Virgo at leisure
+    -Do you know What do Virgo do in their spare time
+    -I want to know Virgo at leisure
+
+
+
+- intent: Virgo_is_lucky_thing
+  examples: |
+    -What lucky things do Virgo have?
+    -Do you know What lucky things do Virgo have
+    -I want to know What lucky things do Virgo have
+    -How can Virgo change his fortune
+    -What does Virgo need to be lucky
+
+
+
+- intent: Virgo_and_friends
+  examples: |
+    -How do Virgo treat friends
+    -What do Virgo think of friendship
+    -How good are Virgo to friends
+    -What's Virgo's attitude towards friends
+    -Virgo: how to get along with friends
+    -What do you think of Virgo and his friends
+    -Virgo's sincerity to friends
+    -Virgo how to treat the friendship correctly
+
+
+- intent: Virgo_notes
+  examples: |
+    -What should Virgo pay attention to
+    -Virgo should pay more attention to it
+    -Do you know What should Virgo pay attention to
+    -I want to know Virgo should pay more attention to it
+    -Tell me more about Virgo
+    -Virgo: what you need to watch out for
+
+
+
+
+
+
+
+
+- intent: Aries_time
+  examples: |
+    -Aries Time
+    -When is Aries is time?
+    -I want to know the Aries time
+    -You know what time it is in Aries
+    -Can you tell me what time is Aries
+    -I don't know Aries time
+    -Is there anything you want to tell me about Aries time
+    -Aries_time
+    -Aries specific time
+    -When is Aries
+
+
+
+- intent: Before_Aries
+  examples: |
+    -Before_Aries
+    -Before Aries
+    -pre-Aries
+    -Preceding Aries
+    -Preceding_Aries
+    -Aries before
+    -Aries_before
+    -Aries Before
+    -Aries_Before
+    -What is the sign before Aries?
+    -What is it before Aries?
+    -What is before Aries?
+    -You know what is before Aries?
+    -You know what is the sign before Aries?
+    -You know what is it before Aries?
+    -Can you tell me what is before Aries?
+    -Can you tell me what the sign before Aries?
+    -Can you tell me what it before Aries?
+    -I don't know what is before Aries
+    -I don't know what is the sign before Aries
+    -I don't know what is it before Aries
+    -Is there anything you want to tell me about what is it before Aries?
+    -Is there anything you want to tell me about what is the sign before Aries?
+    -Is there anything you want to tell me about what is before Aries?
+    -I want to know what is it before Aries
+    -I want to know what is the sign before Aries
+    -I want to know what is before Aries
+
+
+- intent: After_Aries
+  examples: |
+    -After_Aries
+    -After Aries
+    -Next_Aries
+    -Next Aries
+    -Aries after
+    -Aries_after
+    -Aries After
+    -Aries_After
+    -What is the sign after Aries?
+    -What is it after Aries?
+    -What is after Aries?
+    -You know what is after Aries?
+    -You know what is the sign after Aries?
+    -You know what is it after Aries?
+    -Can you tell me what is after Aries?
+    -Can you tell me what the sign after Aries?
+    -Can you tell me what it after Aries?
+    -I don't know what is after Aries
+    -I don't know what is the sign after Aries
+    -I don't know what is it after Aries
+    -Is there anything you want to tell me about what is it after Aries?
+    -Is there anything you want to tell me about the sign after Aries?
+    -I want to know what is it after Aries
+    -I want to know what is the sign after Aries
+    -I want to know what is after Aries
+
+
+
+- intent: Hobby_Aries
+  examples: |
+    -What are Aries's hobbies?
+    -Hobbies_Aries
+    -Hobbies Aries
+    -Hobby_Aries
+    -Hobby Aries
+    -You know what are Aries's hobbies?
+    -Can you tell me what are Aries's hobbies?
+    -I don't know what are Aries's hobbies
+    -Is there anything you want to tell me about Aries's hobbies?
+    -I want to know what are Aries's hobbies
+    -Aries's hobby
+    -Aries's hobbies
+    -Hobbies of Aries's
+    -Hobbies about Aries
+    -Hobby about Aries
+
+
+
+- intent: Three_views_Aries
+  examples: |
+    -What are Aries's three views?
+    -Three_views_Aries
+    -Three views Aries
+    -Three view_Aries
+    -You know what are Aries's three views?
+    -Can you tell me what are Aries's three views?
+    -I don't know what are Aries's three views
+    -Is there anything you want to tell me about Aries's three views?
+    -I want to know what are Aries's three views
+    -Aries's three view
+    -Aries's three views
+    -Three views of Aries's
+    -Three views about Aries
+
+
+
+- intent: Afraid_of_Aries
+  examples: |
+    -What are Aries's afraid of?
+    -Afraid of_Aries
+    -Afraid of about Aries
+    -You know what are Aries's afraid of?
+    -Can you tell me what are Aries's afraid of?
+    -I don't know what are Aries's afraid of
+    -Is there anything you want to tell me about what are Aries's afraid of?
+    -I want to know what are Aries's afraid of
+    -Aries's afraid of
+    -Afraid_Aries
+    -A Aries afraid of
+
+
+
+- intent: Looks_Aries
+  examples: |
+    -Aries_looks
+    -Aries looks
+    -Aries_Looks
+    -Aries Looks
+    -Looks_Aries
+    -Looks Aries
+    -What does a Aries look like?
+    -You know what does a Aries look like?
+    -Can you tell me what does a Aries look like?
+    -I don't know what does a Aries look like
+    -Is there anything you want to tell me about what does a Aries look like?
+    -I want to know what does a Aries look like
+
+
+- intent: Ability_Aries
+  examples: |
+    -How about Aries's ability to do things?
+    -Ability_Aries
+    -Ability Aries
+    -Ability of Aries
+    -Aries's ability
+    -You know how about Aries's ability to do things?
+    -Can you tell me how about Aries's ability to do things?
+    -I don't know how about Aries's ability to do things
+    -Is there anything you want to tell me about Aries's ability to do things?
+    -I want to know how about Aries's ability to do things
+
+
+- intent: Expression_Aries
+  examples: |
+    -How expressive is Aries?
+    -Expression_Aries
+    -Expression Aries
+    -Expression of Aries
+    -Aries's Expression
+    -You know how expressive is Aries?
+    -Can you tell me how expressive is Aries?
+    -I don't know how expressive is Aries
+    -Is there anything you want to tell me about Aries's ability of expression?
+    -I want to know how expressive is Aries
+    -You know how about Aries's ability of expression?
+    -Can you tell me how about Aries's ability of expression?
+    -I don't know how about Aries's ability of expression
+    -I want to know how about Aries's ability of expression
+
+
+- intent: Solve_Aries
+  examples: |
+    -How does Aries solve problems?
+    -Solve_Aries
+    -Solve problems_Aries
+    -Aries solve problems
+    -You know how does Aries solve problems?
+    -Can you tell me how does Aries solve problems?
+    -I don't know how does Aries solve problems
+    -Is there anything you want to tell me about how does Aries solve problems?
+    -I want to know how does Aries solve problems
+
+
+- intent: Treat_parents_Aries
+  examples: |
+    -How does Aries treat their parents?
+    -Treat parents_Aries
+    -Treat parents Aries
+    -Aries treat parents
+    -You know how does Aries treat their parents?
+    -Can you tell me how does Aries treat their parents?
+    -I don't know how does Aries treat their parents
+    -Is there anything you want to tell me about how does Aries treat their parents?
+    -I want to know how does Aries treat their parents
+
+
+
+- intent: Treat_children_Aries
+  examples: |
+    -How does Aries treat children?
+    -Treat children_Aries
+    -Treat children Aries
+    -Aries treat children
+    -You know how does Aries treat children?
+    -Can you tell me how does Aries treat children?
+    -I don't know how does Aries treat children
+    -Is there anything you want to tell me about how does Aries treat children?
+    -I want to know how does Aries treat children
+
+
+
+- intent: Fortune_Aries
+  examples: |
+    -How is Aries in fortune this year
+    -Fortune_Aries
+    -Fortune Aries
+    -Aries's fortune
+    -You know how is Aries in fortune this year?
+    -Can you tell me how is Aries in fortune this year?
+    -I don't know how is Aries in fortune this year
+    -Is there anything you want to tell me about how is Aries in fortune this year?
+    -I want to know how is Aries in fortune this year
+
+
+
+- intent: Aries_man_is_character
+  examples: |
+    -Aries man's character
+    -What is Aries man's character?
+    -I want to know the Aries man's character
+    -What's Aries man's character like
+    -You know what character it is in Aries man
+    -What do you think of Aries man's character
+    -Is there anything you want to tell me about Aries man's character
+
+
+
+- intent: Aries_personality
+  examples: |
+    -Aries personality
+    -What is Aries personality?
+    -I want to know the Aries personality
+    -What's Aries personality like
+    -You know what personality it is in Aries
+    -What do you think of Aries personality
+    -Is there anything you want to tell me about Aries personality
+
+
+
+- intent: Aries_woman_is_character
+  examples: |
+    -Aries woman's character
+    -What is Aries woman's character?
+    -I want to know the Aries woman's character
+    -What's Aries woman's character like
+    -You know what character it is in Aries woman
+    -What do you think of Aries woman's character
+    -Is there anything you want to tell me about Aries woman's character
+
+
+- intent: Get_along_with_Aries
+  examples: |
+    -How to get along with Aries
+    -Eight don't's with Aries
+    -Good for you and Aries
+    -What should you pay attention to when you are with Aries
+    -How to communicate with Aries
+
+
+
+
+- intent: Different_Aries
+  examples: |
+    -What's the difference between Aries and other constellations
+    -What's unique about Aries
+    -Aries's special
+    -the difference between Aries and other constellations
+    -Different Aries
+
+
+- intent: Aries_alone
+  examples: |
+    -What does Aries like to do alone
+    -What will Aries do when they are alone
+    -Aries's way to be alone
+    -You know what will Aries do when they are alone
+    -I want to know What does Aries like to do alone
+
+
+
+- intent: The_advantages_of_Aries
+  examples: |
+    -The advantages of Aries
+    -What are the advantages of Aries
+    -What are the good qualities of Aries
+    -What are the attractions of Aries
+    -Excellent Aries
+
+- intent: Disadvantages_of_Aries
+  examples: |
+    -Disadvantages of Aries
+    -What are the disadvantages of Aries
+    -What makes you hate Aries
+    -What are the disgusting things about Aries
+    -Aries's shortcomings
+
+
+- intent: Aries_is_attitude_towards_work
+  examples: |
+    -Aries's attitude towards work
+    -How does Aries treat work
+    -Do you know Aries's work attitude
+    -I want to know how Aries works
+    -What's Aries's attitude towards work
+
+
+
+
+- intent: Aries_is_rest
+  examples: |
+    -What do Aries do in their spare time
+    -Aries how to relax
+    -Aries at leisure
+    -Do you know What do Aries do in their spare time
+    -I want to know Aries at leisure
+
+
+
+
+- intent: Aries_is_lucky_thing
+  examples: |
+    -What lucky things do Aries have?
+    -Do you know What lucky things do Aries have
+    -I want to know What lucky things do Aries have
+    -How can Aries change his fortune
+    -What does Aries need to be lucky
+
+
+
+- intent: Aries_and_friends
+  examples: |
+    -How do Aries treat friends
+    -What do Aries think of friendship
+    -How good are Aries to friends
+    -What's Aries's attitude towards friends
+    -Aries: how to get along with friends
+    -What do you think of Aries and his friends
+    -Aries's sincerity to friends
+    -Aries how to treat the friendship correctly
+
+- intent: Aries_notes
+  examples: |
+    -What should Aries pay attention to
+    -Aries should pay more attention to it
+    -Do you know What should Aries pay attention to
+    -I want to know Aries should pay more attention to it
+    -Tell me more about Aries
+    -Aries: what you need to watch out for
+
+
+
+
+
+
+
+
+- intent: Sagittarius_time
+  examples: |
+    -Sagittarius Time
+    -When is Sagittarius is time?
+    -I want to know the Sagittarius time
+    -You know what time it is in Sagittarius
+    -Can you tell me what time is Sagittarius
+    -I don't know Sagittarius time
+    -Is there anything you want to tell me about Sagittarius time
+    -Sagittarius_time
+    -Sagittarius specific time
+    -When is Sagittarius
+
+
+
+- intent: Before_Sagittarius
+  examples: |
+    -Before_Sagittarius
+    -Before Sagittarius
+    -pre-Sagittarius
+    -Preceding Sagittarius
+    -Preceding_Sagittarius
+    -Sagittarius before
+    -Sagittarius_before
+    -Sagittarius Before
+    -Sagittarius_Before
+    -What is the sign before Sagittarius?
+    -What is it before Sagittarius?
+    -What is before Sagittarius?
+    -You know what is before Sagittarius?
+    -You know what is the sign before Sagittarius?
+    -You know what is it before Sagittarius?
+    -Can you tell me what is before Sagittarius?
+    -Can you tell me what the sign before Sagittarius?
+    -Can you tell me what it before Sagittarius?
+    -I don't know what is before Sagittarius
+    -I don't know what is the sign before Sagittarius
+    -I don't know what is it before Sagittarius
+    -Is there anything you want to tell me about what is it before Sagittarius?
+    -Is there anything you want to tell me about what is the sign before Sagittarius?
+    -Is there anything you want to tell me about what is before Sagittarius?
+    -I want to know what is it before Sagittarius
+    -I want to know what is the sign before Sagittarius
+    -I want to know what is before Sagittarius
+
+
+
+- intent: After_Sagittarius
+  examples: |
+    -After_Sagittarius
+    -After Sagittarius
+    -Next_Sagittarius
+    -Next Sagittarius
+    -Sagittarius after
+    -Sagittarius_after
+    -Sagittarius After
+    -Sagittarius_After
+    -What is the sign after Sagittarius?
+    -What is it after Sagittarius?
+    -What is after Sagittarius?
+    -You know what is after Sagittarius?
+    -You know what is the sign after Sagittarius?
+    -You know what is it after Sagittarius?
+    -Can you tell me what is after Sagittarius?
+    -Can you tell me what the sign after Sagittarius?
+    -Can you tell me what it after Sagittarius?
+    -I don't know what is after Sagittarius
+    -I don't know what is the sign after Sagittarius
+    -I don't know what is it after Sagittarius
+    -Is there anything you want to tell me about what is it after Sagittarius?
+    -Is there anything you want to tell me about the sign after Sagittarius?
+    -I want to know what is it after Sagittarius
+    -I want to know what is the sign after Sagittarius
+    -I want to know what is after Sagittarius
+
+
+
+- intent: Hobby_Sagittarius
+  examples: |
+    -What are Sagittarius's hobbies?
+    -Hobbies_Sagittarius
+    -Hobbies Sagittarius
+    -Hobby_Sagittarius
+    -Hobby Sagittarius
+    -You know what are Sagittarius's hobbies?
+    -Can you tell me what are Sagittarius's hobbies?
+    -I don't know what are Sagittarius's hobbies
+    -Is there anything you want to tell me about Sagittarius's hobbies?
+    -I want to know what are Sagittarius's hobbies
+    -Sagittarius's hobby
+    -Sagittarius's hobbies
+    -Hobbies of Sagittarius's
+    -Hobbies about Sagittarius
+    -Hobby about Sagittarius
+
+
+- intent: Three_views_Sagittarius
+  examples: |
+    -What are Sagittarius's three views?
+    -Three_views_Sagittarius
+    -Three views Sagittarius
+    -Three view_Sagittarius
+    -You know what are Sagittarius's three views?
+    -Can you tell me what are Sagittarius's three views?
+    -I don't know what are Sagittarius's three views
+    -Is there anything you want to tell me about Sagittarius's three views?
+    -I want to know what are Sagittarius's three views
+    -Sagittarius's three view
+    -Sagittarius's three views
+    -Three views of Sagittarius's
+    -Three views about Sagittarius
+
+
+
+- intent: Afraid_of_Sagittarius
+  examples: |
+    -What are Sagittarius's afraid of?
+    -Afraid of_Sagittarius
+    -Afraid of about Sagittarius
+    -You know what are Sagittarius's afraid of?
+    -Can you tell me what are Sagittarius's afraid of?
+    -I don't know what are Sagittarius's afraid of
+    -Is there anything you want to tell me about what are Sagittarius's afraid of?
+    -I want to know what are Sagittarius's afraid of
+    -Sagittarius's afraid of
+    -Afraid_Sagittarius
+    -A Sagittarius afraid of
+
+
+
+- intent: Looks_Sagittarius
+  examples: |
+    -Sagittarius_looks
+    -Sagittarius looks
+    -Sagittarius_Looks
+    -Sagittarius Looks
+    -Looks_Sagittarius
+    -Looks Sagittarius
+    -What does a Sagittarius look like?
+    -You know what does a Sagittarius look like?
+    -Can you tell me what does a Sagittarius look like?
+    -I don't know what does a Sagittarius look like
+    -Is there anything you want to tell me about what does a Sagittarius look like?
+    -I want to know what does a Sagittarius look like
+
+
+- intent: Ability_Sagittarius
+  examples: |
+    -How about Sagittarius's ability to do things?
+    -Ability_Sagittarius
+    -Ability Sagittarius
+    -Ability of Sagittarius
+    -Sagittarius's ability
+    -You know how about Sagittarius's ability to do things?
+    -Can you tell me how about Sagittarius's ability to do things?
+    -I don't know how about Sagittarius's ability to do things
+    -Is there anything you want to tell me about Sagittarius's ability to do things?
+    -I want to know how about Sagittarius's ability to do things
+
+
+
+- intent: Expression_Sagittarius
+  examples: |
+    -How expressive is Sagittarius?
+    -Expression_Sagittarius
+    -Expression Sagittarius
+    -Expression of Sagittarius
+    -Sagittarius's Expression
+    -You know how expressive is Sagittarius?
+    -Can you tell me how expressive is Sagittarius?
+    -I don't know how expressive is Sagittarius
+    -Is there anything you want to tell me about Sagittarius's ability of expression?
+    -I want to know how expressive is Sagittarius
+    -You know how about Sagittarius's ability of expression?
+    -Can you tell me how about Sagittarius's ability of expression?
+    -I don't know how about Sagittarius's ability of expression
+    -I want to know how about Sagittarius's ability of expression
+
+
+- intent: Solve_Sagittarius
+  examples: |
+    -How does Sagittarius solve problems?
+    -Solve_Sagittarius
+    -Solve problems_Sagittarius
+    -Sagittarius solve problems
+    -You know how does Sagittarius solve problems?
+    -Can you tell me how does Sagittarius solve problems?
+    -I don't know how does Sagittarius solve problems
+    -Is there anything you want to tell me about how does Sagittarius solve problems?
+    -I want to know how does Sagittarius solve problems
+
+
+- intent: Treat_parents_Sagittarius
+  examples: |
+    -How does Sagittarius treat their parents?
+    -Treat parents_Sagittarius
+    -Treat parents Sagittarius
+    -Sagittarius treat parents
+    -You know how does Sagittarius treat their parents?
+    -Can you tell me how does Sagittarius treat their parents?
+    -I don't know how does Sagittarius treat their parents
+    -Is there anything you want to tell me about how does Sagittarius treat their parents?
+    -I want to know how does Sagittarius treat their parents
+
+
+
+- intent: Treat_children_Sagittarius
+  examples: |
+    -How does Sagittarius treat children?
+    -Treat children_Sagittarius
+    -Treat children Sagittarius
+    -Sagittarius treat children
+    -You know how does Sagittarius treat children?
+    -Can you tell me how does Sagittarius treat children?
+    -I don't know how does Sagittarius treat children
+    -Is there anything you want to tell me about how does Sagittarius treat children?
+    -I want to know how does Sagittarius treat children
+
+
+- intent: Fortune_Sagittarius
+  examples: |
+    -How is Sagittarius in fortune this year
+    -Fortune_Sagittarius
+    -Fortune Sagittarius
+    -Sagittarius's fortune
+    -You know how is Sagittarius in fortune this year?
+    -Can you tell me how is Sagittarius in fortune this year?
+    -I don't know how is Sagittarius in fortune this year
+    -Is there anything you want to tell me about how is Sagittarius in fortune this year?
+    -I want to know how is Sagittarius in fortune this year
+
+
+
+- intent: Sagittarius_man_is_character
+  examples: |
+    -Sagittarius man's character
+    -What is Sagittarius man's character?
+    -I want to know the Sagittarius man's character
+    -What's Sagittarius man's character like
+    -You know what character it is in Sagittarius man
+    -What do you think of Sagittarius man's character
+    -Is there anything you want to tell me about Sagittarius man's character
+
+
+
+- intent: Sagittarius_personality
+  examples: |
+    -Sagittarius personality
+    -What is Sagittarius personality?
+    -I want to know the Sagittarius personality
+    -What's Sagittarius personality like
+    -You know what personality it is in Sagittarius
+    -What do you think of Sagittarius personality
+    -Is there anything you want to tell me about Sagittarius personality
+
+
+
+
+- intent: Sagittarius_woman_is_character
+  examples: |
+    -Sagittarius woman's character
+    -What is Sagittarius woman's character?
+    -I want to know the Sagittarius woman's character
+    -What's Sagittarius woman's character like
+    -You know what character it is in Sagittarius woman
+    -What do you think of Sagittarius woman's character
+    -Is there anything you want to tell me about Sagittarius woman's character
+
+
+
+- intent: Get_along_with_Sagittarius
+  examples: |
+    -How to get along with Sagittarius
+    -Eight don't's with Sagittarius
+    -Good for you and Sagittarius
+    -What should you pay attention to when you are with Sagittarius
+    -How to communicate with Sagittarius
+
+
+
+- intent: Different_Sagittarius
+  examples: |
+    -What's the difference between Sagittarius and other constellations
+    -What's unique about Sagittarius
+    -Sagittarius's special
+    -the difference between Sagittarius and other constellations
+    -Different Sagittarius
+
+
+- intent: Sagittarius_alone
+  examples: |
+    -What does Sagittarius like to do alone
+    -What will Sagittarius do when they are alone
+    -Sagittarius's way to be alone
+    -You know what will Sagittarius do when they are alone
+    -I want to know What does Sagittarius like to do alone
+
+
+
+- intent: The_advantages_of_Sagittarius
+  examples: |
+    -The advantages of Sagittarius
+    -What are the advantages of Sagittarius
+    -What are the good qualities of Sagittarius
+    -What are the attractions of Sagittarius
+    -Excellent Sagittarius
+
+
+- intent: Disadvantages_of_Sagittarius
+  examples: |
+    -Disadvantages of Sagittarius
+    -What are the disadvantages of Sagittarius
+    -What makes you hate Sagittarius
+    -What are the disgusting things about Sagittarius
+    -Sagittarius's shortcomings
+
+
+
+- intent: Sagittarius_is_attitude_towards_work
+  examples: |
+    -Sagittarius's attitude towards work
+    -How does Sagittarius treat work
+    -Do you know Sagittarius's work attitude
+    -I want to know how Sagittarius works
+    -What's Sagittarius's attitude towards work
+
+
+
+
+- intent: Sagittarius_is_rest
+  examples: |
+    -What do Sagittarius do in their spare time
+    -Sagittarius how to relax
+    -Sagittarius at leisure
+    -Do you know What do Sagittarius do in their spare time
+    -I want to know Sagittarius at leisure
+
+
+
+
+- intent: Sagittarius_is_lucky_thing
+  examples: |
+    -What lucky things do Sagittarius have?
+    -Do you know What lucky things do Sagittarius have
+    -I want to know What lucky things do Sagittarius have
+    -How can Sagittarius change his fortune
+    -What does Sagittarius need to be lucky
+
+
+
+- intent: Sagittarius_and_friends
+  examples: |
+    -How do Sagittarius treat friends
+    -What do Sagittarius think of friendship
+    -How good are Sagittarius to friends
+    -What's Sagittarius's attitude towards friends
+    -Sagittarius: how to get along with friends
+    -What do you think of Sagittarius and his friends
+    -Sagittarius's sincerity to friends
+    -Sagittarius how to treat the friendship correctly
+
+
+- intent: Sagittarius_notes
+  examples: |
+    -What should Sagittarius pay attention to
+    -Sagittarius should pay more attention to it
+    -Do you know What should Sagittarius pay attention to
+    -I want to know Sagittarius should pay more attention to it
+    -Tell me more about Sagittarius
+    -Sagittarius: what you need to watch out for
+
+
+
+
+
+
+
+
+- intent: Capricornus_time
+  examples: |
+    -Capricornus Time
+    -When is Capricornus is time?
+    -I want to know the Capricornus time
+    -You know what time it is in Capricornus
+    -Can you tell me what time is Capricornus
+    -I don't know Capricornus time
+    -Is there anything you want to tell me about Capricornus time
+    -Capricornus_time
+    -Capricornus specific time
+    -When is Capricornus
+
+
+
+- intent: Before_Capricornus
+  examples: |
+    -Before_Capricornus
+    -Before Capricornus
+    -pre-Capricornus
+    -Preceding Capricornus
+    -Preceding_Capricornus
+    -Capricornus before
+    -Capricornus_before
+    -Capricornus Before
+    -Capricornus_Before
+    -What is the sign before Capricornus?
+    -What is it before Capricornus?
+    -What is before Capricornus?
+    -You know what is before Capricornus?
+    -You know what is the sign before Capricornus?
+    -You know what is it before Capricornus?
+    -Can you tell me what is before Capricornus?
+    -Can you tell me what the sign before Capricornus?
+    -Can you tell me what it before Capricornus?
+    -I don't know what is before Capricornus
+    -I don't know what is the sign before Capricornus
+    -I don't know what is it before Capricornus
+    -Is there anything you want to tell me about what is it before Capricornus?
+    -Is there anything you want to tell me about what is the sign before Capricornus?
+    -Is there anything you want to tell me about what is before Capricornus?
+    -I want to know what is it before Capricornus
+    -I want to know what is the sign before Capricornus
+    -I want to know what is before Capricornus
+
+
+
+- intent: After_Capricornus
+  examples: |
+    -After_Capricornus
+    -After Capricornus
+    -Next_Capricornus
+    -Next Capricornus
+    -Capricornus after
+    -Capricornus_after
+    -Capricornus After
+    -Capricornus_After
+    -What is the sign after Capricornus?
+    -What is it after Capricornus?
+    -What is after Capricornus?
+    -You know what is after Capricornus?
+    -You know what is the sign after Capricornus?
+    -You know what is it after Capricornus?
+    -Can you tell me what is after Capricornus?
+    -Can you tell me what the sign after Capricornus?
+    -Can you tell me what it after Capricornus?
+    -I don't know what is after Capricornus
+    -I don't know what is the sign after Capricornus
+    -I don't know what is it after Capricornus
+    -Is there anything you want to tell me about what is it after Capricornus?
+    -Is there anything you want to tell me about the sign after Capricornus?
+    -I want to know what is it after Capricornus
+    -I want to know what is the sign after Capricornus
+    -I want to know what is after Capricornus
+
+
+
+
+- intent: Hobby_Capricornus
+  examples: |
+    -What are Capricornus's hobbies?
+    -Hobbies_Capricornus
+    -Hobbies Capricornus
+    -Hobby_Capricornus
+    -Hobby Capricornus
+    -You know what are Capricornus's hobbies?
+    -Can you tell me what are Capricornus's hobbies?
+    -I don't know what are Capricornus's hobbies
+    -Is there anything you want to tell me about Capricornus's hobbies?
+    -I want to know what are Capricornus's hobbies
+    -Capricornus's hobby
+    -Capricornus's hobbies
+    -Hobbies of Capricornus's
+    -Hobbies about Capricornus
+    -Hobby about Capricornus
+
+
+
+- intent: Three_views_Capricornus
+  examples: |
+    -What are Capricornus's three views?
+    -Three_views_Capricornus
+    -Three views Capricornus
+    -Three view_Capricornus
+    -You know what are Capricornus's three views?
+    -Can you tell me what are Capricornus's three views?
+    -I don't know what are Capricornus's three views
+    -Is there anything you want to tell me about Capricornus's three views?
+    -I want to know what are Capricornus's three views
+    -Capricornus's three view
+    -Capricornus's three views
+    -Three views of Capricornus's
+    -Three views about Capricornus
+
+
+
+- intent: Afraid_of_Capricornus
+  examples: |
+    -What are Capricornus's afraid of?
+    -Afraid of_Capricornus
+    -Afraid of about Capricornus
+    -You know what are Capricornus's afraid of?
+    -Can you tell me what are Capricornus's afraid of?
+    -I don't know what are Capricornus's afraid of
+    -Is there anything you want to tell me about what are Capricornus's afraid of?
+    -I want to know what are Capricornus's afraid of
+    -Capricornus's afraid of
+    -Afraid_Capricornus
+    -A Capricornus afraid of
+
+
+
+- intent: Looks_Capricornus
+  examples: |
+    -Capricornus_looks
+    -Capricornus looks
+    -Capricornus_Looks
+    -Capricornus Looks
+    -Looks_Capricornus
+    -Looks Capricornus
+    -What does a Capricornus look like?
+    -You know what does a Capricornus look like?
+    -Can you tell me what does a Capricornus look like?
+    -I don't know what does a Capricornus look like
+    -Is there anything you want to tell me about what does a Capricornus look like?
+    -I want to know what does a Capricornus look like
+
+
+
+- intent: Ability_Capricornus
+  examples: |
+    -How about Capricornus's ability to do things?
+    -Ability_Capricornus
+    -Ability Capricornus
+    -Ability of Capricornus
+    -Capricornus's ability
+    -You know how about Capricornus's ability to do things?
+    -Can you tell me how about Capricornus's ability to do things?
+    -I don't know how about Capricornus's ability to do things
+    -Is there anything you want to tell me about Capricornus's ability to do things?
+    -I want to know how about Capricornus's ability to do things
+
+
+
+- intent: Expression_Capricornus
+  examples: |
+    -How expressive is Capricornus?
+    -Expression_Capricornus
+    -Expression Capricornus
+    -Expression of Capricornus
+    -Capricornus's Expression
+    -You know how expressive is Capricornus?
+    -Can you tell me how expressive is Capricornus?
+    -I don't know how expressive is Capricornus
+    -Is there anything you want to tell me about Capricornus's ability of expression?
+    -I want to know how expressive is Capricornus
+    -You know how about Capricornus's ability of expression?
+    -Can you tell me how about Capricornus's ability of expression?
+    -I don't know how about Capricornus's ability of expression
+    -I want to know how about Capricornus's ability of expression
+
+
+- intent: Solve_Capricornus
+  examples: |
+    -How does Capricornus solve problems?
+    -Solve_Capricornus
+    -Solve problems_Capricornus
+    -Capricornus solve problems
+    -You know how does Capricornus solve problems?
+    -Can you tell me how does Capricornus solve problems?
+    -I don't know how does Capricornus solve problems
+    -Is there anything you want to tell me about how does Capricornus solve problems?
+    -I want to know how does Capricornus solve problems
+
+
+
+- intent: Treat_parents_Capricornus
+  examples: |
+    -How does Capricornus treat their parents?
+    -Treat parents_Capricornus
+    -Treat parents Capricornus
+    -Capricornus treat parents
+    -You know how does Capricornus treat their parents?
+    -Can you tell me how does Capricornus treat their parents?
+    -I don't know how does Capricornus treat their parents
+    -Is there anything you want to tell me about how does Capricornus treat their parents?
+    -I want to know how does Capricornus treat their parents
+
+
+- intent: Treat_children_Capricornus
+  examples: |
+    -How does Capricornus treat children?
+    -Treat children_Capricornus
+    -Treat children Capricornus
+    -Capricornus treat children
+    -You know how does Capricornus treat children?
+    -Can you tell me how does Capricornus treat children?
+    -I don't know how does Capricornus treat children
+    -Is there anything you want to tell me about how does Capricornus treat children?
+    -I want to know how does Capricornus treat children
+
+
+
+- intent: Fortune_Capricornus
+  examples: |
+    -How is Capricornus in fortune this year
+    -Fortune_Capricornus
+    -Fortune Capricornus
+    -Capricornus's fortune
+    -You know how is Capricornus in fortune this year?
+    -Can you tell me how is Capricornus in fortune this year?
+    -I don't know how is Capricornus in fortune this year
+    -Is there anything you want to tell me about how is Capricornus in fortune this year?
+    -I want to know how is Capricornus in fortune this year
+
+
+
+- intent: Capricornus_man_is_character
+  examples: |
+    -Capricornus man's character
+    -What is Capricornus man's character?
+    -I want to know the Capricornus man's character
+    -What's Capricornus man's character like
+    -You know what character it is in Capricornus man
+    -What do you think of Capricornus man's character
+    -Is there anything you want to tell me about Capricornus man's character
+
+
+
+- intent: Capricornus_personality
+  examples: |
+    -Capricornus personality
+    -What is Capricornus personality?
+    -I want to know the Capricornus personality
+    -What's Capricornus personality like
+    -You know what personality it is in Capricornus
+    -What do you think of Capricornus personality
+    -Is there anything you want to tell me about Capricornus personality
+
+
+
+
+- intent: Capricornus_woman_is_character
+  examples: |
+    -Capricornus woman's character
+    -What is Capricornus woman's character?
+    -I want to know the Capricornus woman's character
+    -What's Capricornus woman's character like
+    -You know what character it is in Capricornus woman
+    -What do you think of Capricornus woman's character
+    -Is there anything you want to tell me about Capricornus woman's character
+
+
+
+- intent: Get_along_with_Capricornus
+  examples: |
+    -How to get along with Capricornus
+    -Eight don't's with Capricornus
+    -Good for you and Capricornus
+    -What should you pay attention to when you are with Capricornus
+    -How to communicate with Capricornus
+
+
+
+
+- intent: Different_Capricornus
+  examples: |
+    -What's the difference between Capricornus and other constellations
+    -What's unique about Capricornus
+    -Capricornus's special
+    -the difference between Capricornus and other constellations
+    -Different Capricornus
+
+
+- intent: Capricornus_alone
+  examples: |
+    -What does Capricornus like to do alone
+    -What will Capricornus do when they are alone
+    -Capricornus's way to be alone
+    -You know what will Capricornus do when they are alone
+    -I want to know What does Capricornus like to do alone
+
+
+
+- intent: The_advantages_of_Capricornus
+  examples: |
+    -The advantages of Capricornus
+    -What are the advantages of Capricornus
+    -What are the good qualities of Capricornus
+    -What are the attractions of Capricornus
+    -Excellent Capricornus
+
+
+- intent: Disadvantages_of_Capricornus
+  examples: |
+    -Disadvantages of Capricornus
+    -What are the disadvantages of Capricornus
+    -What makes you hate Capricornus
+    -What are the disgusting things about Capricornus
+    -Capricornus's shortcomings
+
+
+- intent: Capricornus_is_attitude_towards_work
+  examples: |
+    -Capricornus's attitude towards work
+    -How does Capricornus treat work
+    -Do you know Capricornus's work attitude
+    -I want to know how Capricornus works
+    -What's Capricornus's attitude towards work
+
+
+
+- intent: Capricornus_is_rest
+  examples: |
+    -What do Capricornus do in their spare time
+    -Capricornus how to relax
+    -Capricornus at leisure
+    -Do you know What do Capricornus do in their spare time
+    -I want to know Capricornus at leisure
+
+
+- intent: Capricornus_is_lucky_thing
+  examples: |
+    -What lucky things do Capricornus have?
+    -Do you know What lucky things do Capricornus have
+    -I want to know What lucky things do Capricornus have
+    -How can Capricornus change his fortune
+    -What does Capricornus need to be lucky
+
+
+- intent: Capricornus_and_friends
+  examples: |
+    -How do Capricornus treat friends
+    -What do Capricornus think of friendship
+    -How good are Capricornus to friends
+    -What's Capricornus's attitude towards friends
+    -Capricornus: how to get along with friends
+    -What do you think of Capricornus and his friends
+    -Capricornus's sincerity to friends
+    -Capricornus how to treat the friendship correctly
+
+
+- intent: Capricornus_notes
+  examples: |
+    -What should Capricornus pay attention to
+    -Capricornus should pay more attention to it
+    -Do you know What should Capricornus pay attention to
+    -I want to know Capricornus should pay more attention to it
+    -Tell me more about Capricornus
+    -Capricornus: what you need to watch out for
+
+
+
+
+
+
+
+
+- intent: Cancer_time
+  examples: |
+    -Cancer Time
+    -When is Cancer is time?
+    -I want to know the Cancer time
+    -You know what time it is in Cancer
+    -Can you tell me what time is Cancer
+    -I don't know Cancer time
+    -Is there anything you want to tell me about Cancer time
+    -Cancer_time
+    -Cancer specific time
+    -When is Cancer
+
+
+
+- intent: Before_Cancer
+  examples: |
+    -Before_Cancer
+    -Before Cancer
+    -pre-Cancer
+    -Preceding Cancer
+    -Preceding_Cancer
+    -Cancer before
+    -Cancer_before
+    -Cancer Before
+    -Cancer_Before
+    -What is the sign before Cancer?
+    -What is it before Cancer?
+    -What is before Cancer?
+    -You know what is before Cancer?
+    -You know what is the sign before Cancer?
+    -You know what is it before Cancer?
+    -Can you tell me what is before Cancer?
+    -Can you tell me what the sign before Cancer?
+    -Can you tell me what it before Cancer?
+    -I don't know what is before Cancer
+    -I don't know what is the sign before Cancer
+    -I don't know what is it before Cancer
+    -Is there anything you want to tell me about what is it before Cancer?
+    -Is there anything you want to tell me about what is the sign before Cancer?
+    -Is there anything you want to tell me about what is before Cancer?
+    -I want to know what is it before Cancer
+    -I want to know what is the sign before Cancer
+    -I want to know what is before Cancer
+
+
+
+- intent: After_Cancer
+  examples: |
+    -After_Cancer
+    -After Cancer
+    -Next_Cancer
+    -Next Cancer
+    -Cancer after
+    -Cancer_after
+    -Cancer After
+    -Cancer_After
+    -What is the sign after Cancer?
+    -What is it after Cancer?
+    -What is after Cancer?
+    -You know what is after Cancer?
+    -You know what is the sign after Cancer?
+    -You know what is it after Cancer?
+    -Can you tell me what is after Cancer?
+    -Can you tell me what the sign after Cancer?
+    -Can you tell me what it after Cancer?
+    -I don't know what is after Cancer
+    -I don't know what is the sign after Cancer
+    -I don't know what is it after Cancer
+    -Is there anything you want to tell me about what is it after Cancer?
+    -Is there anything you want to tell me about the sign after Cancer?
+    -I want to know what is it after Cancer
+    -I want to know what is the sign after Cancer
+    -I want to know what is after Cancer
+
+
+
+- intent: Hobby_Cancer
+  examples: |
+    -What are Cancer's hobbies?
+    -Hobbies_Cancer
+    -Hobbies Cancer
+    -Hobby_Cancer
+    -Hobby Cancer
+    -You know what are Cancer's hobbies?
+    -Can you tell me what are Cancer's hobbies?
+    -I don't know what are Cancer's hobbies
+    -Is there anything you want to tell me about Cancer's hobbies?
+    -I want to know what are Cancer's hobbies
+    -Cancer's hobby
+    -Cancer's hobbies
+    -Hobbies of Cancer's
+    -Hobbies about Cancer
+    -Hobby about Cancer
+
+
+
+- intent: Three_views_Cancer
+  examples: |
+    -What are Cancer's three views?
+    -Three_views_Cancer
+    -Three views Cancer
+    -Three view_Cancer
+    -You know what are Cancer's three views?
+    -Can you tell me what are Cancer's three views?
+    -I don't know what are Cancer's three views
+    -Is there anything you want to tell me about Cancer's three views?
+    -I want to know what are Cancer's three views
+    -Cancer's three view
+    -Cancer's three views
+    -Three views of Cancer's
+    -Three views about Cancer
+
+
+- intent: Afraid_of_Cancer
+  examples: |
+    -What are Cancer's afraid of?
+    -Afraid of_Cancer
+    -Afraid of about Cancer
+    -You know what are Cancer's afraid of?
+    -Can you tell me what are Cancer's afraid of?
+    -I don't know what are Cancer's afraid of
+    -Is there anything you want to tell me about what are Cancer's afraid of?
+    -I want to know what are Cancer's afraid of
+    -Cancer's afraid of
+    -Afraid_Cancer
+    -A Cancer afraid of
+
+
+- intent: Looks_Cancer
+  examples: |
+    -Cancer_looks
+    -Cancer looks
+    -Cancer_Looks
+    -Cancer Looks
+    -Looks_Cancer
+    -Looks Cancer
+    -What does a Cancer look like?
+    -You know what does a Cancer look like?
+    -Can you tell me what does a Cancer look like?
+    -I don't know what does a Cancer look like
+    -Is there anything you want to tell me about what does a Cancer look like?
+    -I want to know what does a Cancer look like
+
+
+- intent: Ability_Cancer
+  examples: |
+    -How about Cancer's ability to do things?
+    -Ability_Cancer
+    -Ability Cancer
+    -Ability of Cancer
+    -Cancer's ability
+    -You know how about Cancer's ability to do things?
+    -Can you tell me how about Cancer's ability to do things?
+    -I don't know how about Cancer's ability to do things
+    -Is there anything you want to tell me about Cancer's ability to do things?
+    -I want to know how about Cancer's ability to do things
+
+
+
+- intent: Expression_Cancer
+  examples: |
+    -How expressive is Cancer?
+    -Expression_Cancer
+    -Expression Cancer
+    -Expression of Cancer
+    -Cancer's Expression
+    -You know how expressive is Cancer?
+    -Can you tell me how expressive is Cancer?
+    -I don't know how expressive is Cancer
+    -Is there anything you want to tell me about Cancer's ability of expression?
+    -I want to know how expressive is Cancer
+    -You know how about Cancer's ability of expression?
+    -Can you tell me how about Cancer's ability of expression?
+    -I don't know how about Cancer's ability of expression
+    -I want to know how about Cancer's ability of expression
+
+
+- intent: Solve_Cancer
+  examples: |
+    -How does Cancer solve problems?
+    -Solve_Cancer
+    -Solve problems_Cancer
+    -Cancer solve problems
+    -You know how does Cancer solve problems?
+    -Can you tell me how does Cancer solve problems?
+    -I don't know how does Cancer solve problems
+    -Is there anything you want to tell me about how does Cancer solve problems?
+    -I want to know how does Cancer solve problems
+
+
+- intent: Treat_parents_Cancer
+  examples: |
+    -How does Cancer treat their parents?
+    -Treat parents_Cancer
+    -Treat parents Cancer
+    -Cancer treat parents
+    -You know how does Cancer treat their parents?
+    -Can you tell me how does Cancer treat their parents?
+    -I don't know how does Cancer treat their parents
+    -Is there anything you want to tell me about how does Cancer treat their parents?
+    -I want to know how does Cancer treat their parents
+
+
+- intent: Treat_children_Cancer
+  examples: |
+    -How does Cancer treat children?
+    -Treat children_Cancer
+    -Treat children Cancer
+    -Cancer treat children
+    -You know how does Cancer treat children?
+    -Can you tell me how does Cancer treat children?
+    -I don't know how does Cancer treat children
+    -Is there anything you want to tell me about how does Cancer treat children?
+    -I want to know how does Cancer treat children
+
+
+- intent: Fortune_Cancer
+  examples: |
+    -How is Cancer in fortune this year
+    -Fortune_Cancer
+    -Fortune Cancer
+    -Cancer's fortune
+    -You know how is Cancer in fortune this year?
+    -Can you tell me how is Cancer in fortune this year?
+    -I don't know how is Cancer in fortune this year
+    -Is there anything you want to tell me about how is Cancer in fortune this year?
+    -I want to know how is Cancer in fortune this year
+
+
+
+
+- intent: Cancer_man_is_character
+  examples: |
+    -Cancer man's character
+    -What is Cancer man's character?
+    -I want to know the Cancer man's character
+    -What's Cancer man's character like
+    -You know what character it is in Cancer man
+    -What do you think of Cancer man's character
+    -Is there anything you want to tell me about Cancer man's character
+
+
+
+
+- intent: Cancer_personality
+  examples: |
+    -Cancer personality
+    -What is Cancer personality?
+    -I want to know the Cancer personality
+    -What's Cancer personality like
+    -You know what personality it is in Cancer
+    -What do you think of Cancer personality
+    -Is there anything you want to tell me about Cancer personality
+
+
+
+
+- intent: Cancer_woman_is_character
+  examples: |
+    -Cancer woman's character
+    -What is Cancer woman's character?
+    -I want to know the Cancer woman's character
+    -What's Cancer woman's character like
+    -You know what character it is in Cancer woman
+    -What do you think of Cancer woman's character
+    -Is there anything you want to tell me about Cancer woman's character
+
+
+
+
+- intent: Get_along_with_Cancer
+  examples: |
+    -How to get along with Cancer
+    -Eight don't's with Cancer
+    -Good for you and Cancer
+    -What should you pay attention to when you are with Cancer
+    -How to communicate with Cancer
+
+
+
+
+- intent: Different_Cancer
+  examples: |
+    -What's the difference between Cancer and other constellations
+    -What's unique about Cancer
+    -Cancer's special
+    -the difference between Cancer and other constellations
+    -Different Cancer
+
+- intent: Cancer_alone
+  examples: |
+    -What does Cancer like to do alone
+    -What will Cancer do when they are alone
+    -Cancer's way to be alone
+    -You know what will Cancer do when they are alone
+    -I want to know What does Cancer like to do alone
+
+
+
+- intent: The_advantages_of_Cancer
+  examples: |
+    -The advantages of Cancer
+    -What are the advantages of Cancer
+    -What are the good qualities of Cancer
+    -What are the attractions of Cancer
+    -Excellent Cancer
+
+
+
+- intent: Disadvantages_of_Cancer
+  examples: |
+    -Disadvantages of Cancer
+    -What are the disadvantages of Cancer
+    -What makes you hate Cancer
+    -What are the disgusting things about Cancer
+    -Cancer's shortcomings
+
+
+- intent: Cancer_is_attitude_towards_work
+  examples: |
+    -Cancer's attitude towards work
+    -How does Cancer treat work
+    -Do you know Cancer's work attitude
+    -I want to know how Cancer works
+    -What's Cancer's attitude towards work
+
+
+- intent: Cancer_is_rest
+  examples: |
+    -What do Cancer do in their spare time
+    -Cancer how to relax
+    -Cancer at leisure
+    -Do you know What do Cancer do in their spare time
+    -I want to know Cancer at leisure
+
+
+
+- intent: Cancer_is_lucky_thing
+  examples: |
+    -What lucky things do Cancer have?
+    -Do you know What lucky things do Cancer have
+    -I want to know What lucky things do Cancer have
+    -How can Cancer change his fortune
+    -What does Cancer need to be lucky
+
+
+
+
+- intent: Cancer_and_friends
+  examples: |
+    -How do Cancer treat friends
+    -What do Cancer think of friendship
+    -How good are Cancer to friends
+    -What's Cancer's attitude towards friends
+    -Cancer: how to get along with friends
+    -What do you think of Cancer and his friends
+    -Cancer's sincerity to friends
+    -Cancer how to treat the friendship correctly
+
+
+- intent: Cancer_notes
+  examples: |
+    -What should Cancer pay attention to
+    -Cancer should pay more attention to it
+    -Do you know What should Cancer pay attention to
+    -I want to know Cancer should pay more attention to it
+    -Tell me more about Cancer
+    -Cancer: what you need to watch out for
+
+
+
+
+
+
+
+
+
+
+- intent: Taurus_time
+  examples: |
+    -Taurus Time
+    -When is Taurus is time?
+    -I want to know the Taurus time
+    -You know what time it is in Taurus
+    -Can you tell me what time is Taurus
+    -I don't know Taurus time
+    -Is there anything you want to tell me about Taurus time
+    -Taurus_time
+    -Taurus specific time
+    -When is Taurus
+
+
+
+- intent: Before_Taurus
+  examples: |
+    -Before_Taurus
+    -Before Taurus
+    -pre-Taurus
+    -Preceding Taurus
+    -Preceding_Taurus
+    -Taurus before
+    -Taurus_before
+    -Taurus Before
+    -Taurus_Before
+    -What is the sign before Taurus?
+    -What is it before Taurus?
+    -What is before Taurus?
+    -You know what is before Taurus?
+    -You know what is the sign before Taurus?
+    -You know what is it before Taurus?
+    -Can you tell me what is before Taurus?
+    -Can you tell me what the sign before Taurus?
+    -Can you tell me what it before Taurus?
+    -I don't know what is before Taurus
+    -I don't know what is the sign before Taurus
+    -I don't know what is it before Taurus
+    -Is there anything you want to tell me about what is it before Taurus?
+    -Is there anything you want to tell me about what is the sign before Taurus?
+    -Is there anything you want to tell me about what is before Taurus?
+    -I want to know what is it before Taurus
+    -I want to know what is the sign before Taurus
+    -I want to know what is before Taurus
+
+
+- intent: After_Taurus
+  examples: |
+    -After_Taurus
+    -After Taurus
+    -Next_Taurus
+    -Next Taurus
+    -Taurus after
+    -Taurus_after
+    -Taurus After
+    -Taurus_After
+    -What is the sign after Taurus?
+    -What is it after Taurus?
+    -What is after Taurus?
+    -You know what is after Taurus?
+    -You know what is the sign after Taurus?
+    -You know what is it after Taurus?
+    -Can you tell me what is after Taurus?
+    -Can you tell me what the sign after Taurus?
+    -Can you tell me what it after Taurus?
+    -I don't know what is after Taurus
+    -I don't know what is the sign after Taurus
+    -I don't know what is it after Taurus
+    -Is there anything you want to tell me about what is it after Taurus?
+    -Is there anything you want to tell me about the sign after Taurus?
+    -I want to know what is it after Taurus
+    -I want to know what is the sign after Taurus
+    -I want to know what is after Taurus
+
+
+
+
+- intent: Hobby_Taurus
+  examples: |
+    -What are Taurus's hobbies?
+    -Hobbies_Taurus
+    -Hobbies Taurus
+    -Hobby_Taurus
+    -Hobby Taurus
+    -You know what are Taurus's hobbies?
+    -Can you tell me what are Taurus's hobbies?
+    -I don't know what are Taurus's hobbies
+    -Is there anything you want to tell me about Taurus's hobbies?
+    -I want to know what are Taurus's hobbies
+    -Taurus's hobby
+    -Taurus's hobbies
+    -Hobbies of Taurus's
+    -Hobbies about Taurus
+    -Hobby about Taurus
+
+
+
+- intent: Three_views_Taurus
+  examples: |
+    -What are Taurus's three views?
+    -Three_views_Taurus
+    -Three views Taurus
+    -Three view_Taurus
+    -You know what are Taurus's three views?
+    -Can you tell me what are Taurus's three views?
+    -I don't know what are Taurus's three views
+    -Is there anything you want to tell me about Taurus's three views?
+    -I want to know what are Taurus's three views
+    -Taurus's three view
+    -Taurus's three views
+    -Three views of Taurus's
+    -Three views about Taurus
+
+
+
+- intent: Afraid_of_Taurus
+  examples: |
+    -What are Taurus's afraid of?
+    -Afraid of_Taurus
+    -Afraid of about Taurus
+    -You know what are Taurus's afraid of?
+    -Can you tell me what are Taurus's afraid of?
+    -I don't know what are Taurus's afraid of
+    -Is there anything you want to tell me about what are Taurus's afraid of?
+    -I want to know what are Taurus's afraid of
+    -Taurus's afraid of
+    -Afraid_Taurus
+    -A Taurus afraid of
+
+
+
+- intent: Looks_Taurus
+  examples: |
+    -Taurus_looks
+    -Taurus looks
+    -Taurus_Looks
+    -Taurus Looks
+    -Looks_Taurus
+    -Looks Taurus
+    -What does a Taurus look like?
+    -You know what does a Taurus look like?
+    -Can you tell me what does a Taurus look like?
+    -I don't know what does a Taurus look like
+    -Is there anything you want to tell me about what does a Taurus look like?
+    -I want to know what does a Taurus look like
+
+
+
+- intent: Ability_Taurus
+  examples: |
+    -How about Taurus's ability to do things?
+    -Ability_Taurus
+    -Ability Taurus
+    -Ability of Taurus
+    -Taurus's ability
+    -You know how about Taurus's ability to do things?
+    -Can you tell me how about Taurus's ability to do things?
+    -I don't know how about Taurus's ability to do things
+    -Is there anything you want to tell me about Taurus's ability to do things?
+    -I want to know how about Taurus's ability to do things
+
+
+- intent: Expression_Taurus
+  examples: |
+    -How expressive is Taurus?
+    -Expression_Taurus
+    -Expression Taurus
+    -Expression of Taurus
+    -Taurus's Expression
+    -You know how expressive is Taurus?
+    -Can you tell me how expressive is Taurus?
+    -I don't know how expressive is Taurus
+    -Is there anything you want to tell me about Taurus's ability of expression?
+    -I want to know how expressive is Taurus
+    -You know how about Taurus's ability of expression?
+    -Can you tell me how about Taurus's ability of expression?
+    -I don't know how about Taurus's ability of expression
+    -I want to know how about Taurus's ability of expression
+
+
+- intent: Solve_Taurus
+  examples: |
+    -How does Taurus solve problems?
+    -Solve_Taurus
+    -Solve problems_Taurus
+    -Taurus solve problems
+    -You know how does Taurus solve problems?
+    -Can you tell me how does Taurus solve problems?
+    -I don't know how does Taurus solve problems
+    -Is there anything you want to tell me about how does Taurus solve problems?
+    -I want to know how does Taurus solve problems
+
+
+- intent: Treat_parents_Taurus
+  examples: |
+    -How does Taurus treat their parents?
+    -Treat parents_Taurus
+    -Treat parents Taurus
+    -Taurus treat parents
+    -You know how does Taurus treat their parents?
+    -Can you tell me how does Taurus treat their parents?
+    -I don't know how does Taurus treat their parents
+    -Is there anything you want to tell me about how does Taurus treat their parents?
+    -I want to know how does Taurus treat their parents
+
+
+- intent: Treat_children_Taurus
+  examples: |
+    -How does Taurus treat children?
+    -Treat children_Taurus
+    -Treat children Taurus
+    -Taurus treat children
+    -You know how does Taurus treat children?
+    -Can you tell me how does Taurus treat children?
+    -I don't know how does Taurus treat children
+    -Is there anything you want to tell me about how does Taurus treat children?
+    -I want to know how does Taurus treat children
+
+
+- intent: Fortune_Taurus
+  examples: |
+    -How is Taurus in fortune this year
+    -Fortune_Taurus
+    -Fortune Taurus
+    -Taurus's fortune
+    -You know how is Taurus in fortune this year?
+    -Can you tell me how is Taurus in fortune this year?
+    -I don't know how is Taurus in fortune this year
+    -Is there anything you want to tell me about how is Taurus in fortune this year?
+    -I want to know how is Taurus in fortune this year
+
+
+
+
+- intent: Taurus_man_is_character
+  examples: |
+    -Taurus man's character
+    -What is Taurus man's character?
+    -I want to know the Taurus man's character
+    -What's Taurus man's character like
+    -You know what character it is in Taurus man
+    -What do you think of Taurus man's character
+    -Is there anything you want to tell me about Taurus man's character
+
+
+
+
+- intent: Taurus_personality
+  examples: |
+    -Taurus personality
+    -What is Taurus personality?
+    -I want to know the Taurus personality
+    -What's Taurus personality like
+    -You know what personality it is in Taurus
+    -What do you think of Taurus personality
+    -Is there anything you want to tell me about Taurus personality
+
+
+- intent: Taurus_woman_is_character
+  examples: |
+    -Taurus woman's character
+    -What is Taurus woman's character?
+    -I want to know the Taurus woman's character
+    -What's Taurus woman's character like
+    -You know what character it is in Taurus woman
+    -What do you think of Taurus woman's character
+    -Is there anything you want to tell me about Taurus woman's character
+
+
+
+
+- intent: Get_along_with_Taurus
+  examples: |
+    -How to get along with Taurus
+    -Eight don't's with Taurus
+    -Good for you and Taurus
+    -What should you pay attention to when you are with Taurus
+    -How to communicate with Taurus
+
+
+
+
+- intent: Different_Taurus
+  examples: |
+    -What's the difference between Taurus and other constellations
+    -What's unique about Taurus
+    -Taurus's special
+    -the difference between Taurus and other constellations
+    -Different Taurus
+
+- intent: Taurus_alone
+  examples: |
+    -What does Taurus like to do alone
+    -What will Taurus do when they are alone
+    -Taurus's way to be alone
+    -You know what will Taurus do when they are alone
+    -I want to know What does Taurus like to do alone
+
+
+
+- intent: The_advantages_of_Taurus
+  examples: |
+    -The advantages of Taurus
+    -What are the advantages of Taurus
+    -What are the good qualities of Taurus
+    -What are the attractions of Taurus
+    -Excellent Taurus
+
+
+
+- intent: Disadvantages_of_Taurus
+  examples: |
+    -Disadvantages of Taurus
+    -What are the disadvantages of Taurus
+    -What makes you hate Taurus
+    -What are the disgusting things about Taurus
+    -Taurus's shortcomings
+
+
+
+- intent: Taurus_is_attitude_towards_work
+  examples: |
+    -Taurus's attitude towards work
+    -How does Taurus treat work
+    -Do you know Taurus's work attitude
+    -I want to know how Taurus works
+    -What's Taurus's attitude towards work
+
+
+
+
+- intent: Taurus_is_rest
+  examples: |
+    -What do Taurus do in their spare time
+    -Taurus how to relax
+    -Taurus at leisure
+    -Do you know What do Taurus do in their spare time
+    -I want to know Taurus at leisure
+
+
+
+
+- intent: Taurus_is_lucky_thing
+  examples: |
+    -What lucky things do Taurus have?
+    -Do you know What lucky things do Taurus have
+    -I want to know What lucky things do Taurus have
+    -How can Taurus change his fortune
+    -What does Taurus need to be lucky
+
+
+
+- intent: Taurus_and_friends
+  examples: |
+    -How do Taurus treat friends
+    -What do Taurus think of friendship
+    -How good are Taurus to friends
+    -What's Taurus's attitude towards friends
+    -Taurus: how to get along with friends
+    -What do you think of Taurus and his friends
+    -Taurus's sincerity to friends
+    -Taurus how to treat the friendship correctly
+
+
+
+- intent: Taurus_notes
+  examples: |
+    -What should Taurus pay attention to
+    -Taurus should pay more attention to it
+    -Do you know What should Taurus pay attention to
+    -I want to know Taurus should pay more attention to it
+    -Tell me more about Taurus
+    -Taurus: what you need to watch out for
+
+
+
+
+
+
+
+
+
+
+
+
+

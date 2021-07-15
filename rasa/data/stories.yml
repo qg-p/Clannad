@@ -28,3 +28,1617 @@ stories:
   - action: utter_did_that_help
   - intent: deny
   - action: utter_goodbye
+
+- story: ask path
+  steps:
+  - intent: ask_bot
+  - action: utter_ask_bot
+
+- story: Leo_time path
+  steps:
+  - intent: Leo_time
+  - action: utter_Leo_time
+  
+- story: Leo_man_is_character path
+  steps:
+  - intent: Leo_man_is_character
+  - action: utter_Leo_man_character
+  
+- story: Leo_personality path
+  steps:
+  - intent: Leo_personality
+  - action: utter_Leo_personality
+  
+- story: Leo_woman_is_character path
+  steps:
+  - intent: Leo_woman_is_character
+  - action: utter_Leo_woman_character
+  
+- story: Get_along_with_Leo path
+  steps:
+  - intent: Get_along_with_Leo
+  - action: utter_Get_along_with_Leo
+  
+- story: Different_Leo path
+  steps:
+  - intent: Different_Leo
+  - action: utter_Different_Leo
+  
+- story: Leo_alone path
+  steps:
+  - intent: Leo_alone
+  - action: utter_Leo_alone
+  
+- story: The_advantages_of_Leo path
+  steps:
+  - intent: The_advantages_of_Leo
+  - action: utter_The_advantages_of_Leo
+  
+- story: Disadvantages_of_Leo path
+  steps:
+  - intent: Disadvantages_of_Leo
+  - action: utter_Disadvantages_of_Leo
+  
+- story: Leo_is_attitude_towards_work path
+  steps:
+  - intent: Leo_is_attitude_towards_work
+  - action: utter_Leo_attitude_towards_work
+  
+- story: Leo_is_rest path
+  steps:
+  - intent: Leo_is_rest
+  - action: utter_Leo_rest
+  
+- story: Leo_is_lucky_thing path
+  steps:
+  - intent: Leo_is_lucky_thing
+  - action: utter_Leo_lucky_thing
+  
+- story: Leo_and_friends path
+  steps:
+  - intent: Leo_and_friends
+  - action: utter_Leo_and_friends
+  
+- story: Leo_notes path
+  steps:
+  - intent: Leo_notes
+  - action: utter_Leo_notes
+
+- story: Before_Leo path
+  steps:
+  - intent: Before_Leo
+  - action: utter_Before_Leo
+
+- story: After_Leo path
+  steps:
+  - intent: After_Leo
+  - action: utter_After_Leo
+
+- story: Hobby_Leo path
+  steps:
+  - intent: Hobby_Leo
+  - action: utter_Hobby_Leo
+
+- story: Three_views_Leo path
+  steps:
+  - intent: Three_views_Leo
+  - action: utter_Three_views_Leo
+
+- story: Afraid_of_Leo path
+  steps:
+  - intent: Afraid_of_Leo
+  - action: utter_Afraid_of_Leo
+
+- story: Looks_Leo path
+  steps:
+  - intent: Looks_Leo
+  - action: utter_Looks_Leo
+
+- story: Ability_Leo path
+  steps:
+  - intent: Ability_Leo
+  - action: utter_Ability_Leo
+
+- story: Expression_Leo path
+  steps:
+  - intent: Expression_Leo
+  - action: utter_Expression_Leo
+
+- story: Solve_Leo path
+  steps:
+  - intent: Solve_Leo
+  - action: utter_Solve_Leo
+
+- story: Treat_parents_Leo path
+  steps:
+  - intent: Treat_parents_Leo
+  - action: utter_Treat_parents_Leo
+
+- story: Treat_children_Leo path
+  steps:
+  - intent: Treat_children_Leo
+  - action: utter_Treat_children_Leo
+
+- story: Fortune_Leo path
+  steps:
+  - intent: Fortune_Leo
+  - action: utter_Fortune_Leo
+
+- story: Constellation_fortune path
+  steps:
+  - intent: Constellation_fortune
+  - action: utter_Constellation_fortune
+  
+- story: Constellation_characteristics path
+  steps:
+  - intent: Constellation_characteristics
+  - action: utter_Constellation_characteristics
+  
+- story: Constellation_shortcomings path
+  steps:
+  - intent: Constellation_shortcomings
+  - action: utter_Constellation_shortcomings
+  
+- story: Constellation_time path
+  steps:
+  - intent: Constellation_time
+  - action: utter_Constellation_time
+  
+- story: Constellation_graphics path
+  steps:
+  - intent: Constellation_graphics
+  - action: utter_Constellation_graphics
+  
+- story: Astrology_origin path
+  steps:
+  - intent: Astrology_origin
+  - action: utter_Astrology_origin
+  
+- story: Think_Constellations path
+  steps:
+  - intent: Think_Constellations
+  - action: utter_Think_Constellations
+  
+- story: Like_Constellations path
+  steps:
+  - intent: Like_Constellations
+  - action: utter_Like_Constellations
+  
+- story: Hate_constellation path
+  steps:
+  - intent: Hate_constellation
+  - action: utter_Hate_constellation
+  
+- story: Constellation_friends path
+  steps:
+  - intent: Constellation_friends
+  - action: utter_Constellation_friends
+  
+- story: Constellation_oneself path
+  steps:
+  - intent: Constellation_oneself
+  - action: utter_Constellation_oneself
+  
+- story: Constellation_treat path
+  steps:
+  - intent: Constellation_treat
+  - action: utter_Constellation_treat 
+
+- story: Constellation_luck path
+  steps:
+  - intent: Constellation_luck
+  - action: utter_Constellation_luck
+
+- story: Constellation_talent path
+  steps:
+  - intent: Constellation_talent
+  - action: utter_Constellation_talent
+
+- story: Libra_time path
+  steps:
+  - intent: Libra_time
+  - action: utter_Libra_time
+
+- story: Libra_man_is_character path
+  steps:
+  - intent: Libra_man_is_character
+  - action: utter_Libra_man_character
+  
+- story: Libra_personality path
+  steps:
+  - intent: Libra_personality
+  - action: utter_Libra_personality
+  
+- story: Libra_woman_is_character path
+  steps:
+  - intent: Libra_woman_is_character
+  - action: utter_Libra_woman_character
+  
+- story: Get_along_with_Libra path
+  steps:
+  - intent: Get_along_with_Libra
+  - action: utter_Get_along_with_Libra
+  
+- story: Different_Libra path
+  steps:
+  - intent: Different_Libra
+  - action: utter_Different_Libra
+  
+- story: Libra_alone path
+  steps:
+  - intent: Libra_alone
+  - action: utter_Libra_alone
+  
+- story: The_advantages_of_Libra path
+  steps:
+  - intent: The_advantages_of_Libra
+  - action: utter_The_advantages_of_Libra
+  
+- story: Disadvantages_of_Libra path
+  steps:
+  - intent: Disadvantages_of_Libra
+  - action: utter_Disadvantages_of_Libra
+  
+- story: Libra_is_attitude_towards_work path
+  steps:
+  - intent: Libra_is_attitude_towards_work
+  - action: utter_Libra_attitude_towards_work
+  
+- story: Libra_is_rest path
+  steps:
+  - intent: Libra_is_rest
+  - action: utter_Libra_rest
+  
+- story: Libra_is_lucky_thing path
+  steps:
+  - intent: Libra_is_lucky_thing
+  - action: utter_Libra_lucky_thing
+  
+- story: Libra_and_friends path
+  steps:
+  - intent: Libra_and_friends
+  - action: utter_Libra_and_friends
+  
+- story: Libra_notes path
+  steps:
+  - intent: Libra_notes
+  - action: utter_Libra_notes 
+
+- story: Before_Libra path
+  steps:
+  - intent: Before_Libra
+  - action: utter_Before_Libra
+
+- story: After_Libra path
+  steps:
+  - intent: After_Libra
+  - action: utter_After_Libra
+
+- story: Hobby_Libra path
+  steps:
+  - intent: Hobby_Libra
+  - action: utter_Hobby_Libra
+
+- story: Three_views_Libra path
+  steps:
+  - intent: Three_views_Libra
+  - action: utter_Three_views_Libra
+
+- story: Afraid_of_Libra path
+  steps:
+  - intent: Afraid_of_Libra
+  - action: utter_Afraid_of_Libra
+
+- story: Looks_Libra path
+  steps:
+  - intent: Looks_Libra
+  - action: utter_Looks_Libra
+
+- story: Ability_Libra path
+  steps:
+  - intent: Ability_Libra
+  - action: utter_Ability_Libra
+
+- story: Expression_Libra path
+  steps:
+  - intent: Expression_Libra
+  - action: utter_Expression_Libra
+
+- story: Solve_Libra path
+  steps:
+  - intent: Solve_Libra
+  - action: utter_Solve_Libra
+
+- story: Treat_parents_Libra path
+  steps:
+  - intent: Treat_parents_Libra
+  - action: utter_Treat_parents_Libra
+
+- story: Treat_children_Libra path
+  steps:
+  - intent: Treat_children_Libra
+  - action: utter_Treat_children_Libra
+
+- story: Fortune_Libra path
+  steps:
+  - intent: Fortune_Libra
+  - action: utter_Fortune_Libra
+
+
+- story: Aquarius_time path
+  steps:
+  - intent: Aquarius_time
+  - action: utter_Aquarius_time
+
+- story: Aquarius_man_is_character path
+  steps:
+  - intent: Aquarius_man_is_character
+  - action: utter_Aquarius_man_character
+  
+- story: Aquarius_personality path
+  steps:
+  - intent: Aquarius_personality
+  - action: utter_Aquarius_personality
+  
+- story: Aquarius_woman_is_character path
+  steps:
+  - intent: Aquarius_woman_is_character
+  - action: utter_Aquarius_woman_character
+  
+- story: Get_along_with_Aquarius path
+  steps:
+  - intent: Get_along_with_Aquarius
+  - action: utter_Get_along_with_Aquarius
+  
+- story: Different_Aquarius path
+  steps:
+  - intent: Different_Aquarius
+  - action: utter_Different_Aquarius
+  
+- story: Aquarius_alone path
+  steps:
+  - intent: Aquarius_alone
+  - action: utter_Aquarius_alone
+  
+- story: The_advantages_of_Aquarius path
+  steps:
+  - intent: The_advantages_of_Aquarius
+  - action: utter_The_advantages_of_Aquarius
+  
+- story: Disadvantages_of_Aquarius path
+  steps:
+  - intent: Disadvantages_of_Aquarius
+  - action: utter_Disadvantages_of_Aquarius
+  
+- story: Aquarius_is_attitude_towards_work path
+  steps:
+  - intent: Aquarius_is_attitude_towards_work
+  - action: utter_Aquarius_attitude_towards_work
+  
+- story: Aquarius_is_rest path
+  steps:
+  - intent: Aquarius_is_rest
+  - action: utter_Aquarius_rest
+  
+- story: Aquarius_is_lucky_thing path
+  steps:
+  - intent: Aquarius_is_lucky_thing
+  - action: utter_Aquarius_lucky_thing
+  
+- story: Aquarius_and_friends path
+  steps:
+  - intent: Aquarius_and_friends
+  - action: utter_Aquarius_and_friends
+  
+- story: Aquarius_notes path
+  steps:
+  - intent: Aquarius_notes
+  - action: utter_Aquarius_notes 
+
+- story: Before_Aquarius path
+  steps:
+  - intent: Before_Aquarius
+  - action: utter_Before_Aquarius
+
+- story: After_Aquarius path
+  steps:
+  - intent: After_Aquarius
+  - action: utter_After_Aquarius
+
+- story: Hobby_Aquarius path
+  steps:
+  - intent: Hobby_Aquarius
+  - action: utter_Hobby_Aquarius
+
+- story: Three_views_Aquarius path
+  steps:
+  - intent: Three_views_Aquarius
+  - action: utter_Three_views_Aquarius
+
+- story: Afraid_of_Aquarius path
+  steps:
+  - intent: Afraid_of_Aquarius
+  - action: utter_Afraid_of_Aquarius
+
+- story: Looks_Aquarius path
+  steps:
+  - intent: Looks_Aquarius
+  - action: utter_Looks_Aquarius
+
+- story: Ability_Aquarius path
+  steps:
+  - intent: Ability_Aquarius
+  - action: utter_Ability_Aquarius
+
+- story: Expression_Aquarius path
+  steps:
+  - intent: Expression_Aquarius
+  - action: utter_Expression_Aquarius
+
+- story: Solve_Aquarius path
+  steps:
+  - intent: Solve_Aquarius
+  - action: utter_Solve_Aquarius
+
+- story: Treat_parents_Aquarius path
+  steps:
+  - intent: Treat_parents_Aquarius
+  - action: utter_Treat_parents_Aquarius
+
+- story: Treat_children_Aquarius path
+  steps:
+  - intent: Treat_children_Aquarius
+  - action: utter_Treat_children_Aquarius
+
+- story: Fortune_Aquarius path
+  steps:
+  - intent: Fortune_Aquarius
+  - action: utter_Fortune_Aquarius
+
+- story: Gemini_time path
+  steps:
+  - intent: Gemini_time
+  - action: utter_Gemini_time
+
+
+- story: Gemini_man_is_character path
+  steps:
+  - intent: Gemini_man_is_character
+  - action: utter_Gemini_man_character
+  
+- story: Gemini_personality path
+  steps:
+  - intent: Gemini_personality
+  - action: utter_Gemini_personality
+  
+- story: Gemini_woman_is_character path
+  steps:
+  - intent: Gemini_woman_is_character
+  - action: utter_Gemini_woman_character
+  
+- story: Get_along_with_Gemini path
+  steps:
+  - intent: Get_along_with_Gemini
+  - action: utter_Get_along_with_Gemini
+  
+- story: Different_Gemini path
+  steps:
+  - intent: Different_Gemini
+  - action: utter_Different_Gemini
+  
+- story: Gemini_alone path
+  steps:
+  - intent: Gemini_alone
+  - action: utter_Gemini_alone
+  
+- story: The_advantages_of_Gemini path
+  steps:
+  - intent: The_advantages_of_Gemini
+  - action: utter_The_advantages_of_Gemini
+  
+- story: Disadvantages_of_Gemini path
+  steps:
+  - intent: Disadvantages_of_Gemini
+  - action: utter_Disadvantages_of_Gemini
+  
+- story: Gemini_is_attitude_towards_work path
+  steps:
+  - intent: Gemini_is_attitude_towards_work
+  - action: utter_Gemini_attitude_towards_work
+  
+- story: Gemini_is_rest path
+  steps:
+  - intent: Gemini_is_rest
+  - action: utter_Gemini_rest
+  
+- story: Gemini_is_lucky_thing path
+  steps:
+  - intent: Gemini_is_lucky_thing
+  - action: utter_Gemini_lucky_thing
+  
+- story: Gemini_and_friends path
+  steps:
+  - intent: Gemini_and_friends
+  - action: utter_Gemini_and_friends
+  
+- story: Gemini_notes path
+  steps:
+  - intent: Gemini_notes
+  - action: utter_Gemini_notes 
+
+- story: Before_Gemini path
+  steps:
+  - intent: Before_Gemini
+  - action: utter_Before_Gemini
+
+- story: After_Gemini path
+  steps:
+  - intent: After_Gemini
+  - action: utter_After_Gemini
+
+- story: Hobby_Gemini path
+  steps:
+  - intent: Hobby_Gemini
+  - action: utter_Hobby_Gemini
+
+- story: Three_views_Gemini path
+  steps:
+  - intent: Three_views_Gemini
+  - action: utter_Three_views_Gemini
+
+- story: Afraid_of_Gemini path
+  steps:
+  - intent: Afraid_of_Gemini
+  - action: utter_Afraid_of_Gemini
+
+- story: Looks_Gemini path
+  steps:
+  - intent: Looks_Gemini
+  - action: utter_Looks_Gemini
+
+- story: Ability_Gemini path
+  steps:
+  - intent: Ability_Gemini
+  - action: utter_Ability_Gemini
+
+- story: Expression_Gemini path
+  steps:
+  - intent: Expression_Gemini
+  - action: utter_Expression_Gemini
+
+- story: Solve_Gemini path
+  steps:
+  - intent: Solve_Gemini
+  - action: utter_Solve_Gemini
+
+- story: Treat_parents_Gemini path
+  steps:
+  - intent: Treat_parents_Gemini
+  - action: utter_Treat_parents_Gemini
+
+- story: Treat_children_Gemini path
+  steps:
+  - intent: Treat_children_Gemini
+  - action: utter_Treat_children_Gemini
+
+- story: Fortune_Gemini path
+  steps:
+  - intent: Fortune_Gemini
+  - action: utter_Fortune_Gemini
+
+- story: Pisces_time path
+  steps:
+  - intent: Pisces_time
+  - action: utter_Pisces_time
+
+- story: Pisces_man_is_character path
+  steps:
+  - intent: Pisces_man_is_character
+  - action: utter_Pisces_man_character
+  
+- story: Pisces_personality path
+  steps:
+  - intent: Pisces_personality
+  - action: utter_Pisces_personality
+  
+- story: Pisces_woman_is_character path
+  steps:
+  - intent: Pisces_woman_is_character
+  - action: utter_Pisces_woman_character
+  
+- story: Get_along_with_Pisces path
+  steps:
+  - intent: Get_along_with_Pisces
+  - action: utter_Get_along_with_Pisces
+  
+- story: Different_Pisces path
+  steps:
+  - intent: Different_Pisces
+  - action: utter_Different_Pisces
+  
+- story: Pisces_alone path
+  steps:
+  - intent: Pisces_alone
+  - action: utter_Pisces_alone
+  
+- story: The_advantages_of_Pisces path
+  steps:
+  - intent: The_advantages_of_Pisces
+  - action: utter_The_advantages_of_Pisces
+  
+- story: Disadvantages_of_Pisces path
+  steps:
+  - intent: Disadvantages_of_Pisces
+  - action: utter_Disadvantages_of_Pisces
+  
+- story: Pisces_is_attitude_towards_work path
+  steps:
+  - intent: Pisces_is_attitude_towards_work
+  - action: utter_Pisces_attitude_towards_work
+  
+- story: Pisces_is_rest path
+  steps:
+  - intent: Pisces_is_rest
+  - action: utter_Pisces_rest
+  
+- story: Pisces_is_lucky_thing path
+  steps:
+  - intent: Pisces_is_lucky_thing
+  - action: utter_Pisces_lucky_thing
+  
+- story: Pisces_and_friends path
+  steps:
+  - intent: Pisces_and_friends
+  - action: utter_Pisces_and_friends
+  
+- story: Pisces_notes path
+  steps:
+  - intent: Pisces_notes
+  - action: utter_Pisces_notes 
+
+- story: Before_Pisces path
+  steps:
+  - intent: Before_Pisces
+  - action: utter_Before_Pisces
+
+- story: After_Pisces path
+  steps:
+  - intent: After_Pisces
+  - action: utter_After_Pisces
+
+- story: Hobby_Pisces path
+  steps:
+  - intent: Hobby_Pisces
+  - action: utter_Hobby_Pisces
+
+- story: Three_views_Pisces path
+  steps:
+  - intent: Three_views_Pisces
+  - action: utter_Three_views_Pisces
+
+- story: Afraid_of_Pisces path
+  steps:
+  - intent: Afraid_of_Pisces
+  - action: utter_Afraid_of_Pisces
+
+- story: Looks_Pisces path
+  steps:
+  - intent: Looks_Pisces
+  - action: utter_Looks_Pisces
+
+- story: Ability_Pisces path
+  steps:
+  - intent: Ability_Pisces
+  - action: utter_Ability_Pisces
+
+- story: Expression_Pisces path
+  steps:
+  - intent: Expression_Pisces
+  - action: utter_Expression_Pisces
+
+- story: Solve_Pisces path
+  steps:
+  - intent: Solve_Pisces
+  - action: utter_Solve_Pisces
+
+- story: Treat_parents_Pisces path
+  steps:
+  - intent: Treat_parents_Pisces
+  - action: utter_Treat_parents_Pisces
+
+- story: Treat_children_Pisces path
+  steps:
+  - intent: Treat_children_Pisces
+  - action: utter_Treat_children_Pisces
+
+- story: Fortune_Pisces path
+  steps:
+  - intent: Fortune_Pisces
+  - action: utter_Fortune_Pisces
+
+- story: Scorpio_time path
+  steps:
+  - intent: Scorpio_time
+  - action: utter_Scorpio_time
+
+
+- story: Scorpio_man_is_character path
+  steps:
+  - intent: Scorpio_man_is_character
+  - action: utter_Scorpio_man_character
+  
+- story: Scorpio_personality path
+  steps:
+  - intent: Scorpio_personality
+  - action: utter_Scorpio_personality
+  
+- story: Scorpio_woman_is_character path
+  steps:
+  - intent: Scorpio_woman_is_character
+  - action: utter_Scorpio_woman_character
+  
+- story: Get_along_with_Scorpio path
+  steps:
+  - intent: Get_along_with_Scorpio
+  - action: utter_Get_along_with_Scorpio
+  
+- story: Different_Scorpio path
+  steps:
+  - intent: Different_Scorpio
+  - action: utter_Different_Scorpio
+  
+- story: Scorpio_alone path
+  steps:
+  - intent: Scorpio_alone
+  - action: utter_Scorpio_alone
+  
+- story: The_advantages_of_Scorpio path
+  steps:
+  - intent: The_advantages_of_Scorpio
+  - action: utter_The_advantages_of_Scorpio
+  
+- story: Disadvantages_of_Scorpio path
+  steps:
+  - intent: Disadvantages_of_Scorpio
+  - action: utter_Disadvantages_of_Scorpio
+  
+- story: Scorpio_is_attitude_towards_work path
+  steps:
+  - intent: Scorpio_is_attitude_towards_work
+  - action: utter_Scorpio_attitude_towards_work
+  
+- story: Scorpio_is_rest path
+  steps:
+  - intent: Scorpio_is_rest
+  - action: utter_Scorpio_rest
+  
+- story: Scorpio_is_lucky_thing path
+  steps:
+  - intent: Scorpio_is_lucky_thing
+  - action: utter_Scorpio_lucky_thing
+  
+- story: Scorpio_and_friends path
+  steps:
+  - intent: Scorpio_and_friends
+  - action: utter_Scorpio_and_friends
+  
+- story: Scorpio_notes path
+  steps:
+  - intent: Scorpio_notes
+  - action: utter_Scorpio_notes 
+
+- story: Before_Scorpio path
+  steps:
+  - intent: Before_Scorpio
+  - action: utter_Before_Scorpio
+
+- story: After_Scorpio path
+  steps:
+  - intent: After_Scorpio
+  - action: utter_After_Scorpio
+
+- story: Hobby_Scorpio path
+  steps:
+  - intent: Hobby_Scorpio
+  - action: utter_Hobby_Scorpio
+
+- story: Three_views_Scorpio path
+  steps:
+  - intent: Three_views_Scorpio
+  - action: utter_Three_views_Scorpio
+
+- story: Afraid_of_Scorpio path
+  steps:
+  - intent: Afraid_of_Scorpio
+  - action: utter_Afraid_of_Scorpio
+
+- story: Looks_Scorpio path
+  steps:
+  - intent: Looks_Scorpio
+  - action: utter_Looks_Scorpio
+
+- story: Ability_Scorpio path
+  steps:
+  - intent: Ability_Scorpio
+  - action: utter_Ability_Scorpio
+
+- story: Expression_Scorpio path
+  steps:
+  - intent: Expression_Scorpio
+  - action: utter_Expression_Scorpio
+
+- story: Solve_Scorpio path
+  steps:
+  - intent: Solve_Scorpio
+  - action: utter_Solve_Scorpio
+
+- story: Treat_parents_Scorpio path
+  steps:
+  - intent: Treat_parents_Scorpio
+  - action: utter_Treat_parents_Scorpio
+
+- story: Treat_children_Scorpio path
+  steps:
+  - intent: Treat_children_Scorpio
+  - action: utter_Treat_children_Scorpio
+
+- story: Fortune_Scorpio path
+  steps:
+  - intent: Fortune_Scorpio
+  - action: utter_Fortune_Scorpio
+- story: Sagittarius_man_is_character path
+  steps:
+  - intent: Sagittarius_man_is_character
+  - action: utter_Sagittarius_man_character
+  
+- story: Sagittarius_personality path
+  steps:
+  - intent: Sagittarius_personality
+  - action: utter_Sagittarius_personality
+  
+- story: Sagittarius_woman_is_character path
+  steps:
+  - intent: Sagittarius_woman_is_character
+  - action: utter_Sagittarius_woman_character
+  
+- story: Get_along_with_Sagittarius path
+  steps:
+  - intent: Get_along_with_Sagittarius
+  - action: utter_Get_along_with_Sagittarius
+  
+- story: Different_Sagittarius path
+  steps:
+  - intent: Different_Sagittarius
+  - action: utter_Different_Sagittarius
+  
+- story: Sagittarius_alone path
+  steps:
+  - intent: Sagittarius_alone
+  - action: utter_Sagittarius_alone
+  
+- story: The_advantages_of_Sagittarius path
+  steps:
+  - intent: The_advantages_of_Sagittarius
+  - action: utter_The_advantages_of_Sagittarius
+  
+- story: Disadvantages_of_Sagittarius path
+  steps:
+  - intent: Disadvantages_of_Sagittarius
+  - action: utter_Disadvantages_of_Sagittarius
+  
+- story: Sagittarius_is_attitude_towards_work path
+  steps:
+  - intent: Sagittarius_is_attitude_towards_work
+  - action: utter_Sagittarius_attitude_towards_work
+  
+- story: Sagittarius_is_rest path
+  steps:
+  - intent: Sagittarius_is_rest
+  - action: utter_Sagittarius_rest
+  
+- story: Sagittarius_is_lucky_thing path
+  steps:
+  - intent: Sagittarius_is_lucky_thing
+  - action: utter_Sagittarius_lucky_thing
+  
+- story: Sagittarius_and_friends path
+  steps:
+  - intent: Sagittarius_and_friends
+  - action: utter_Sagittarius_and_friends
+  
+- story: Sagittarius_notes path
+  steps:
+  - intent: Sagittarius_notes
+  - action: utter_Sagittarius_notes 
+
+- story: Before_Sagittarius path
+  steps:
+  - intent: Before_Sagittarius
+  - action: utter_Before_Sagittarius
+
+- story: After_Sagittarius path
+  steps:
+  - intent: After_Sagittarius
+  - action: utter_After_Sagittarius
+
+- story: Hobby_Sagittarius path
+  steps:
+  - intent: Hobby_Sagittarius
+  - action: utter_Hobby_Sagittarius
+
+- story: Three_views_Sagittarius path
+  steps:
+  - intent: Three_views_Sagittarius
+  - action: utter_Three_views_Sagittarius
+
+- story: Afraid_of_Sagittarius path
+  steps:
+  - intent: Afraid_of_Sagittarius
+  - action: utter_Afraid_of_Sagittarius
+
+- story: Looks_Sagittarius path
+  steps:
+  - intent: Looks_Sagittarius
+  - action: utter_Looks_Sagittarius
+
+- story: Ability_Sagittarius path
+  steps:
+  - intent: Ability_Sagittarius
+  - action: utter_Ability_Sagittarius
+
+- story: Expression_Sagittarius path
+  steps:
+  - intent: Expression_Sagittarius
+  - action: utter_Expression_Sagittarius
+
+- story: Solve_Sagittarius path
+  steps:
+  - intent: Solve_Sagittarius
+  - action: utter_Solve_Sagittarius
+
+- story: Treat_parents_Sagittarius path
+  steps:
+  - intent: Treat_parents_Sagittarius
+  - action: utter_Treat_parents_Sagittarius
+
+- story: Treat_children_Sagittarius path
+  steps:
+  - intent: Treat_children_Sagittarius
+  - action: utter_Treat_children_Sagittarius
+
+- story: Fortune_Sagittarius path
+  steps:
+  - intent: Fortune_Sagittarius
+  - action: utter_Fortune_Sagittarius
+
+- story: Capricornus_man_is_character path
+  steps:
+  - intent: Capricornus_man_is_character
+  - action: utter_Capricornus_man_character
+  
+- story: Capricornus_personality path
+  steps:
+  - intent: Capricornus_personality
+  - action: utter_Capricornus_personality
+  
+- story: Capricornus_woman_is_character path
+  steps:
+  - intent: Capricornus_woman_is_character
+  - action: utter_Capricornus_woman_character
+  
+- story: Get_along_with_Capricornus path
+  steps:
+  - intent: Get_along_with_Capricornus
+  - action: utter_Get_along_with_Capricornus
+  
+- story: Different_Capricornus path
+  steps:
+  - intent: Different_Capricornus
+  - action: utter_Different_Capricornus
+  
+- story: Capricornus_alone path
+  steps:
+  - intent: Capricornus_alone
+  - action: utter_Capricornus_alone
+  
+- story: The_advantages_of_Capricornus path
+  steps:
+  - intent: The_advantages_of_Capricornus
+  - action: utter_The_advantages_of_Capricornus
+  
+- story: Disadvantages_of_Capricornus path
+  steps:
+  - intent: Disadvantages_of_Capricornus
+  - action: utter_Disadvantages_of_Capricornus
+  
+- story: Capricornus_is_attitude_towards_work path
+  steps:
+  - intent: Capricornus_is_attitude_towards_work
+  - action: utter_Capricornus_attitude_towards_work
+  
+- story: Capricornus_is_rest path
+  steps:
+  - intent: Capricornus_is_rest
+  - action: utter_Capricornus_rest
+  
+- story: Capricornus_is_lucky_thing path
+  steps:
+  - intent: Capricornus_is_lucky_thing
+  - action: utter_Capricornus_lucky_thing
+  
+- story: Capricornus_and_friends path
+  steps:
+  - intent: Capricornus_and_friends
+  - action: utter_Capricornus_and_friends
+  
+- story: Capricornus_notes path
+  steps:
+  - intent: Capricornus_notes
+  - action: utter_Capricornus_notes 
+
+- story: Before_Capricornus path
+  steps:
+  - intent: Before_Capricornus
+  - action: utter_Before_Capricornus
+
+- story: After_Capricornus path
+  steps:
+  - intent: After_Capricornus
+  - action: utter_After_Capricornus
+
+- story: Hobby_Capricornus path
+  steps:
+  - intent: Hobby_Capricornus
+  - action: utter_Hobby_Capricornus
+
+- story: Three_views_Capricornus path
+  steps:
+  - intent: Three_views_Capricornus
+  - action: utter_Three_views_Capricornus
+
+- story: Afraid_of_Capricornus path
+  steps:
+  - intent: Afraid_of_Capricornus
+  - action: utter_Afraid_of_Capricornus
+
+- story: Looks_Capricornus path
+  steps:
+  - intent: Looks_Capricornus
+  - action: utter_Looks_Capricornus
+
+- story: Ability_Capricornus path
+  steps:
+  - intent: Ability_Capricornus
+  - action: utter_Ability_Capricornus
+
+- story: Expression_Capricornus path
+  steps:
+  - intent: Expression_Capricornus
+  - action: utter_Expression_Capricornus
+
+- story: Solve_Capricornus path
+  steps:
+  - intent: Solve_Capricornus
+  - action: utter_Solve_Capricornus
+
+- story: Treat_parents_Capricornus path
+  steps:
+  - intent: Treat_parents_Capricornus
+  - action: utter_Treat_parents_Capricornus
+
+- story: Treat_children_Capricornus path
+  steps:
+  - intent: Treat_children_Capricornus
+  - action: utter_Treat_children_Capricornus
+
+- story: Fortune_Capricornus path
+  steps:
+  - intent: Fortune_Capricornus
+  - action: utter_Fortune_Capricornus
+
+- story: Cancer_man_is_character path
+  steps:
+  - intent: Cancer_man_is_character
+  - action: utter_Cancer_man_character
+  
+- story: Cancer_personality path
+  steps:
+  - intent: Cancer_personality
+  - action: utter_Cancer_personality
+  
+- story: Cancer_woman_is_character path
+  steps:
+  - intent: Cancer_woman_is_character
+  - action: utter_Cancer_woman_character
+  
+- story: Get_along_with_Cancer path
+  steps:
+  - intent: Get_along_with_Cancer
+  - action: utter_Get_along_with_Cancer
+  
+- story: Different_Cancer path
+  steps:
+  - intent: Different_Cancer
+  - action: utter_Different_Cancer
+  
+- story: Cancer_alone path
+  steps:
+  - intent: Cancer_alone
+  - action: utter_Cancer_alone
+  
+- story: The_advantages_of_Cancer path
+  steps:
+  - intent: The_advantages_of_Cancer
+  - action: utter_The_advantages_of_Cancer
+  
+- story: Disadvantages_of_Cancer path
+  steps:
+  - intent: Disadvantages_of_Cancer
+  - action: utter_Disadvantages_of_Cancer
+  
+- story: Cancer_is_attitude_towards_work path
+  steps:
+  - intent: Cancer_is_attitude_towards_work
+  - action: utter_Cancer_attitude_towards_work
+  
+- story: Cancer_is_rest path
+  steps:
+  - intent: Cancer_is_rest
+  - action: utter_Cancer_rest
+  
+- story: Cancer_is_lucky_thing path
+  steps:
+  - intent: Cancer_is_lucky_thing
+  - action: utter_Cancer_lucky_thing
+  
+- story: Cancer_and_friends path
+  steps:
+  - intent: Cancer_and_friends
+  - action: utter_Cancer_and_friends
+  
+- story: Cancer_notes path
+  steps:
+  - intent: Cancer_notes
+  - action: utter_Cancer_notes 
+
+- story: Before_Cancer path
+  steps:
+  - intent: Before_Cancer
+  - action: utter_Before_Cancer
+
+- story: After_Cancer path
+  steps:
+  - intent: After_Cancer
+  - action: utter_After_Cancer
+
+- story: Hobby_Cancer path
+  steps:
+  - intent: Hobby_Cancer
+  - action: utter_Hobby_Cancer
+
+- story: Three_views_Cancer path
+  steps:
+  - intent: Three_views_Cancer
+  - action: utter_Three_views_Cancer
+
+- story: Afraid_of_Cancer path
+  steps:
+  - intent: Afraid_of_Cancer
+  - action: utter_Afraid_of_Cancer
+
+- story: Looks_Cancer path
+  steps:
+  - intent: Looks_Cancer
+  - action: utter_Looks_Cancer
+
+- story: Ability_Cancer path
+  steps:
+  - intent: Ability_Cancer
+  - action: utter_Ability_Cancer
+
+- story: Expression_Cancer path
+  steps:
+  - intent: Expression_Cancer
+  - action: utter_Expression_Cancer
+
+- story: Solve_Cancer path
+  steps:
+  - intent: Solve_Cancer
+  - action: utter_Solve_Cancer
+
+- story: Treat_parents_Cancer path
+  steps:
+  - intent: Treat_parents_Cancer
+  - action: utter_Treat_parents_Cancer
+
+- story: Treat_children_Cancer path
+  steps:
+  - intent: Treat_children_Cancer
+  - action: utter_Treat_children_Cancer
+
+- story: Fortune_Cancer path
+  steps:
+  - intent: Fortune_Cancer
+  - action: utter_Fortune_Cancer
+
+- story: Taurus_man_is_character path
+  steps:
+  - intent: Taurus_man_is_character
+  - action: utter_Taurus_man_character
+  
+- story: Taurus_personality path
+  steps:
+  - intent: Taurus_personality
+  - action: utter_Taurus_personality
+  
+- story: Taurus_woman_is_character path
+  steps:
+  - intent: Taurus_woman_is_character
+  - action: utter_Taurus_woman_character
+  
+- story: Get_along_with_Taurus path
+  steps:
+  - intent: Get_along_with_Taurus
+  - action: utter_Get_along_with_Taurus
+  
+- story: Different_Taurus path
+  steps:
+  - intent: Different_Taurus
+  - action: utter_Different_Taurus
+  
+- story: Taurus_alone path
+  steps:
+  - intent: Taurus_alone
+  - action: utter_Taurus_alone
+  
+- story: The_advantages_of_Taurus path
+  steps:
+  - intent: The_advantages_of_Taurus
+  - action: utter_The_advantages_of_Taurus
+  
+- story: Disadvantages_of_Taurus path
+  steps:
+  - intent: Disadvantages_of_Taurus
+  - action: utter_Disadvantages_of_Taurus
+  
+- story: Taurus_is_attitude_towards_work path
+  steps:
+  - intent: Taurus_is_attitude_towards_work
+  - action: utter_Taurus_attitude_towards_work
+  
+- story: Taurus_is_rest path
+  steps:
+  - intent: Taurus_is_rest
+  - action: utter_Taurus_rest
+  
+- story: Taurus_is_lucky_thing path
+  steps:
+  - intent: Taurus_is_lucky_thing
+  - action: utter_Taurus_lucky_thing
+  
+- story: Taurus_and_friends path
+  steps:
+  - intent: Taurus_and_friends
+  - action: utter_Taurus_and_friends
+  
+- story: Taurus_notes path
+  steps:
+  - intent: Taurus_notes
+  - action: utter_Taurus_notes 
+
+- story: Before_Taurus path
+  steps:
+  - intent: Before_Taurus
+  - action: utter_Before_Taurus
+
+- story: After_Taurus path
+  steps:
+  - intent: After_Taurus
+  - action: utter_After_Taurus
+
+- story: Hobby_Taurus path
+  steps:
+  - intent: Hobby_Taurus
+  - action: utter_Hobby_Taurus
+
+- story: Three_views_Taurus path
+  steps:
+  - intent: Three_views_Taurus
+  - action: utter_Three_views_Taurus
+
+- story: Afraid_of_Taurus path
+  steps:
+  - intent: Afraid_of_Taurus
+  - action: utter_Afraid_of_Taurus
+
+- story: Looks_Taurus path
+  steps:
+  - intent: Looks_Taurus
+  - action: utter_Looks_Taurus
+
+- story: Ability_Taurus path
+  steps:
+  - intent: Ability_Taurus
+  - action: utter_Ability_Taurus
+
+- story: Expression_Taurus path
+  steps:
+  - intent: Expression_Taurus
+  - action: utter_Expression_Taurus
+
+- story: Solve_Taurus path
+  steps:
+  - intent: Solve_Taurus
+  - action: utter_Solve_Taurus
+
+- story: Treat_parents_Taurus path
+  steps:
+  - intent: Treat_parents_Taurus
+  - action: utter_Treat_parents_Taurus
+
+- story: Treat_children_Taurus path
+  steps:
+  - intent: Treat_children_Taurus
+  - action: utter_Treat_children_Taurus
+
+- story: Fortune_Taurus path
+  steps:
+  - intent: Fortune_Taurus
+  - action: utter_Fortune_Taurus
+
+- story: Virgo_man_is_character path
+  steps:
+  - intent: Virgo_man_is_character
+  - action: utter_Virgo_man_character
+  
+- story: Virgo_personality path
+  steps:
+  - intent: Virgo_personality
+  - action: utter_Virgo_personality
+  
+- story: Virgo_woman_is_character path
+  steps:
+  - intent: Virgo_woman_is_character
+  - action: utter_Virgo_woman_character
+  
+- story: Get_along_with_Virgo path
+  steps:
+  - intent: Get_along_with_Virgo
+  - action: utter_Get_along_with_Virgo
+  
+- story: Different_Virgo path
+  steps:
+  - intent: Different_Virgo
+  - action: utter_Different_Virgo
+  
+- story: Virgo_alone path
+  steps:
+  - intent: Virgo_alone
+  - action: utter_Virgo_alone
+  
+- story: The_advantages_of_Virgo path
+  steps:
+  - intent: The_advantages_of_Virgo
+  - action: utter_The_advantages_of_Virgo
+  
+- story: Disadvantages_of_Virgo path
+  steps:
+  - intent: Disadvantages_of_Virgo
+  - action: utter_Disadvantages_of_Virgo
+  
+- story: Virgo_is_attitude_towards_work path
+  steps:
+  - intent: Virgo_is_attitude_towards_work
+  - action: utter_Virgo_attitude_towards_work
+  
+- story: Virgo_is_rest path
+  steps:
+  - intent: Virgo_is_rest
+  - action: utter_Virgo_rest
+  
+- story: Virgo_is_lucky_thing path
+  steps:
+  - intent: Virgo_is_lucky_thing
+  - action: utter_Virgo_lucky_thing
+  
+- story: Virgo_and_friends path
+  steps:
+  - intent: Virgo_and_friends
+  - action: utter_Virgo_and_friends
+  
+- story: Virgo_notes path
+  steps:
+  - intent: Virgo_notes
+  - action: utter_Virgo_notes 
+
+- story: Before_Virgo path
+  steps:
+  - intent: Before_Virgo
+  - action: utter_Before_Virgo
+
+- story: After_Virgo path
+  steps:
+  - intent: After_Virgo
+  - action: utter_After_Virgo
+
+- story: Hobby_Virgo path
+  steps:
+  - intent: Hobby_Virgo
+  - action: utter_Hobby_Virgo
+
+- story: Three_views_Virgo path
+  steps:
+  - intent: Three_views_Virgo
+  - action: utter_Three_views_Virgo
+
+- story: Afraid_of_Virgo path
+  steps:
+  - intent: Afraid_of_Virgo
+  - action: utter_Afraid_of_Virgo
+
+- story: Looks_Virgo path
+  steps:
+  - intent: Looks_Virgo
+  - action: utter_Looks_Virgo
+
+- story: Ability_Virgo path
+  steps:
+  - intent: Ability_Virgo
+  - action: utter_Ability_Virgo
+
+- story: Expression_Virgo path
+  steps:
+  - intent: Expression_Virgo
+  - action: utter_Expression_Virgo
+
+- story: Solve_Virgo path
+  steps:
+  - intent: Solve_Virgo
+  - action: utter_Solve_Virgo
+
+- story: Treat_parents_Virgo path
+  steps:
+  - intent: Treat_parents_Virgo
+  - action: utter_Treat_parents_Virgo
+
+- story: Treat_children_Virgo path
+  steps:
+  - intent: Treat_children_Virgo
+  - action: utter_Treat_children_Virgo
+
+- story: Fortune_Virgo path
+  steps:
+  - intent: Fortune_Virgo
+  - action: utter_Fortune_Virgo
+
+- story: Aries_man_is_character path
+  steps:
+  - intent: Aries_man_is_character
+  - action: utter_Aries_man_character
+  
+- story: Aries_personality path
+  steps:
+  - intent: Aries_personality
+  - action: utter_Aries_personality
+  
+- story: Aries_woman_is_character path
+  steps:
+  - intent: Aries_woman_is_character
+  - action: utter_Aries_woman_character
+  
+- story: Get_along_with_Aries path
+  steps:
+  - intent: Get_along_with_Aries
+  - action: utter_Get_along_with_Aries
+  
+- story: Different_Aries path
+  steps:
+  - intent: Different_Aries
+  - action: utter_Different_Aries
+  
+- story: Aries_alone path
+  steps:
+  - intent: Aries_alone
+  - action: utter_Aries_alone
+  
+- story: The_advantages_of_Aries path
+  steps:
+  - intent: The_advantages_of_Aries
+  - action: utter_The_advantages_of_Aries
+  
+- story: Disadvantages_of_Aries path
+  steps:
+  - intent: Disadvantages_of_Aries
+  - action: utter_Disadvantages_of_Aries
+  
+- story: Aries_is_attitude_towards_work path
+  steps:
+  - intent: Aries_is_attitude_towards_work
+  - action: utter_Aries_attitude_towards_work
+  
+- story: Aries_is_rest path
+  steps:
+  - intent: Aries_is_rest
+  - action: utter_Aries_rest
+  
+- story: Aries_is_lucky_thing path
+  steps:
+  - intent: Aries_is_lucky_thing
+  - action: utter_Aries_lucky_thing
+  
+- story: Aries_and_friends path
+  steps:
+  - intent: Aries_and_friends
+  - action: utter_Aries_and_friends
+  
+- story: Aries_notes path
+  steps:
+  - intent: Aries_notes
+  - action: utter_Aries_notes 
+
+- story: Before_Aries path
+  steps:
+  - intent: Before_Aries
+  - action: utter_Before_Aries
+
+- story: After_Aries path
+  steps:
+  - intent: After_Aries
+  - action: utter_After_Aries
+
+- story: Hobby_Aries path
+  steps:
+  - intent: Hobby_Aries
+  - action: utter_Hobby_Aries
+
+- story: Three_views_Aries path
+  steps:
+  - intent: Three_views_Aries
+  - action: utter_Three_views_Aries
+
+- story: Afraid_of_Aries path
+  steps:
+  - intent: Afraid_of_Aries
+  - action: utter_Afraid_of_Aries
+
+- story: Looks_Aries path
+  steps:
+  - intent: Looks_Aries
+  - action: utter_Looks_Aries
+
+- story: Ability_Aries path
+  steps:
+  - intent: Ability_Aries
+  - action: utter_Ability_Aries
+
+- story: Expression_Aries path
+  steps:
+  - intent: Expression_Aries
+  - action: utter_Expression_Aries
+
+- story: Solve_Aries path
+  steps:
+  - intent: Solve_Aries
+  - action: utter_Solve_Aries
+
+- story: Treat_parents_Aries path
+  steps:
+  - intent: Treat_parents_Aries
+  - action: utter_Treat_parents_Aries
+
+- story: Treat_children_Aries path
+  steps:
+  - intent: Treat_children_Aries
+  - action: utter_Treat_children_Aries
+
+- story: Fortune_Aries path
+  steps:
+  - intent: Fortune_Aries
+  - action: utter_Fortune_Aries
+
+
+
+
+
+
+

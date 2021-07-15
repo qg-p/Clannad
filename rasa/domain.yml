@@ -8,26 +8,1762 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - Leo_time
+  - Leo_man_is_character
+  - Leo_personality
+  - Leo_woman_is_character
+  - Get_along_with_Leo
+  - Different_Leo
+  - Leo_alone
+  - The_advantages_of_Leo
+  - Disadvantages_of_Leo
+  - Leo_is_attitude_towards_work
+  - Leo_is_rest
+  - Leo_is_lucky_thing
+  - Leo_and_friends
+  - Leo_notes
+  - Before_Leo
+  - After_Leo
+  - Hobby_Leo
+  - Three_views_Leo
+  - Afraid_of_Leo
+  - Looks_Leo
+  - Ability_Leo
+  - Expression_Leo
+  - Solve_Leo
+  - Treat_parents_Leo
+  - Treat_children_Leo
+  - Fortune_Leo
+  - Constellation_fortune 
+  - Constellation_characteristics 
+  - Constellation_shortcomings 
+  - Constellation_time 
+  - Constellation_graphics 
+  - Astrology_origin 
+  - Know_constellation 
+  - Ascendant_constellation 
+  - Think_Constellations 
+  - Like_Constellations 
+  - Hate_constellation 
+  - Constellation_friends 
+  - Constellation_oneself 
+  - Constellation_treat 
+  - Constellation_luck 
+  - Constellation_talent 
+  - Libra_time
+  - Before_Libra
+  - After_Libra
+  - Hobby_Libra
+  - Three_views_Libra
+  - Afraid_of_Libra
+  - Looks_Libra
+  - Ability_Libra
+  - Expression_Libra
+  - Solve_Libra
+  - Treat_parents_Libra
+  - Treat_children_Libra
+  - Fortune_Libra
+  - Libra_man_is_character
+  - Libra_personality
+  - Libra_woman_is_character
+  - Get_along_with_Libra
+  - Different_Libra
+  - Libra_alone
+  - The_advantages_of_Libra
+  - Disadvantages_of_Libra
+  - Libra_is_attitude_towards_work
+  - Libra_is_rest
+  - Libra_is_lucky_thing
+  - Libra_and_friends
+  - Libra_notes 
+  - Aquarius_time
+  - Before_Aquarius
+  - After_Aquarius
+  - Hobby_Aquarius
+  - Three_views_Aquarius
+  - Afraid_of_Aquarius
+  - Looks_Aquarius
+  - Ability_Aquarius
+  - Expression_Aquarius
+  - Solve_Aquarius
+  - Treat_parents_Aquarius
+  - Treat_children_Aquarius
+  - Fortune_Aquarius
+  - Aquarius_man_is_character
+  - Aquarius_personality
+  - Aquarius_woman_is_character
+  - Get_along_with_Aquarius
+  - Different_Aquarius
+  - Aquarius_alone
+  - The_advantages_of_Aquarius
+  - Disadvantages_of_Aquarius
+  - Aquarius_is_attitude_towards_work
+  - Aquarius_is_rest
+  - Aquarius_is_lucky_thing
+  - Aquarius_and_friends
+  - Aquarius_notes 
+  - Gemini_time
+  - Before_Gemini
+  - After_Gemini
+  - Hobby_Gemini
+  - Three_views_Gemini
+  - Afraid_of_Gemini
+  - Looks_Gemini
+  - Ability_Gemini
+  - Expression_Gemini
+  - Solve_Gemini
+  - Treat_parents_Gemini
+  - Treat_children_Gemini
+  - Fortune_Gemini
+  - Gemini_man_is_character
+  - Gemini_personality
+  - Gemini_woman_is_character
+  - Get_along_with_Gemini
+  - Different_Gemini
+  - Gemini_alone
+  - The_advantages_of_Gemini
+  - Disadvantages_of_Gemini
+  - Gemini_is_attitude_towards_work
+  - Gemini_is_rest
+  - Gemini_is_lucky_thing
+  - Gemini_and_friends
+  - Gemini_notes 
+  - Pisces_time
+  - Before_Pisces
+  - After_Pisces
+  - Hobby_Pisces
+  - Three_views_Pisces
+  - Afraid_of_Pisces
+  - Looks_Pisces
+  - Ability_Pisces
+  - Expression_Pisces
+  - Solve_Pisces
+  - Treat_parents_Pisces
+  - Treat_children_Pisces
+  - Fortune_Pisces
+  - Pisces_man_is_character
+  - Pisces_personality
+  - Pisces_woman_is_character
+  - Get_along_with_Pisces
+  - Different_Pisces
+  - Pisces_alone
+  - The_advantages_of_Pisces
+  - Disadvantages_of_Pisces
+  - Pisces_is_attitude_towards_work
+  - Pisces_is_rest
+  - Pisces_is_lucky_thing
+  - Pisces_and_friends
+  - Pisces_notes 
+  - Scorpio_time
+  - Before_Scorpio
+  - After_Scorpio
+  - Hobby_Scorpio
+  - Three_views_Scorpio
+  - Afraid_of_Scorpio
+  - Looks_Scorpio
+  - Ability_Scorpio
+  - Expression_Scorpio
+  - Solve_Scorpio
+  - Treat_parents_Scorpio
+  - Treat_children_Scorpio
+  - Fortune_Scorpio
+  - Scorpio_man_is_character
+  - Scorpio_personality
+  - Scorpio_woman_is_character
+  - Get_along_with_Scorpio
+  - Different_Scorpio
+  - Scorpio_alone
+  - The_advantages_of_Scorpio
+  - Disadvantages_of_Scorpio
+  - Scorpio_is_attitude_towards_work
+  - Scorpio_is_rest
+  - Scorpio_is_lucky_thing
+  - Scorpio_and_friends
+  - Scorpio_notes 
+  - Before_Aries
+  - After_Aries
+  - Hobby_Aries
+  - Three_views_Aries
+  - Afraid_of_Aries
+  - Looks_Aries
+  - Ability_Aries
+  - Expression_Aries
+  - Solve_Aries
+  - Treat_parents_Aries
+  - Treat_children_Aries
+  - Fortune_Aries
+  - Aries_man_is_character
+  - Aries_personality
+  - Aries_woman_is_character
+  - Get_along_with_Aries
+  - Different_Aries
+  - Aries_alone
+  - The_advantages_of_Aries
+  - Disadvantages_of_Aries
+  - Aries_is_attitude_towards_work
+  - Aries_is_rest
+  - Aries_is_lucky_thing
+  - Aries_and_friends
+  - Aries_notes 
+  - Before_Virgo
+  - After_Virgo
+  - Hobby_Virgo
+  - Three_views_Virgo
+  - Afraid_of_Virgo
+  - Looks_Virgo
+  - Ability_Virgo
+  - Expression_Virgo
+  - Solve_Virgo
+  - Treat_parents_Virgo
+  - Treat_children_Virgo
+  - Fortune_Virgo
+  - Virgo_man_is_character
+  - Virgo_personality
+  - Virgo_woman_is_character
+  - Get_along_with_Virgo
+  - Different_Virgo
+  - Virgo_alone
+  - The_advantages_of_Virgo
+  - Disadvantages_of_Virgo
+  - Virgo_is_attitude_towards_work
+  - Virgo_is_rest
+  - Virgo_is_lucky_thing
+  - Virgo_and_friends
+  - Virgo_notes 
+  - Before_Taurus
+  - After_Taurus
+  - Hobby_Taurus
+  - Three_views_Taurus
+  - Afraid_of_Taurus
+  - Looks_Taurus
+  - Ability_Taurus
+  - Expression_Taurus
+  - Solve_Taurus
+  - Treat_parents_Taurus
+  - Treat_children_Taurus
+  - Fortune_Taurus
+  - Taurus_man_is_character
+  - Taurus_personality
+  - Taurus_woman_is_character
+  - Get_along_with_Taurus
+  - Different_Taurus
+  - Taurus_alone
+  - The_advantages_of_Taurus
+  - Disadvantages_of_Taurus
+  - Taurus_is_attitude_towards_work
+  - Taurus_is_rest
+  - Taurus_is_lucky_thing
+  - Taurus_and_friends
+  - Taurus_notes
+  - Before_Cancer
+  - After_Cancer
+  - Hobby_Cancer
+  - Three_views_Cancer
+  - Afraid_of_Cancer
+  - Looks_Cancer
+  - Ability_Cancer
+  - Expression_Cancer
+  - Solve_Cancer
+  - Treat_parents_Cancer
+  - Treat_children_Cancer
+  - Fortune_Cancer
+  - Cancer_man_is_character
+  - Cancer_personality
+  - Cancer_woman_is_character
+  - Get_along_with_Cancer
+  - Different_Cancer
+  - Cancer_alone
+  - The_advantages_of_Cancer
+  - Disadvantages_of_Cancer
+  - Cancer_is_attitude_towards_work
+  - Cancer_is_rest
+  - Cancer_is_lucky_thing
+  - Cancer_and_friends
+  - Cancer_notes 
+  - Before_Capricornus
+  - After_Capricornus
+  - Hobby_Capricornus
+  - Three_views_Capricornus
+  - Afraid_of_Capricornus
+  - Looks_Capricornus
+  - Ability_Capricornus
+  - Expression_Capricornus
+  - Solve_Capricornus
+  - Treat_parents_Capricornus
+  - Treat_children_Capricornus
+  - Fortune_Capricornus
+  - Capricornus_man_is_character
+  - Capricornus_personality
+  - Capricornus_woman_is_character
+  - Get_along_with_Capricornus
+  - Different_Capricornus
+  - Capricornus_alone
+  - The_advantages_of_Capricornus
+  - Disadvantages_of_Capricornus
+  - Capricornus_is_attitude_towards_work
+  - Capricornus_is_rest
+  - Capricornus_is_lucky_thing
+  - Capricornus_and_friends
+  - Capricornus_notes
+  - Before_Sagittarius
+  - After_Sagittarius
+  - Hobby_Sagittarius
+  - Three_views_Sagittarius
+  - Afraid_of_Sagittarius
+  - Looks_Sagittarius
+  - Ability_Sagittarius
+  - Expression_Sagittarius
+  - Solve_Sagittarius
+  - Treat_parents_Sagittarius
+  - Treat_children_Sagittarius
+  - Fortune_Sagittarius
+  - Sagittarius_man_is_character
+  - Sagittarius_personality
+  - Sagittarius_woman_is_character
+  - Get_along_with_Sagittarius
+  - Different_Sagittarius
+  - Sagittarius_alone
+  - The_advantages_of_Sagittarius
+  - Disadvantages_of_Sagittarius
+  - Sagittarius_is_attitude_towards_work
+  - Sagittarius_is_rest
+  - Sagittarius_is_lucky_thing
+  - Sagittarius_and_friends
+  - Sagittarius_notes
+  - ask_bot
+
+
+
+
 
 responses:
-  utter_greet:
-  - text: "Hey! How are you?"
+    utter_greet:
+    - text: "Hey! How are you?"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+    utter_ask_bot:
+    - text: "I'm just a robot dedicated to serving others."
 
-  utter_did_that_help:
-  - text: "Did that help you?"
+    utter_cheer_up:
+    - text: "Here is something to cheer you up:"
 
-  utter_happy:
-  - text: "Great, carry on!"
 
-  utter_goodbye:
-  - text: "Bye"
+    utter_did_that_help:
+    - text: "Did that help you?"
 
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+    utter_happy:
+    - text: "Great, carry on!"
+
+    utter_goodbye:
+    - text: "Bye"
+
+    utter_iamabot:
+    - text: "I am a bot, powered by Rasa."
+      
+    utter_Leo_time:
+    - text: "Leo is July 23 to August 22."
+      
+    utter_Leo_man_character:
+    - text: "Leo man is character is high self-esteem, show off and strong leadership.They love face and are confident. They often care about what others think of themselves, and they often make themselves unhappy. They are born with super confidence and perseverance. They seem rigorous and indifferent, but they are lonely, fragile and delicate. He never bowed his head in front of any difficulties. He always held his head high and overcame difficulties with perseverance"
+
+    utter_Leo_personality:
+    - text: "Leo is the fifth house of the zodiac, and the sun is the ruling star. Just like the sun, Leo radiates dazzling light and is the messenger of light and justice. The lion is independent and self-centered. He has his own ideals and loves to express himself. He hopes to be appreciated by everyone. The lion is a good hand, will try to do everything to be the most perfect. Lions live up to their reputation, mostly domineering side leak, has excellent leadership."
+
+    utter_Leo_woman_character:
+    - text: "Pretending to be strong.She is romantic and generous by nature, and he likes high quality goods. They often dress luxuriantly and shine brightly, and their manners are full of brilliance. Their inborn temperament gives people the image of indifference and domineering, and they have their own personality. They are born with a kind of imposing manner, not deliberately pretended, but born. And very strong, the pursuit of perfection"
+
+    utter_Get_along_with_Leo:
+    - text: "One way to get along: don't tear down the Leo platform in front of everyone. Leo is always extreme to face, and Leo likes to be in front of the crowd, become the focus of the public is the pursuit of Leo, if you want to live in peace with Leo, please remember not to tear down the stage of Leo in front of the public, so that Leo can not get off the stage. If you let the hot tempered Leo lose face, then be ready to bear the machine gun attack of Leo. The gentle Leo will ignore you angrily.Two ways to get along: don't ignore Leo. If you want to make peace with Leo, please don't ignore Leo. Lions need to emphasize their own sense of existence to get a sense of security, if you ignore Leo, Leo will think your attitude is very unfriendly, and then you have no good face. If it is serious cold violence, then the lion will take some measures and treat you as the enemy.Three ways to get along: don't take yourself too lightly. Leo has its own standards when choosing friends. The people who can become friends under the careful selection of Leo are mostly commensurate with the level of Leo. They also have a strong self-confidence in themselves. If you are cowardly and self abased, and belittle yourself every day, Leo will disdain to get along with you. People always hold their heads high when they are full of confidence, Instead of shrinking from the dark, be confident. The open-minded Leo will naturally regard you as someone of equal status."
+
+    utter_Different_Leo:
+    - text: "And Aquarius, discord, but there is a kind of inexplicable fear and respect. As a matter of fact, it is very suitable for the lion and Pisces to be friends. However, when they are lovers, their personalities are a little conflicting. One is as gentle as water, and the other is as warm as fire. But if both sides are willing to make concessions, it is good to be together. And Aries, should belong to the most similar character of a class of people. And Taurus, super big discord, and it is not like. And Gemini, where the good can play together, where the bad to avoid. And cancer, good, very match, whether it is character or other aspects are very well. And the lion, it should be said that they are the two Constellations that know each other best, but because of this, sometimes they will hate the similarity of each other very much, or they will alienate each other. And virgins, it is easy to play, the easiest to become good friends. And Libra, they can play together. And Scorpio, love each other, kill each other and abuse each other. And Sagittarius, the easiest to be a partner. And Capricorn, do not appreciate the dull Capricorn, but it can also be considered to get alongWhat does Leo like to do alone"
+
+    utter_Leo_alone:
+    - text: "Sometimes they fantasize about themself after success or play games"
+
+    utter_The_advantages_of_Leo:
+    - text: "Leo is advantage 1, heavy sentiment heavy righteousness.Leo usually gives people the feeling of being strong and arrogant, but it doesn't affect their kindness. They like to help people around them and won't do things that harm others and benefit themselves. They value emotion more. In their eyes, friendship and face are equally important. If their friends are in trouble, they will go to help without hesitation, They deeply know that friends are their life is wealth..Leo is advantage 2, progress.The outstanding advantage of lion mouth is that it is particularly progressive, and they will drive the people around you to make progress together. When you are with them, you will never feel lazy, because they will supervise you to make progress together.Leo is advantage three, king style.Leo gives outsiders the biggest impression is that they are king style, strong leadership, respected by everyone, and decisive and independent. They are good at strategizing, and know how to use their ability and power to achieve their goals. But the principle is that we can only work hard in a proper way, not by despicable means. Lions have been shaping the dignity is not built, they are sent out from the bones are decent characters..Leo is advantages four, the most generous.Due to the love of face, generosity has become the advantage of Leo. Once a friend borrows money from them, his inner self-esteem will start to cause trouble. No matter how much money he has, as long as he can afford it, Leo will borrow it immediately without saying a word. Leo thinks that people who are not willing to borrow money have no face. How can they not have face. However, Leo is generosity is not due to face problems, but also largely because of their kindness. Although Leo people have a big temper, they are reluctant to speak and act faster than anyone else. Leo is the most generous of the twelve Constellations..Leo advantage 5, positive self-confidence, positive energy.Leo people always have confidence in themselves. No matter what difficulties they encounter, Leo people are full of no fear at all! As long as it is something that the Leo people identify and recognize, then they will do their best to finish and do well. In order to achieve their ideal, it can be said that the Leo people will spare no effort to eliminate all difficulties and dangers. No matter how big the storm is, the Leo people will also use full positive energy to turn the tide and save the danger, just for the thrilling rainbow after the storm!"
+
+    utter_Disadvantages_of_Leo:
+    - text: "Glass heart + good face + quick temper.The copyright belongs to the author. For commercial reprint, please contact the author for authorization. For non-commercial reprint, please indicate the source..It is very sensitive, but try to act like you can do anything. Leo is a typical soft player. If you make the lion angry, it can be solved by a Jiao, but if you are tough with TA, then TA will treat it equally. Empathy is strong. Conceited, sometimes not listening to other people is opinions. Heavy burden, good face, very concerned about other people is eyes. No matter what I do, I'm afraid that other people is ideas will go against me. Or fear of denial. It is emotional. I'm very dedicated to my feelings. It is the kind that if you don't get into it, it is OK. Once you get into it, it is over. I will try my best to be nice to the people I like. But in the feelings is a more awkward person. Used to compete with him, unwilling to bow first. A lot of words are always scruple about this scruple that, dare not say. It leads to deep accumulation. Is in front of the person you like will become cowardly. There is no feeling of arrogance. Lions are very proud, if willing to bow in front of you, coax you, put down all face, it must love you. Lions are never afraid to express their love. I'm very loyal to my friends. I'm willing to help if I can. Generous, not stingy. In fact, it is a bit stingy, but I won't save money at all. Mild obsessive-compulsive disorder. For example, now I think the answer is messy, and I am in the process of typesetting. I love to cry. But I don't cry in front of people who are just as friendly. Very restrained. I'm also afraid of breaking other people is hearts. Even if I have a problem with others, I will say it in a euphemistic way. Self confidence + inferiority complex. I deny myself intermittently. Yan Kong. Of course, it is for myself. I have high requirements for my appearance and clothes. Of course, I love handsome and beautiful women. He is very easygoing and can speak well in front of familiar people. Between ideal and reality. I love fantasy, but I also think about reality. I really don't want to do things I don't like. Three minutes of heat. There is no plan for things. Get used to going step by step. Work impetuous, sink heart. I like to be used to myself. If you suddenly want to do something when you are doing something, or if you suddenly want to do something, you will immediately put down what you should do and do what you shouldn't do."
+
+    utter_Leo_attitude_towards_work:
+    - text: "1. Leo A is characterized by an indomitable mentality. The more difficult it is, the more you want to try and conquer it. This iron will, as well as the quick heart to carry it out, can turn decay into magic. Therefore, they can devote themselves to challenging work and express their views at any time. Because he likes to lead others, he often conflicts with colleagues or supervisors in his work. Because the ideal is too high, when things are not as perfect as they imagine or can not reach the set goal, they will appear anxious and lose confidence.2. Outgoing personality, tolerance to others is the unique charm of Leo, and inner loneliness is the biggest weakness. Although Leo people tend to be angry, impatient and unstable, they are naturally optimistic. The biggest problem is that they can't bear to be flattered by others and like to hear praise. Although it is good to have confidence in yourself, be careful that overconfidence will do more harm to you. If you can get popularity, let people around you cheer, you will be willing to make any sacrifice to meet their vanity.3. Leo is bold, confident and generous, with fighting spirit, cheerful personality, freedom and noble sentiment. Do anything can go all out, unremitting efforts, no fear, once decided to do things, absolutely carry through to the end, personality although some impatient, like great success, but it is the main reason for Leo success.4. Leo, who is as enthusiastic as fire, has a strong self-esteem and is not easy to compromise. Most of them bear a lot of work pressure in their heart. They are warm in appearance but lonely in heart. However, Leo, who has a good will and self-motivated, never has the idea of money is better than everything in his mind, so he is generous in spending money, never stingy, and hates stinginess very much. When he sees people in trouble, he will not hesitate to lend a helping hand. He has a strong sense of justice, so he has a good interpersonal relationship."
+
+    utter_Leo_rest:
+    - text: "Leo has very little leisure time and will think about how to get busy several times"
+
+    utter_Leo_lucky_thing:
+    - text: "Leo is biggest problem is that he can't save money. It is easy to spend money like running water. So the lion is first choice of lucky items should be a stable partner who can control him and stimulate his sense of responsibility. Sometimes the lion is too big to do things without thinking. A stable partner can complement him. As long as he has a lover, he will change greatly. He is stingy to himself and willing to pay to his family If this first choice can't get such a lucky item, it should be a cool wallet, so that he can reduce his impulse when spending money. As long as he is willing to save money, there should be not many unlucky things"
+
+    utter_Leo_and_friends:
+    - text: "Leo of self will not sacrifice or pay for others, but hope to get others' contribution. There is no loyalty in their world, only control..Leo is generous, strong feelings, is an extraordinary person, his enthusiasm and prestige make his career and ideal can be successful. Arrogance is the outstanding characteristic of his character. In addition, he is broad-minded, farsighted, and has the ability to eliminate difficulties and control the situation. Therefore, it is easy for people to have respect and admiration for him. At the same time, they are generous, generous and sincere, and will not mystify and treat others falsely. They have a clear sense of gratitude and resentment. One is one and the other is two. They treat you sincerely as a friend. I don't hate you in my heart, but I'm friends with you on the surface."
+
+    utter_Leo_notes:
+    - text: "Leo is one of the 12 Constellations that loves to listen to lies. If you want a lion to lie, it will make him uncomfortable. But a little white lie will make him dizzy. It is said that the king in the fairy tale the emperor is new clothes is the standard Leo, and the two black-and-white tailors must be Gemini. When the king put on his new clothes and walked the street, he didn't know his face and laughed loudly, ha ha, the king is not dressed! My child is definitely Sagittarius!.Leo boy with great personality, has the ability and toughness different from ordinary people. That is one of the reasons you're blessed with success. The self-confident and opinionated lion man, with outstanding leadership skills, not only has full prestige, but also has many followers around him. On the contrary, you cannot be ordered to be self-centered. Such self-esteem and pride of the lion man, in fact, the heart is lonely and fragile, just covered up with a cold appearance."
+
+    utter_Before_Leo:
+    - text: "The sign preceding Leo is Cancer"
+
+    utter_After_Leo:
+    - text: "Leo's next sign is Virgo"
+
+    utter_Hobby_Leo:
+    - text: "The Leo is quite romantic, and loves beautiful things, showing off, luxury and being surrounded and admired. Leos are life-loving, fun-loving, brave, and stick to principles and ideas."
+
+    utter_Three_views_Leo:
+    - text: "Career: Leo has a strong desire to succeed, and is usually a good organizer and manager. Money: Leo often gives a person the impression of luxury, they are the advocate of famous brand, under the surface of good face very forthright, generous very willing to spend a lot of money for friends, for love. Although Leo spends a lot of money, they know how to make money. Love: Leo is a sign full of love and positive energy, strong feelings, the pursuit of vigorous love, is the dream of dreams"
+
+    utter_Afraid_of_Leo:
+    - text: "Leos are afraid of losing face and being trusted by others. They are forced into decline by life, stealing the limo from Leo and causing harm to others due to their emotional outbursts"
+
+    utter_Looks_Leo:
+    - text: "Never give up, never say die, there is a life, struggle more than hot heart. This kind of person has a super self-confidence, even if born in poverty, but also maintain an inviolable dignity. They also have a stubborn tenacity, a strong belief in their own ideas, and a strong personality."
+
+    utter_Ability_Leo:
+    - text: "Leo is energetic and outgoing. They are able to put their abilities into full play. They have a strong desire to lead, and they want to impress others and gain praise for everything they do."
+
+    utter_Expression_Leo:
+    - text: "Leos have a flexible mind and will react differently to different situations. They will change the way they communicate with others, and their flexible mind will help them cope with social situations in a timely manner."
+
+    utter_Solve_Leo:
+    - text: "The way they solve problems is to challenge others and listen to those who are stronger than others, rather than lower their heads and talk the truth to others, which they think is the most ineffective method."
+
+    utter_Treat_parents_Leo:
+    - text: "Leo can't turn a blind eye to their parents, the ones who raised them to be adults. Because that kind of behavior is against their own conscience, against their own moral code. Therefore, Leo would rather be wronged by themselves than make their parents suffer."
+
+    utter_Treat_children_Leo:
+    - text: "They love their children very much, because they also love freedom, of course, the children are also very free, the child's mind is very open, unrestrained, so cultivate the children's imagination will be very good"
+
+    utter_Fortune_Leo:
+    - text: "Leo will have the best career luck, love will be on a straight line, and financial luck will be slightly better in the first half of the year"
+
+    utter_Constellation_talent:
+    - text: " Aries - challenge. Taurus - integration. Gemini - creative. Cancer - love. Virgo - call. Libra - communication. Scorpio - discovery. Sagittarius - expand. Capricorn - build. Aquarius - innovation. Pisces - comfort."
+
+    utter_Constellation_luck:
+    - text: " Aries - OK. Taurus - good. Gemini - average. Cancer - very good. Virgo - not bad. Libra - not bad. Scorpio - poor. Sagittarius - very bad. Capricorn - average. Aquarius - OK. Pisces - good."
+
+    utter_Constellation_treat:
+    - text: " Aries - gentle. Taurus - stingy. Gemini - strange. Cancer - kindness. Virgo - picky. Libra - fair. Scorpio - insidious. Sagittarius - enthusiasm. Capricorn - take off. Aquarius - literature and art. Pisces - turn over."
+
+    utter_Constellation_oneself:
+    - text: " Aries - sheep. Taurus - Taurus. Gemini - twins. Cancer - crab. Virgo woman. Libra - Libra. Scorpio - Scorpio. Sagittarius - bow and arrow. Capricorn - Scorpio. Aquarius - water cup. Pisces - fish."
+
+    utter_Constellation_friends:
+    - text: " Cancer .Because I am cancer."
+
+    utter_Hate_constellation:
+    - text: " Sagittarius. Because Baidu says Sagittarius is the most unworthy cancer. "
+
+    utter_Like_Constellations:
+    - text: " Cancer .Because I am cancer"
+
+    utter_Think_Constellations:
+    - text: " Sitting to see, lying to see, how comfortable to see"
+
+    utter_Ascendant_constellation:
+    - text: " In Western astrology, the rising constellation, also known as the birth star position."
+
+    utter_Know_constellation:
+    - text: " I don't know a lot about it. How about Baidu in detail.lol"
+
+    utter_Astrology_origin:
+    - text: " People divide the sky into several regions, and each region is a constellation. This kind of astronomical knowledge was understood long before there were historical records "
+
+    utter_Constellation_graphics:
+    - text: " Aries - sheep. Taurus - Taurus. Gemini - twins. Cancer - crab. Virgo - woman. Libra - Libra. Scorpio - Scorpio. Sagittarius - bow and arrow. Capricorn - Scorpio. Aquarius - water cup. Pisces - fish."
+
+    utter_Constellation_time:
+    - text: " Aries - March 21 - April 20 Taurus - April 21 - May 21 Gemini - May 22 - June 21 cancer - June 22 - July 22 Leo - July 23 - August 23 Virgo - August 24 - September 23 Libra - September 24 - October 23 Scorpio - October 24 - November 22 Sagittarius - November 23 - December 21 Capricorn - December 22 - January 20 Aquarius - January 21 - February 19 Pisces - February 20 - March 20"
+
+    utter_Constellation_shortcomings:
+    - text: " Aries - stubborn. Taurus - prejudice. Gemini - indecisive. Cancer - lust. Virgo - picky. Libra - temptation. Scorpio - merciless. Sagittarius - indecisive. Capricorn - stubborn. Aquarius - disobedience. Pisces - flinch."
+
+    utter_Constellation_characteristics:
+    - text: " Aries - full of hope. Taurus - romantic. Gemini - diversity. Cancer - sixth sense. Virgo - methodical. Libra - idealism. Scorpio - mystery. Sagittarius - reason. Capricorn - superior. Aquarius - originality. Pisces - conscious. "
+
+    utter_Constellation_fortune:
+    - text: " In 2021, Leos comprehensive fortunes will be vigorous, which means that his studies, career, financial, emotional and healthy fortunes will continue to develop in a good direction. "
+
+    utter_Scorpio_notes:
+    - text: " Note that it is easy to become the leader of a small group, but it is difficult to become the soul of a large group, so we should restrain our desire for power and move forward steadily."
+
+    utter_Scorpio_and_friends:
+    - text: "Scorpio people don't like others to be their burden, especially when they pursue their ideal wholeheartedly. They usually don't like to be influenced by others, but unfortunately, as lovers, they are easily influenced by the people they like."
+
+    utter_Scorpio_lucky_thing:
+    - text: " And the only one who can use gold as a lucky object is the mysterious Scorpio. In the current situation of silver flying all over the world, gold and Scorpio mysterious temperament is very appropriate. "
+
+    utter_Scorpio_rest:
+    - text: "Struggle can let Scorpio see hope, leisure will only let Scorpio have a feeling of waiting to die, waiting for bad things to come, so Scorpio takes struggle as fun "
+
+    utter_Scorpio_attitude_towards_work:
+    - text: "Have a strong willpower and calm personality, although not keen, but curiosity is very strong, can turn adversity into prosperity. Although the appearance looks honest and honest, in fact, the heart hidden passion, this is the basic character of Scorpio."
+
+    utter_Disadvantages_of_Scorpio:
+    - text: "Scorpio is always right and wrong, Scorpio is very enthusiastic to a person, most of the time you have no idea, Scorpio has a very strong possessive."
+
+    utter_The_advantages_of_Scorpio:
+    - text: "Scorpio people have a sixth sense. It seems that most of the things around them are in their expectation, and their judgments will come true. Scorpio always knows their peers like many old people ."
+
+    utter_Scorpio_alone:
+    - text: "Sometimes they fantasize about themself after success or play games"
+
+    utter_Different_Scorpio:
+    - text: "Scorpio's gentleness is different from others. We always think that Scorpio is an inaccessible and icy character. In fact, even if it is an iceberg, as long as you are warm enough, it will melt one day. Scorpio is not an unattainable person."
+
+    utter_Get_along_with_Scorpio:
+    - text: "Get along with Scorpio, you have to be warm, with your warmth, to melt his appearance, you will find his inner fire. But don't try to communicate with him coldly."
+
+    utter_Scorpio_woman_character:
+    - text: " Scorpio women are usually sexy and beautiful, they exude charming temperament, full of mystery. Not only the appearance, they also have high IQ and EQ. Whether in the workplace or in life, they can handle the big and small things very well."
+
+    utter_Scorpio_personality:
+    - text: " Scorpio's character is calm, will is very firm, even a bit stubborn, once set goals will not easily let go, will not be distracted, want to think about things without a goal. They have very passionate feelings, but most of them are hidden deeper."
+
+    utter_Scorpio_man_character:
+    - text: " Scorpio boys, whether they are observing people or understanding other people's hearts, can observe the details that ordinary people can't detect. They have the ability to reach other people's hearts. Scorpio men are unusual. They are affectionate and affectionate"
+
+    utter_Fortune_Scorpio:
+    - text: " Scorpio's fortune in 2021 is relatively smooth. You will not experience many tense moments like 2020. Instead, you will slow down your pace and have a Buddhist attitude towards many things."
+
+    utter_Treat_children_Scorpio:
+    - text: " Scorpio people do not like children, they do not like naughty children, but that child is not naughty, Scorpio will seriously reprimand"
+
+    utter_Treat_parents_Scorpio:
+    - text: " Scorpio is very emotional, the sixth sense is very strong, especially when they get along with their parents, they will keep in mind every word that their parents say, no matter good or bad, they love face."
+
+    utter_Solve_Scorpio:
+    - text: " When things change, Scorpio will be more excited. They are always enthusiastic. So they are not afraid of the variables in life. Because variables allow them to show their abilities better ."
+
+    utter_Expression_Scorpio:
+    - text: " Scorpio's personality is more complex, they enjoy the lively environment, but also can tolerate the loneliness of solitude. And Scorpio's mind is quite deep, has a kind of see people say people say ghosts say the ability."
+
+    utter_Ability_Scorpio:
+    - text: " Scorpio is a very good constellation, is also a very powerful constellation, but their ability index is not the highest, and only Samsung."
+
+    utter_Looks_Scorpio:
+    - text: " Scorpio men and women are the most easy to identify, the symbolic place is his deep magic eyes. "
+
+    utter_Afraid_of_Scorpio:
+    - text: " Scorpio is afraid of each other's not simply, because Scorpio is very neat to the feelings. In their eyes, love is love, hate is hate. Scorpio love and hate clearly, there is no gray area "
+
+
+    utter_Three_views_Scorpio:
+    - text: " Scorpio is easy to go extreme in the relationship, Scorpio has nothing to be choosy about in career, brave, discerning, courageous, and action Scorpio also looks at money very heavily "
+
+    utter_Hobby_Scorpio:
+    - text: " In addition to watching horror movies, Scorpio is also keen to watch detective dramas, mystery dramas and suspense movies in his spare time. They like to release pressure."
+
+    utter_After_Scorpio:
+    - text: "Scorpio's next sign is aquarius "
+
+    utter_Before_Scorpio:
+    - text: "The sign preceding Scorpio is libra"
+
+    utter_Scorpio_time:
+    - text: " October 24 - November 22. "
+
+    utter_Pisces_notes:
+    - text: " Pisces most should pay attention to, is not always let yourself cry, to learn to let yourself strong."
+
+    utter_Pisces_and_friends:
+    - text: " There are many people in your eyes, but there is only one person in your heart. This is Pisces. It's good for everyone because Pisces never knows how to refuse the person who cares most, not necessarily the one Pisces often talks about."
+
+    utter_Pisces_lucky_thing:
+    - text: " Dominating planet Neptune lucky gem Amethyst, diamond attribute water sign lucky number 6,7 lucky day Tuesday lucky location metropolis lucky color bright red"
+
+    utter_Pisces_rest:
+    - text: " Pisces people also like fantasy when they are at leisure, and try to escape the difficulties and troubles in life with fantasy."
+
+    utter_Pisces_attitude_towards_work:
+    - text: " Pisces doesn't pay attention to evidence and research spirit. She likes to act according to her own feelings. No matter what other people suggest, she will go her own way as long as she thinks it is feasible. She is not willing to take other people's advice."
+
+    utter_Disadvantages_of_Pisces:
+    - text: "Pisces are born with illusions and dreams. They like to immerse themselves in their dreams. It's easy to escape from things and get out of reality."
+
+    utter_The_advantages_of_Pisces:
+    - text: "Pisces are considerate, romantic, coquettish, kind-hearted, selfless, imaginative, emotional, intuitive, gentle and polite, easy to trust others"
+
+    utter_Pisces_alone:
+    - text: "Pisces boys who like to rely on you are actually the same as children. They should always carry what they like with them, and so are the people they like. They will want to be with you all the time,"
+
+    utter_Different_Pisces:
+    - text: "Pisces has all the advantages and disadvantages of the twelve signs in one, and can also be represented by the two Pisces swim to the opposite sign of a symbol of multiple contradictions. "
+
+    utter_Get_along_with_Pisces:
+    - text: " You should give him enough sense of security when you get along with Pisces. In the zodiac, we all know that Pisces will belong to a contradictory sign, and they will be quite insecure."
+
+    utter_Pisces_woman_character:
+    - text: " Pisces girls are gentle, understanding and compassionate. Simple and confused, often unconsciously worry about others. I'm not defensive to people."
+
+    utter_Pisces_personality:
+    - text: "Pisces people are very sensitive to the emotions of others. They are gentle and kind, understanding, frank and charming, and will not hurt people at will."
+
+    utter_Pisces_man_character:
+    - text: " Being gentle and considerate, Pisces man is always very gentle. He takes care of other people's mood and makes all kinds of warm and considerate actions. People who get along with him are very fond of him,"
+
+    utter_Fortune_Pisces:
+    - text: "This year has been a relatively smooth one for you. Take courage and march forward. This year, we are confident, clear-cut and courageous"
+
+    utter_Treat_children_Pisces:
+    - text: "They don't know how to discipline my children. In this case, if I can't scold and fight, Pisces is really at a loss"
+
+    utter_Treat_parents_Pisces:
+    - text: " All things consider their feelings, Pisces people, like to do whatever they want, and sometimes special fickle."
+
+    utter_Solve_Pisces:
+    - text: " Pisces likes to avoid problems rather than think about how to solve them."
+
+    utter_Expression_Pisces:
+    - text: " All expression is really from the heart. Pisces people show the body language is often true temperament, representing their feelings and thoughts at this moment, they often think how the heart."
+
+    utter_Ability_Pisces:
+    - text: "Pisces, who doesn't pay attention to evidence and research spirit, likes to act according to his own feelings. No matter how others suggest, as long as he thinks it is feasible, he will be isolated and unwilling to take others' advice. This personality often brings unfortunate consequences."
+
+    utter_Looks_Pisces:
+    - text: "Pisces people generally have big eyes, good-looking, and look a little sad. Sentimentality is their natural quality, but it always makes others feel distressed."
+
+    utter_Afraid_of_Pisces:
+    - text: " Pisces is afraid of loneliness, of being alone, of friends leaving him for no reason. If friends don't contact them for a long time, they will be very depressed and want to cry"
+
+    utter_Three_views_Pisces:
+    - text: " Pisces in the relationship has been a very unclear person, they do not have much ambition in the career, the desire for money is still very strong"
+
+    utter_Hobby_Pisces:
+    - text: "Like small animals or flowers like light music, occasionally wild can also like painting."
+
+    utter_After_Pisces:
+    - text: "Pisces's next sign is Aries"
+
+    utter_Before_Pisces:
+    - text: "The sign preceding Pisces is aquarius "
+
+    utter_Pisces_time:
+    - text: "Pisces is February 20 - March 20."
+
+    utter_Libra_time:
+    - text: "Libra is September 23 - October 23."
+
+    utter_Before_Libra:
+    - text: "The sign preceding Libra is Virgo"
+
+    utter_After_Libra:
+    - text: "Libra's next sign is scorpio"
+
+    utter_Hobby_Libra:
+    - text: " They are interested in handicrafts. They have strong hands-on ability. They usually like origami, fish, flowers, gardening and house decoration."
+
+    utter_Three_views_Libra:
+    - text: " Libra's view of emotion will occasionally have problems. Libra is still struggling in her career. Money is very important for Libra"
+
+    utter_Afraid_of_Libra:
+    - text: " The love most afraid of being ignored"
+
+    utter_Looks_Libra:
+    - text: " It looks good .Girls are beautiful, boys are handsome."
+
+    utter_Ability_Libra:
+    - text: " If you choose from the superior tact and social skills endowed by God, the most suitable job is one with development space, such as diplomat, writer, art, design and other related jobs."
+
+    utter_Expression_Libra:
+    - text: " Libra people are good at communicating with others, and they also like to talk with others in life. They always act as intimate friends. Libra not only eloquence is good, but also the body expression ability is very strong."
+
+    utter_Solve_Libra:
+    - text: " Hesitant, even if they already have the answer in mind, they also like to listen to other people's opinions."
+
+    utter_Treat_parents_Libra:
+    - text: " But Libra in the constellation has a good relationship with parents. I hope parents can get along with their parents."
+
+    utter_Treat_children_Libra:
+    - text: " cold treatment ignore him, when the child is not obedient, Libra will be very severe direct criticism or direct fight. Usually at this time, the child will pretend to cry pitifully, which may be useful for other parents"
+
+    utter_Fortune_Libra:
+    - text: " Libra's overall fortune is generally fair, careful living will feel very depressed, Libra's dissatisfaction has become more and more, this month Libra often feel that others and themselves can not get along, and did not adjust their mentality"
+
+    utter_Libra_man_character:
+    - text: " Libra boy's personality analysis boys pay more attention to reality, but Libra boy is an idealist, they pursue the balance between reality and ideal all their life."
+
+    utter_Libra_personality:
+    - text: " Social type Libra, with their amiable feeling and high EQ, no matter what they do, they are deeply loved by others. It's their nature to be tactful."
+
+    utter_Libra_woman_character:
+    - text: " careless. In general, the Libra girl's character is careless, if it is in love, the Libra girl generally will not take too much into account, love the right person after the Libra woman is very comfortable "
+
+    utter_Get_along_with_Libra:
+    - text: " Libras are very easy to get along with most of the time, and they are very tolerant and receptive. Even if others step on their minefield, Libras can mostly restrain and hide their emotions."
+
+    utter_Different_Libra:
+    - text: " Maybe in front of others, you will feel that the Libra is very elegant, indifferent to everything, heartless. But the real Libra is very fragile, just like water, which is broken when touched. The heart has been very lonely, hoping for warmth "
+
+    utter_Libra_alone:
+    - text: " Libra like a person will talk about you, he began to care about your body, care for you to the extreme. If Libra likes a person, he can't help talking about that person,"
+
+    utter_The_advantages_of_Libra:
+    - text: " Libra is a constellation rich in beautiful men and women. They are graceful, generous and have high Eq"
+
+    utter_Disadvantages_of_Libra:
+    - text: " Libra is also a severe obsessive-compulsive disorder. The desk will always be placed neatly, the books on the desk will always be aligned, and the corner of one book will not be allowed to come out."
+
+    utter_Libra_attitude_towards_work:
+    - text: " Calm Libra, do everything to maintain the mean, attaches great importance to the sense of balance, everything will not be too much. Have the right ability to evaluate the strength of others."
+
+    utter_Libra_rest:
+    - text: "Libra In the face of money or very smart, in order to get a better income, you will desperately want to work hard"
+
+    utter_Libra_lucky_thing:
+    - text: " Small jadeite should be hung on the neck and not taken off"
+
+    utter_Libra_and_friends:
+    - text: " It's very important for friends. I feel that my interpersonal relationship is growing rapidly. Libra is a passive constellation, a slow hot constellation, and a constellation that cannot be put away. The longer you know it, the better for you."
+
+    utter_Libra_notes:
+    - text: " Libra should pay attention to the maintenance of the relationship with friends when the full moon is coming. They are easy to quarrel because of a little thing, and then ignore their friendship for many years and say something ugly directly."
+
+
+
+
+    utter_Aquarius_time:
+    - text: "Aquarius is January 20 to August 2"
+
+    utter_Before_Aquarius:
+    - text: "The sign preceding Aquarius is Cancer"
+
+    utter_After_Aquarius:
+    - text: "Aquarius's next sign is Virgo"
+
+    utter_Hobby_Aquarius:
+    - text: "The Aquarius is quite romantic, and loves beautiful things, showing off, luxury and being surrounded and admired. Aquariuss are life-loving, fun-loving, brave, and stick to principles and ideas."
+
+    utter_Three_views_Aquarius:
+    - text: "Career: Aquarius has a strong desire to succeed, and is usually a good organizer and manager. Money: Aquarius often gives a person the impression of luxury, they are the advocate of famous brand, under the surface of good face very forthright, generous very willing to spend a lot of money for friends, for love. Although Aquarius spends a lot of money, they know how to make money. Love: Aquarius is a sign full of love and positive energy, strong feelings, the pursuit of vigorous love, is the dream of dreams"
+
+    utter_Afraid_of_Aquarius:
+    - text: "Aquariuss are afraid of losing face and being trusted by others. They are forced into decline by life, stealing the limo from Aquarius and causing harm to others due to their emotional outbursts"
+
+    utter_Looks_Aquarius:
+    - text: "Never give up, never say die, there is a life, struggle more than hot heart. This kind of person has a super self-confidence, even if born in poverty, but also maintain an inviolable dignity. They also have a stubborn tenacity, a strong belief in their own ideas, and a strong personality."
+
+    utter_Ability_Aquarius:
+    - text: "Aquarius is energetic and outgoing. They are able to put their abilities into full play. They have a strong desire to lead, and they want to impress others and gain praise for everything they do."
+
+    utter_Expression_Aquarius:
+    - text: "Aquariuss have a flexible mind and will react differently to different situations. They will change the way they communicate with others, and their flexible mind will help them cope with social situations in a timely manner."
+
+    utter_Solve_Aquarius:
+    - text: "The way they solve problems is to challenge others and listen to those who are stronger than others, rather than lower their heads and talk the truth to others, which they think is the most ineffective method."
+
+    utter_Treat_parents_Aquarius:
+    - text: "Aquarius can't turn a blind eye to their parents, the ones who raised them to be adults. Because that kind of behavior is against their own conscience, against their own moral code. Therefore, Aquarius would rather be wronged by themselves than make their parents suffer."
+
+    utter_Treat_children_Aquarius:
+    - text: "They love their children very much, because they also love freedom, of course, the children are also very free, the child's mind is very open, unrestrained, so cultivate the children's imagination will be very good"
+
+    utter_Fortune_Aquarius:
+    - text: "Aquarius will have the best career luck, love will be on a straight line, and financial luck will be slightly better in the first half of the year"
+
+    utter_Aquarius_man_character:
+    - text: "Aquarius man is character is high self-esteem, show off and strong leadership.They love face and are confident. They often care about what others think of themselves, but they are lonely, fragile and delicate. He never bowed his head in front of any difficulties. He always held his head high and overcame difficulties with perseverance"
+
+    utter_Aquarius_personality:
+    - text: "Aquarius is the fifth house of the zodiac, and the sun is the ruling star. Just like the sun, Aquarius radiates dazzling light and is the messenger of light and justice. The lion is a good hand, will try to do everything to be the most perfect. Lions live up to their reputation, mostly domineering side leak, has excellent leadership."
+
+    utter_Aquarius_woman_character:
+    - text: "Pretending to be strong.She is romantic and generous by nature, and he likes high quality goods. They often dress luxuriantly and shine brightly, and they have their own personality. They are born with a kind of imposing manner, not deliberately pretended, but born. And very strong, the pursuit of perfection"
+
+    utter_Get_along_with_Aquarius:
+    - text: "Don't be hypocritical to them. You'd better have something to say and don't play coloratura, otherwise it will cause their trust crisis to you."
+
+    utter_Different_Aquarius:
+    - text: "Aquarius's way of self-protection is different from others. Other constellations may protect themselves in order to keep themselves from injury and pain. Unlike Aquarius, his way of self-protection is not a kind of protection"
+
+    utter_Aquarius_alone:
+    - text: "Keep talking with you. Aquarius people treat love very sincerely, they will chat as a sense of ceremony."
+
+    utter_The_advantages_of_Aquarius:
+    - text: " No matter what difficulties they encounter, Aquarius people are full of no fear at all! As long as it is something that the Aquarius people identify and recognize. No matter how big the storm is, the Aquarius people will also use full positive energy to turn the tide and save the danger, just for the thrilling rainbow after the storm!"
+
+    utter_Disadvantages_of_Aquarius:
+    - text: "Most of them are optimistic. Believe that the world is worth loving. I love to complain, but I know it is useless. Money concept is not material, spending money is not extravagant, but also not good at saving money. I always forget to keep accounts every time. He is very generous to his friends, regardless of how much money he spent, and whether the other party wants to return it. Pay attention to the quality of life."
+
+    utter_Aquarius_attitude_towards_work:
+    - text: "Most of them bear a lot of work pressure in their heart. They are warm in appearance but lonely in heart. However, Aquarius, who has a good will and self-motivated, never has the idea of money is better than everything in his mind, so he is generous in spending money, never stingy, and hates stinginess very much. "
+
+    utter_Aquarius_rest:
+    - text: "Stay at home or play games. If you have Aquarius around you, you'll find that they can stay at home for a month. And you don't have to comb your hair or wash your face in this month"
+
+    utter_Aquarius_lucky_thing:
+    - text: "Aquarius is biggest problem is that he can't save money. It is easy to spend money like running water. So the lion is first choice of lucky items should be a stable partner who can control him and stimulate his sense of responsibility. Sometimes the lion is too big to do things without thinking. "
+
+    utter_Aquarius_and_friends:
+    - text: "Aquarius of self will not sacrifice or pay for others, but hope to get others' contribution. There is no loyalty in their world, only control..Aquarius is generous, strong feelings, is an extraordinary person, his enthusiasm and prestige make his career and ideal can be successful. One is one and the other is two. They treat you sincerely as a friend. I don't hate you in my heart, but I'm friends with you on the surface."
+
+    utter_Aquarius_notes:
+    - text: "If you want a lion to lie, it will make him uncomfortable. But a little white lie will make him dizzy. It is said that the king in the fairy tale the emperor is new clothes is the standard Aquarius, and the two black-and-white tailors must be Gemini.  My child is definitely Sagittarius!.Aquarius boy with great personality, has the ability and toughness different from ordinary people. That is one of the reasons you're blessed with success. "
+
+
+
+
+
+
+    utter_Gemini_time:
+    - text: "Gemini is July 23 to August 22."
+
+    utter_Before_Gemini:
+    - text: "The sign preceding Gemini is Taurus"
+
+    utter_After_Gemini:
+    - text: "Gemini's next sign is Cancer "
+
+    utter_Hobby_Gemini:
+    - text: " social contact. Gemini is a person who can't stop and be quiet. He likes to make friends with others and communicate with others. He is also good at communication."
+
+    utter_Three_views_Gemini:
+    - text: " Gemini is a typical constellation of wind. They do things to be free and easy. They are very attentive at once and distracted in the next second. Many people can't understand them, even they can't understand themselves"
+
+    utter_Afraid_of_Gemini:
+    - text: " Gemini's loneliness is incurable. I don't think Gemini's children are as sophisticated as Libra. Their simplicity makes them often put a lot of things under the perceptual magnifying glass "
+
+    utter_Looks_Gemini:
+    - text: " Gemini and people's first impression is often thin, agile, eyes erratic. They have to pay attention to their surroundings at any time, receive all kinds of information and react. It's not easy for them to get fat with such a large amount of activity."
+
+    utter_Ability_Gemini:
+    - text: " Gemini, with strong curiosity, has a strong ability to collect and analyze intelligence, especially for things that can't be seen by the eyes. Whenever you are, you will have a great interest in all aspects and will continue to strive for answers."
+
+    utter_Expression_Gemini:
+    - text: " Gemini's personality is relatively good, but also easy to get along with, they are very humorous, but Gemini's body expression ability is general, their language expression ability is good."
+
+    utter_Solve_Gemini:
+    - text: " Gemini people like to play with cleverness, just as they like the game of solving two problems at a time. In fact, do they really solve problems? Experience tells us, No. They're just stalling."
+
+    utter_Treat_parents_Gemini:
+    - text: " I like to play tricks in everything, and sometimes I want to do something to surprise my parents. Although sometimes surprise is very happy, but many times, parents need more than these, and real care."
+
+    utter_Treat_children_Gemini:
+    - text: " Gemini encounter children are not obedient, they first think of communication education. They think it is meaningful education to let children understand "
+
+    utter_Fortune_Gemini:
+    - text: " Gemini has a good fortune today. It takes a certain amount of comparison to generate momentum. In terms of emotional luck performance is still good, in the face of feelings easily cranky, in a bad mood, you can talk to your partner"
+
+    utter_Gemini_man_character:
+    - text: " Gemini boys are very smart, can speak well, like external things, have a strong curiosity, all around the new exciting things are full of endless desire to explore "
+
+    utter_Gemini_personality:
+    - text: " Gemini people are smart and sharp, a little smart, brilliant, good pursuit of new things, like to change. Because Gemini are impatient, they are always hot for three minutes."
+
+    utter_Gemini_woman_character:
+    - text: " It's always humorous and funny. If you want to say who is the smartest and the most flexible of the twelve constellations, Gemini is estimated to be the second, and no one dares to be the first"
+
+    utter_Get_along_with_Gemini:
+    - text: " Get along with Gemini, don't beat around the bush with them. Gemini people like to talk straight and straight. They also say what they have in mind. They don't like beating around the bush."
+
+    utter_Different_Gemini:
+    - text: " The people of zizuo love to change. They can't do only one thing at the same time. They spend five hours and six hours changing and are absent-minded,Although they have some cleverness, they are not specific. "
+
+    utter_Gemini_alone:
+    - text: " Gemini is the most famous curiosity, constantly seeking new ideas, constantly seeking fun, but the heat of three minutes is also very obvious, want to do anything, interested in everything, but do not last long"
+
+    utter_The_advantages_of_Gemini:
+    - text: " Gemini people are very good at interpersonal communication and have a large circle of friends. This is because they are cheerful and have a sense of humor, so they are very popular and everyone is willing to make friends with him"
+
+    utter_Disadvantages_of_Gemini:
+    - text: " Depression, poor endurance, childishness, lack of security, easy to be sensitive."
+
+    utter_Gemini_attitude_towards_work:
+    - text: " Gemini people, they are born with a kind of preciseness, so when they treat anything, they all hope to be meticulous and complete in doing it well, and they don't want to have some mistakes."
+
+    utter_Gemini_rest:
+    - text: " Gemini rarely alone in a room, but when a person is really unable to find things to do, perhaps during the period of study Gemini belongs to that "
+
+    utter_Gemini_lucky_thing:
+    - text: " Lucky day Wednesday lucky gem emerald lucky color silver, gray lucky number 3,4 lucky location highland above sea level"
+
+    utter_Gemini_and_friends:
+    - text: " Gemini's sincerity to friends: 30%. Although Gemini seems to have paid for you, it seems that it's not good for you and it's not sincere. But don't forget that they are good at camouflage. They are good at you on the surface. Maybe they are scolding you for being stupid in their heart."
+
+    utter_Gemini_notes:
+    - text: " Come without a trace, go without a trace, restless, step without a stop, this is Taurus, followed by the fickle Gemini. The main characteristics of Gemini's personality are unrestrained and endless curiosity about all kinds of things."
+
+
+
+
+    utter_Aries_time:
+    - text: "Aries is March 21 to April 19."
+
+
+
+    utter_Before_Aries:
+    - text: "The sign preceding Aries is Pisces"
+
+
+
+    utter_After_Aries:
+    - text: "Aries's next sign is Taurus"
+
+
+    utter_Hobby_Aries:
+    - text: "Aries' hobbies and interests revolve around outdoor activities. They have been active since childhood and are curious about the wider world, so they tend not to spend their free time at home. They go out and socialize when they find opportunities. Aries is very interested in all kinds of sports. They are naturally athletic, and Aries are naturally small and energetic. It seems that energy will never be used up. They have simple brains and typically have one-way thinking, so they don't like activities that are too time consuming or mental, such as chess or poker. They like to break through themselves in physical strength and speed, such as boxing, fencing, wrestling, football and so on. Aries may have a simple brain, but they are very competitive."
+
+
+
+    utter_Three_views_Aries:
+    - text: "Love: Aries' emotional outlook is very positive, like to catch up to the end, don't like to give up as soon as possible, they don't like ambiguous, also don't like to play a long war in the relationship, because it will be too consuming, but also delay the other party. Career: Aries and they are also very is, they're very ambitious in her career, and dare to take risks, a lot of people think startup it is very scary, because all of the future is unknown, and you won't think it was a terrorist, set a good goal is brave to chase, so they are at work on the most momentum, is also the most potential one. Money: Money is very important to Aries, but it's not the most important thing. Aries is a sign that values friendship and friendship more. If his friends are in trouble and need a lot of money, he will spend it without blinks."
+
+
+
+    utter_Afraid_of_Aries:
+    - text: Aries is afraid of standing still, and standing still is unacceptable to the Aries. Aries is afraid of redundancy and redundancy, because the sense of absence will make themselves constantly looking for, everything just have the opportunity. Aries is afraid to deal with ambiguous feelings. Aries' fear of being a burden has something to do with the strong independence of the Aries. Aries is afraid to say and can not say the pain, there were too many words, but can not say."
+
+
+
+    utter_Looks_Aries:
+    - text: "Aries has a national face, most have a pair of eyes intense eyes, eyebrows are very thick, looks very sense of justice, walking fast, like to persuade others."
+
+
+
+    utter_Ability_Aries:
+    - text: "Aries tend to follow their heart, and they know it. But Aries are also warlike by nature, so when Aries realizes that laziness can make them decadent, Aries decides to declare war on laziness. When a lazy thought pops into Aries' mind, the Aries will immediately fight it off and do what needs to be done. In short, because Aries doesn't let laziness get in the way of their progress, they are very disciplined and never give in to laziness. Aries and the ability to do things is very strong, as long as a thing falls into the hands of Aries, no matter how many difficulties, after how many hardships, Aries will do things, absolutely before the deadline, will do things beautifully, not delay half a second."
+
+
+    utter_Expression_Aries:
+    - text: "Aries is a simple heart, speaking and doing quite frank, but this also shows that Aries expression ability is very strong ah! After all, to express a thing clearly, the point is that the listener can understand what you mean. And Aries' attitude towards people is very honest, which makes Aries speak not scheming, words are simple meaning. If the person doesn't understand you, then you really have to wonder if it's your fault."
+
+
+    utter_Solve_Aries:
+    - text: "Aries is a sign that what matter all want to straightforward solution, they don't have that much mind and heart, do not know around each bend, and they may feel that they work together too impulsive, learn the rest of your life as if not gentle, but ah, they have always been only thing right, wrong people, there is a problem that will solve the problem, bad people will stay away from you, They don't mix problems with feelings."
+
+
+
+
+    utter_Treat_parents_Aries:
+    - text: "This is a very emotional constellation, Aries is always able to often call their parents Lao homely, heavy feelings heavy righteousness, not to live up to their parents a painfulness. Know that the parents of the grace is bigger than the sky, deep than the sea, they have no report, can only from the dribs and DRBS of life to do filial piety. Aries is very patient with their parents and never snarls at family members. Even if they have a bad temper, Aries can keep a balance."
+
+
+
+    utter_Treat_children_Aries:
+    - text: "Aries are also calm parents, they do not have to deal with disobedient and noisy children, they will not be immediately alarmed. They still prefer to teach their children slowly and reason with them. Aries does not believe in using force to solve problems, believing that this will only make children more rebellious. Later when all encounter a problem, the child first thought of the possibility is also to make violence. So no matter how wrong their children do, Aries still chooses to take the time to communicate with them first."
+
+
+    utter_Fortune_Aries:
+    - text: "Aries are slightly ambivalent when it comes to emotions. On the one hand, you don't like to wait for love to happen to you. You don't want to be a passive player in the relationship. You want to take the initiative and take control. On the other hand, you want to be so absorbed in your career and your studies that you have no interest in your relationship. Mars will have a positive impact on your career and school life. Your desire to be meticulous in completing the tasks at hand and achieving your goals can cause a lot of stress and stress on your mind. Your side finances are stable, but your positive finances are pretty good. Your income will gradually increase, and when the money brings you a sense of accomplishment, you will be more enthusiastic about your work, and you will invest more time and energy in it, and your income will even increase."
+
+
+
+    utter_Aries_man_character:
+    - text: "Aries man is always sunny, but there is a little bit of a little bad, because of carelessness often appear crisis situation, but most of the time can rely on their extraordinary courage and incomparable good luck successfully through the difficulties, save the day. So long-term adventures develop the Aries man fearless and fearless spirit, dare to venture into anything, dare to spell anything. But Aries have a weakness in their ability to resist temptation and self-control, so they tend to be addicted to one thing for a long time before they can get out of it."
+
+
+
+
+    utter_Aries_personality:
+    - text: "Aries' personality is positive, frank, confident, highly motivated, loyal, and brave to challenge. However, they are impulsive, short - mindedness, eager for quick success and a little selfish. Aries is hot-tempered hot-blooded people, for their own goals, completion is the only choice, no room left, there is a strong determination and perseverance."
+
+
+    utter_Aries_woman_character:
+    - text: "The Aries woman has a lot of ideas. Don't push her to do things she doesn't like. Sometimes she will do what she likes regardless of everyone else's advice. Aries is a very emotional sign, so if you think highly of him, he will think highly of you and treat you well. If he treats you as a good friend, then she will try her best to help you no matter what difficulty she meets. She hopes you share the joys and sorrows, when he is in trouble when you help him, encourage him, they are in trouble when you will certainly put the knife in both sides, on the mountain, under the sea of fire, do not hesitate. Aries personality cheerful and lively, have a good heterosexual edge, by a lot of heterosexual friends like, but they use love, never make ambiguous, also won't foot two boats. The Aries have a passion for everything, and when they show interest, they love it. Aries women tend to be straightforward, impulsive, informal, when doing things, often is regardless of the head regardless of the tail, so in the late often appear various conditions. Aries women love challenge, excitement, and the courage to take a chance. Their courage is worth appreciating."
+
+
+
+    utter_Get_along_with_Aries:
+    - text: "One of the most important things you can do to get along with an Aries is to be direct and open. Aries does not like a relationship where someone is keeping things hidden, and if someone is keeping things hidden, the Aries will be less forthcoming and may even be reluctant to get in touch with someone who is keeping things hidden. Aries careless just appearance, in fact, their mind is special delicate, they can distinguish most of the intention of each other, but Aries will not easily puncture each other. When an Aries punctures the other person, it is usually because the Aries have had enough. Aries is an efficient sign. Their short temper doesn't work all the time. They're also a sign that can slow down. The Aries will not be so hasty if the other person can work with them efficiently. Aries are competitive in most things and rarely give in. Really can let the Aries soft down, are in a certain field or more fields stronger than Aries has the strength to let the Aries heart and soul of the people."
+
+
+
+    utter_Different_Aries:
+    - text: "Aries is the first sign of the twelve zodiac signs, representing the original soul and feelings that are born. They are full of strong curiosity, strong willpower, not to admit defeat and adventure, innovation and change the spirit; Often take the first for granted, do not like to fall behind others. When faced with competitive pressure, they are combative and full of enthusiasm and energy, people of action. Self-aware and subjective, confident and stubborn; Don't wait for opportunities to come to you, but will actively fight for them, fearless of hardships and hardships. Although he can be impulsive at times, he is basically rational and decisive. He is a person who is well suited to competitive pressure, enthusiastic and always naive."
+
+
+
+
+
+    utter_Aries_alone:
+    - text: "Aries will not allow themselves to be idle when they are alone, either studying to make money, or focusing on the interests of life, to schedule their time to the full."
+
+
+
+    utter_The_advantages_of_Aries:
+    - text: "Positive, enthusiastic and energetic. Encountering things always like a sheep fearless, to everything is full of energy, to do everything. Not indifferent, no matter who to maintain a passion. It doesn't feel strange. Like a small stove, will make others feel warm and love, and it is easy to become friends with him. Handout spirit. Aries has nothing to say with friends. As if a friend were his own brother. To a friend is always out of my heart. It's a sign of great loyalty. Strong determination. Aries are not indecisive. Be decisive and don't regret the decisions you make. Do what comes to mind without hesitation. Be frank and frank. Aries will speak their mind and will not hide it. It is very comfortable to make friends with such a person. There is no mutual calculation and intrigue. They are true friends worth a lifetime."
+
+
+
+    utter_Disadvantages_of_Aries:
+    - text: "Lack of patience. He was quick-tempered, scampering about like a lamb. It's easy to get anxious when things happen. Impatient, unable to work hard on a thing well. Careless. At some subtleties, it is likely to be unobserved. I always make some small mistakes because of carelessness. But it won't do much harm. Speak without thinking. Say what comes to mind. Words blurt out, did not do think twice. It's easy to misunderstand, and there's likely to be some estrangement before a friend. Emotional swings. Sometimes warm and sometimes indifferent, sometimes confident and sometimes afraid. Emotional ups and downs and high volatility."
+
+
+
+
+    utter_Aries_attitude_towards_work:
+    - text: "Aries people born with a very good assault spirit and energy, coupled with positive efforts of the drive, when the inspiration flash, brain neutral ideas and practices, will immediately take action, do anything like to run first, stand in the front end, full play to the leadership ability. But in the character of patience is not enough, easy to get angry, hate others chatter, but with innovative vitality, strong will, is able to fight, to conquer the people."
+
+
+
+
+    utter_Aries_rest:
+    - text: "Aries people like sports by nature, they think that kind of watching TV at home all day, life is too boring, Aries believe that life lies in sports this sentence, in the playground, or go out for adventure, Aries always feel very excited, they can feel their heart is beating. Therefore, when bored, Aries will choose to release their emotions on the playground, in the sweat of exercise at the same time, they also take this opportunity to release the accumulated depressed mood."
+
+
+
+
+    utter_Aries_lucky_thing:
+    - text: "Aries personality naturally optimistic, cheerful, they rarely put unhappy things in the heart, although occasionally some impulsive, but also can be a lovely person. Aries' lucky items are usually very large, such as decorative ceramic, glass or crystal animals, specially shaped silver ornaments, and fish tanks with colorful small fish."
+
+
+
+    utter_Aries_and_friends:
+    - text: "As the Aries friends, if you put you down, so you won't give you have the chance to retreat, be sure to put you down before letting go, then the Aries will take you as his opponents, rather than a friend, for his opponent, Aries will not give them any opportunity to defeat, but if you slightly to the Aries mainly, Aries looks at you so soft temper, will be soft, embarrassed to you again, but evokes Aries strong desire to protect. Easy to believe a person, there is no guard against heart, always a state of no defensive, so people will feel the Aries good cheat, so the Aries will cheat is considered by many the Aries friends, Aries will feel sad, feel sad, Aries is actually don't want to get to get all the complicated interpersonal relationship, because it will be very let a person feel impersonal, interest, Shouldn't there be more sincerity and less routine between people? Is the time for their friends, Aries is very care about, is very important, the kindness of the Aries also hungry is very heavy, but there are times when you don't know how to contact, how won't let a person feel is disturbed, after all, all have already married, all busy with work, on the weekends say good, but because of various reasons were push to take off again, after twice three times, Aries will be less likely to reach out to those they feel are their best friends."
+
+
+
+    utter_Aries_notes:
+    - text: "Aries people are impulsive, adventurous, generous, fearless, and when they set their mind to something, they will go to great lengths to get it done. Most of the people who belong to Aries are very bad temper, but only fireworks neck, absolutely will not put in the heart, soon there will be no matter, and the Scorpio is just the opposite of Aries. Aries is the first sign of the zodiac, so he likes to be the first strong signs, in addition, the rule of Mars Aries, they must burn a raging fire, otherwise life is dim. Aries men are typical male chauvinists, they do not want other people's sympathy or help, must rely on their own to create their own success; And Aries women are not willing to be a full-time housewife, she must have their own career, many strong women are Aries. Appearance action in a hurry, rapid pace, speaking self-confidence are easy to distinguish them out, do not bother about trifle matters, never be sloppy, do not meet a little selfish."
+
+
+
+
+
+
+
+
+
+
+
+    utter_Virgo_time:
+    - text: "Virgo is  August 23 to September 22."
+
+
+    utter_Before_Virgo:
+    - text: "The sign preceding Virgo is Leo"
+
+
+
+
+
+
+    utter_After_Virgo:
+    - text: "Virgo's next sign is Libra"
+
+
+
+
+    utter_Hobby_Virgo:
+    - text: "Virgo's interests and hobbies are very literary, they are usually very quiet constellation, interests and hobbies are also the type of show, including collection, embroidery, sewing, reading, creation and so on."
+
+
+
+    utter_Three_views_Virgo:
+    - text: "Career: Virgos are very demanding of themselves and work diligently to achieve their goals. Virgos have a strong sense of responsibility, and they are organized and don't rush. Love: Virgo is an inherently traditional and conservative sign. Virgo is very principled when it comes to relationships. Money: Virgos don't have much desire for money, they are realistic and stable, and their wealth comes from their own hard work and diligence."
+
+
+
+    utter_Afraid_of_Virgo:
+    - text: "Virgo is afraid of not being good enough, so they will work hard and strive to be the best. Virgo has nothing to fear when you're broke. The more you have, the more you fear. Virgo is afraid that those closest to them will not see them as the best they can be. They are afraid of falling short of expectations and hopes, especially from those around them. Virgo is not afraid of competition or conflict, but they are afraid of silence without any response."
+
+
+
+    utter_Looks_Virgo:
+    - text: "Virgos are usually well-boned and quite photogenic. Their eyes always shine with intelligence and confidence. Their hair is often black and thick. Virgos do not age easily and know how to take care of themselves. They are intelligent, quiet, fresh, service, hard-working, self-demanding, perfectionist, analytical, cautious, disciplined, and responsible."
+
+
+
+    utter_Ability_Virgo:
+    - text: "The typical Virgo is knowledgeable, loves to read, has business acumen, and is a critical thinker. They are perfectionists. On their own duty must be completed seriously, good at seizing the opportunity of Virgo, because the ideal is too high, will go all out to achieve the purpose, although things are still pragmatic, but like to perfect the island. Like to point out the mistakes and shortcomings of others face to face, but on the other hand, they are not mature and neurotic enough to deal with things. Although hate to give up halfway, but excessive requirements for perfection, often because of too rigid and do not know how to adapt in thought, let colleagues feel very can not stand."
+
+
+
+
+    utter_Expression_Virgo:
+    - text: "Virgos are sensitive to language and can pick up the essentials easily. Virgos are considered to be too gifted with languages. They have quick reflexes and can do things twice as quickly, so learning a new language is almost as easy for Virgo as learning a new language. They can always find the fastest way in the process of learning the language, and their language learning ability is unmatched by others."
+
+
+
+
+    utter_Solve_Virgo:
+    - text: "Virgos will not only work things out, they will also make sure they don't hurt the relationship. This is the most powerful part of this sign. Many people always solve problems with reason and deal with emotions with emotion. Virgo, on the other hand, can combine emotion with reason to deal with problems, which will make the other person happy and solve the problem at the same time."
+
+
+
+
+
+    utter_Treat_parents_Virgo:
+    - text: "Virgos are generally filial, but don't hold their tongue when they're emotionally unstable. After all, it's Virgo's nature to have a sharp tongue. As the dearest Virgo parent, of course you will be annoyed at the Virgo for not being sensible. But for the most part, Virgos are very good and obedient. Apart from school and work, parents are the most important thing for Virgos. They are more gentle and attentive to their parents than the average sign man."
+
+
+
+
+
+    utter_Treat_children_Virgo:
+    - text: "Virgo's obsession with cleanliness will cause their tempers to explode as soon as their children walk into a room they've taken so much trouble to keep clean and dirty. Fortunately, Virgos, though picky by nature, are able to urge their children to make good use of their spare time, especially by teaching them to develop patience with trivial matters such as family matters. Due to the habit of Virgo, children are not easy to get kind treatment, they are easy because of the appearance of indifference, and caused by the estrangement between children, daily life should pay extra attention to."
+
+
+
+    utter_Fortune_Virgo:
+    - text: "Virgo's fortunes can be both good and bad, so be able to take it on a case-by-case basis. Virgo's overall fortune will be relatively fluctuating, in the work will be affected by a number of bad stars, leading to great ups and downs in the career. The first half of the year was particularly bad, but the good news is that the second half of the year will be better and more stable in many areas. Wealth status is relatively good, although the job fluctuates a lot, but the overall income is not affected too much. Emotional development is relatively good. Virgo will be very positive when dealing with emotional problems and will be willing to take the initiative to communicate in many cases."
+
+
+
+
+    utter_Virgo_man_character:
+    - text: "Virgo boys like to do things step by step, and excessive pursuit of perfection, resulting in the character appears motherly. When getting along with girls, she often shows a delicate and intelligent image. And in the communication with friends, they tend to show their friendliness and strengths, in order to gain the goodwill of their friends, but after becoming friends, they no longer pay attention."
+
+
+
+
+    utter_Virgo_personality:
+    - text: "Virgois very concerned about the evaluation and views of others, work also love the pursuit of perfection, have a very heavy emotional cleanliness. Unconfident Virgos are sometimes poorly organized because they lack confidence in themselves. They need encouragement from friends and family to push them."
+
+
+
+
+
+    utter_Virgo_woman_character:
+    - text: "Virgos are naturally composed and calm, which often leads people to believe that they are also determined in their hearts. In fact, Virgo girls' hearts are very traditional and shy to express. Virgo girls' hearts are very delicate, which is actually a manifestation of their inner tension and sensitivity, and they need a sense of security and a full grasp of life."
+
+
+    utter_Get_along_with_Virgo:
+    - text: "Virgo due to his own life experience, not very trusting, suspicion, appearance, inner loneliness, the heart is very soft, after an argument with her best you immediately apologize first, she will forgive you, if you want to apologize to her, how could not, because virgo in the mind is very want to and you apologize, but I couldn't say. When you apologize to her, don't directly apologize, just like the original, how to play how to play, if you directly apologize, she will feel guilty, and became the heart of the most unforgettable. May be to the point of abnormal health requirements, with this kind of virgin get along, need to pay attention to, no matter how good the relationship is, we should pay attention to leave some private distance."
+
+
+
+    utter_Different_Virgo:
+    - text: "Virgo's pursuit of perfection, careful and picky, a little bit of nitpicking in the nitty gritty persistent, there is a bit of cleanliness, in short Virgo is a good lady type, industrious, careful, clean, is a little picky and the pursuit of perfect constellation. Careful and methodical, very rational. Have special criticism ability, like to analyze and criticize things bit by bit. Emphasis on integrity, do not like to give up halfway, very strict to themselves, never compromise, is an excellent staff and workaholic."
+
+
+
+
+    utter_Virgo_alone:
+    - text: "When they're alone, they'll do something artistic and entertaining like a handbook. They prefer to do things that are fun, whether they're making flowers or handmade."
+
+
+
+
+
+
+    utter_The_advantages_of_Virgo:
+    - text: "1. Virgo's most prominent advantages is the pursuit of the perfect personality, virgo is very careful in doing things, in the work, virgo is a responsible for yourself to others responsible for, what they do form will need to check more times before you submit, so a lot of times for virgo report and forms can be at ease of use, no longer have to check. In addition, in the details of life, Virgo is always cautious, they are afraid of making mistakes. Therefore, they will make a detailed plan before doing something. Virgos have high standards for themselves and others, but they don't care about the gains and losses of others. Virgos are willing to take responsibility for all kinds of things, and they can keep things in good order with their professional knowledge. They are willing to go the extra distance for the truth. Virgo is good at learning, but also good at giving, is a very capable, self-control people. Virgo's pragmatic attitude towards life makes him always work on his own, and he firmly believes that success in life lies in continuous accumulation. This attitude of not taking chances with people's survival makes them always plan for their own life, do things they are sure of, save wealth stably, and manage their own life thoughtfully. 4. The advantage of Virgo is that they don't like to tell lies, and they are very true. Virgo can't stand betrayals of themselves, and even more can't stand betrayals of others. Virgo treats people sincerely, and deals with things very truthfully. Virgo does not like to lie, and do not want others to lie to their own, Virgo is a clear love and hate, they like is like, do not like is not like, is a very real person. 5. Virgos are always gentle and polite. They are very measured in their dealings with others and things. And he has always maintained sympathy for the weak, can do their own modest efforts to help each other, is the modern society is rare and chivalrous people. In addition to a strong sense of responsibility, Virgos are also principled people. Their motto is to do their jobs meticulously. It is also the greatest wish of Virgos that they are proud of. After marriage, Virgo will put the family life fairly organized, all the family plans are well thought out in advance, never temporarily put a foot down or play unprepared."
+
+
+
+
+
+    utter_Disadvantages_of_Virgo:
+    - text: "Love whine, love nagging, love nag. Manifestations: sharp-tongued, obsessive compulsive disorder, perfectionism, cleanliness. Virgo is critical, especially with those close to them. Madonna plot is serious, dead support, entanglement, what all understand, do not do. It's easier to think about it, even if it's none of your own business. Sometimes I feel like a psycho. Sometimes look who are not pleasing to the eye, feel who do not like their own. The surface hee hee ha ha, the heart tears flow into the river, but to own decision never regret, break teeth to swallow in the stomach. Self-esteem is high. Mental cleanliness is extremely serious. Super ink, others late on a rant, often late himself. Love a person will never say, silently hidden in the heart for many years, tangled to death. Catch you one thing can say you for a lifetime. The heart has been turbulent, appearance to maintain a state if you do not want me to rest. Virgos are well known for their desire for perfection. People all know that they have a lot of obsessive-compulsive disorder, cleanliness, the pursuit of perfection, love picky, especially for the people around them completely don't care about the image, sloppy, and even put forward, let you down. Attention to detail, the pursuit of perfection, a lot of times let the Virgo into people feel that is not very good to get along with the type, and often in their own pursuit process, will appear to be too demanding, even beyond their ability, is a people feel very tired to live very tangled type."
+
+
+
+
+
+
+    utter_Virgo_attitude_towards_work:
+    - text: "The typical Virgo is knowledgeable, loves to read, has business acumen and critical skills. They are perfectionists. Enthusiastic to work, in order to live up to the expectations of the people around, quite hard at work. Because very hate false and improper things, so every thing like to the bottom of the matter, and then it will be analyzed, judged, must be summed up to sort out the results will give up, never give up halfway. The things within their responsibilities must be completed seriously, good at seizing the opportunity of Virgo, because the ideal is too high, will go all out to achieve the goal."
+
+
+
+    utter_Virgo_rest:
+    - text: "Virgos are very concerned about productivity. Although humans are naturally lazy, it seems that being idle can be overwhelming guilt for Virgos."
+
+
+
+
+
+    utter_Virgo_lucky_thing:
+    - text: "The perfect Virgo has a lot of requirements for their appearance. They don't blindly follow the trend, whether it is suitable for them or not. Virgo's choice is more about what is beautiful."
+
+
+
+
+    utter_Virgo_and_friends:
+    - text: "Virgo is a cold and aloof sign by nature. It is almost impossible for a Virgo to occupy a significant position in his or her heart, except for family and friends. However, this does not prevent him from getting along well with people in general. Whenever he meets a Virgo for the first time, his polite and methodical attitude will leave a deep impression on him, which makes it very easy for him to communicate or cooperate with others in the future. He holds the principle of light friendship, which has won him valuable votes to a large extent. Virgo is a very strong concept of integration of a constellation, he deeply understand, take others long to make up for their own short truth. He's never been kind to you for nothing. When necessary, you need to give back moderately. If you don't, you'll soon be off his list of friends."
+
+
+    utter_Virgo_notes:
+    - text: "Make sure your appearance is neat and tidy when you're around a Virgo. Otherwise the Virgo will dislike you. Virgos generally have good memories, and in their world, what they say is what they do. Therefore, don't make any promises to the Virgo. Virgos are known for being detail-oriented, so be careful about the details when dealing with a Virgo."
+
+
+
+
+
+
+
+
+
+
+
+    utter_Sagittarius_time:
+    - text: "Sagittarius is November 23 to December 21."
+
+    utter_Before_Sagittarius:
+    - text: "The sign preceding Sagittarius is Scorpio"
+
+
+    utter_After_Sagittarius:
+    - text: "Sagittarius's next sign is Capricornus"
+
+
+    utter_Hobby_Sagittarius:
+    - text: "Sagittarius loves to travel. Sagittarius naturally love to play, for freedom is looking forward to, they like to live a life is to be able to travel to play, so with the Sagittarius, you can always have an appointment with him go out to play, travel together, they would never refuse to others for the invitation, in addition to this, whenever you feel boring life, is about a about them, the strikers have one hundred kinds of way to let you roll Under."
+
+
+
+    utter_Three_views_Sagittarius:
+    - text: "Love: In the emotional aspects, Sagittarius is a rare clear signs of the zodiac, although you always say they can't tell love and friendship, can't clear their position, they look very clear when it comes to love, how do they know that they should talk about love, should be what kind of boyfriend/girlfriend, and also know if going to get married, What kind of partner should I look for? Career: Sagittarius has a very ambitious in his career, also has the ability to resist risks, they are very clever, also very intelligent, but they are lazy, if you don't have the power, not a reliable person to support him, they are difficult to achieve in career breakthrough, but if something stimulates the Sagittarius, make him want to go to, want to achieve success, Or if he has someone around him to push him forward and make sure he doesn't let up, the shooter will definitely make his way. Money: Sagittarius is in fact as money such as dirt, he feels that this is the source of all evil, but it, and can not leave, because money can bring their countless happiness, to enjoy, squander and natural and unrestrained."
+
+
+    utter_Afraid_of_Sagittarius:
+    - text: "In Sagittarius people's view, rather than lead a quiet life, with the lover every day in peace, taste the monotonous plain water, it is better to get out of the early, to start a new love life. Sagittarius is the pursuit of freshness and excitement, yearn for the challenge of life, only in this way to get the wonderful life, absolutely do not want to repeat the same thing for a lifetime. Sagittarius dare to love dare to hate, said after break up can the head also don't back to leave, but the most afraid of try after breaking up, worried about each other, both between each other and blame each other, two personal feelings to shear is disorderly, constantly keep entanglements abuse of heart, the in the mind is very clearly love each other and hurt each other, each other striker's most feared he was emotional problem stumbles, But sadistic relationships often drive Sagittarians out of their minds."
+
+
+
+    utter_Looks_Sagittarius:
+    - text: "Sagittarius is a tall, muscular, muscular sign with long, slender legs and strong hips. Love outdoor activities, especially good at leg sports, such as sprinting, low hurdles, good flexibility, is also a good basketball player. Positive energy is strong, such as the female is also a big sister big forthright character. He had a broad forehead, a long oval face, and a ruddy complexion. The eyes are far apart, the eyes are open and straight, the lips are wide and the teeth are firm and the smile is extended, the ears are slightly swaying, and the helix is well developed. Hair curls, often messy seem to be less often managed, and middle-aged men are at risk of baldness."
+
+
+
+    utter_Ability_Sagittarius:
+    - text: "Sagittarius surface is silly, in fact all is to pack out, he loves to read a book very much, if seriously with his quotations from the classics, fundamentally argue not pour him, do sometimes also will come to a paragraph of poetry frighten somebody else a big jump. Love of freedom and the pursuit of speed is the basic spirit of Sagittarius, like to engage in challenging work, the best can satisfy the strong curiosity and thirst for knowledge. No matter what setbacks, he will not be able to blow his confidence, such a positive attitude to work, not only has the courage to take risks, have a good tolerance, for the future has a strong risk, hate slow way of doing things. Sagittarius's ability to understand things is very strong, like to try something new and more changes, once you find yourself interested in things, will shoot an arrow, news fast and energetic commitment, even by the powerful, also won't compromise easily, is in any case will not lose the confidence of the dreams and hopes."
+
+    utter_Expression_Sagittarius:
+    - text: "Sagittarius people, they speak and do things are very quick, they pay attention to the work of peace, they usually in the conflict resolution is a clever mouth. They dare from the temple of heaven inside quickly blunt cow ghost reason. Indeed, if you communicate with people, no language ability, often will be picked on by others. So when you communicate with others, a clever mouth can play a crucial role, and Sagittarians are very good at communicating with others, so they are also very good at communication."
+
+
+    utter_Solve_Sagittarius:
+    - text: "Sagittarius will resolve these feelings by letting themselves die. It may sound very cruel, but in fact Sagittarius is also the most rational of a constellation, because, the most can make their own sober, than the first thing to give up. Only give up will not be so concerned about some things and mind, then also can go to start their new life, and other people try to contact, contact, let go of their own, to give others a chance."
+
+
+
+
+    utter_Treat_parents_Sagittarius:
+    - text: "Sagittarius people, will try to do what they want to do, especially the feeling of nothing clingy, in fact, in front of their parents will be very good. Especially when it's all right, in front of their parents to play some good, play tired of things, since it is their own expertise, nothing to do so in front of their parents, of course, this is the Sagittarius the most correct attitude toward their parents. So from a practical point of view, this approach of Sagittarius will be recognized by parents, and often make parents feel very happy and happy. It is natural for warm new feelings to have such a feeling, especially from the perspective of parents, which is also the most correct attitude."
+
+
+
+
+    utter_Treat_children_Sagittarius:
+    - text: "Sagittarius always teaches their children to be good and let the rest of the family be bad. They did not know how to manage their children, because they could not bear to beat them or scold them. Sometimes angry not good, a little want to start, but also gently, afraid of the children hit the pain, so they will only be more uncomfortable than the children. So Sagittarius simply goes out of sight and lets the rest of the family take care of it. They stay far away."
+
+
+    utter_Fortune_Sagittarius:
+    - text: "Many Sagittarius love lives will be turbulent, and this year's luck will be a little more bumpy than usual, but the end result is good. This year is very suitable to increase their knowledge, a lot of learning new knowledge of the year, has worked in addition to the Archer study hard, but also for their own to read some interest classes, read some books, increase their strength. This year is a period of great ups and downs in your finances. Whether you can accumulate enough wealth depends on your own efforts. If you work hard, you can still accumulate a lot of money."
+
+
+
+    utter_Sagittarius_man_character:
+    - text: "Sagittarius boys are a little like children, they love to play and move, so Sagittarius boys are most willing to party with their friends. Every time a Sagittarius guy is around his friends, he feels at ease. He only drops his disguise and becomes a child in front of his friends. Sagittarius guys don't like to be tied down, even with their romantic partners. They don't like it when their partner is controlling them, especially interfering in their decisions. If this happens with their partner, they will get angry and even decide to break up. Sagittarius guys have a strong desire to win, but they are also very persistent. If they like or want something, they will try to get it. Sometimes Sagittarius is not really like this thing, but as long as someone rob with him, it will stimulate his possessive desire, this time the Sagittarius will do anything. Sagittarius guys speak very directly, like to express their ideas directly, do not like hypocrisy. If Sagittarius likes someone, he will smile and be happy when he sees that person. But when they meet a person they don't like, Sagittarius will be particularly ugly."
+
+
+
+
+    utter_Sagittarius_personality:
+    - text: "Sagittarius is the sign of freedom. Free, optimistic, enthusiastic, straightforward is their label. They are maverick and love freedom. They do not want to be bound by rules or dogma. They want to pursue their own thoughts and heart, both physically and spiritually. Staying in the same situation for a long time can make them depressed and even irritable. Sagittarius always pursues their inner spiritual world with an optimistic, confident attitude. They are good at discovering what they don't know and are willing to learn about it."
+
+
+
+
+    utter_Sagittarius_woman_character:
+    - text: "Sagittarius girl temper a little big, gentle surface to others think it is very good to bully, in fact, the heart of the terrible temper; Personality conflict is relatively big, super self-esteem. Calm and rational, treat things very seriously, see the problem is too transparent too realistic; Easy to lonely, lack of security, individual autism, love melancholy; Once hit by love, easy to get hurt, hurt like to choose to escape; Special love disarray, love tangled, super stubborn. The biggest weakness of Sagittarius is the softhearted heart. No matter how big the blow and hurt, as long as the other side lowers his head and says sorry, pious apology, he will not help but say it doesn't matter. Sagittarius can not hide others cry, see the people crying, can not help but sympathize with, to comfort. Sagittarius heart is the most soft, but also the most vulnerable to injury, life trivial, accustomed to a person to bear."
+
+
+    utter_Get_along_with_Sagittarius:
+    - text: "The Sagittarius sign loves freedom, so when you're with a Sagittarius, don't try to interfere with their actions. Let them do whatever they want, because even if you want to, they will get tired of you in the end. If Sagittarius like a person, will take the initiative to close to you, but when they walk 99 steps, the rest of the step 1 if you are not willing to go, they also will give up your actually Sagittarius heart also is very arrogant, if they are active, then he is really like you, if you can't do a his words in your heart, or away from Sagittarius. Don't keep your Sagittarius waiting for you. Sagittarians don't like to procrastinate. They don't want to waste time on things that don't make sense to them. Sagittarius doesn't give up, so as long as you show them plenty of love, they'll be with you for life. On the surface, Sagittarians seem to get along with everyone, but in fact, they also have their nasty people. If you are emotional and sentimental, it is not suitable for you to make friends with Sagittarians. Even if he seems to get along well with you, he won't be a real friend. People with a lot of negative energy, please stay away from Sagittarius. Life is already difficult, so don't let them be sad. Have what words you say straight good, don't beat around the beat, Sagittarius has no time and you guess to guess, when their enthusiasm is the reality after pouring out, the rest will only be a perfunctory."
+
+    utter_Different_Sagittarius:
+    - text: "Sagittarius has a different attitude to life! Sagittarius think alive is to be happy, is to do something others did not dare to do, did not dare to try, you don't actually that conform to live, you've gained 80% of happy life, they don't want to listen to what others say, don't want to listen to a n experienced person experience, more disdain those who said their past how detours and reasonable people to the future generations, They think this is a useless effort, no matter how much you go through, no matter how much you try to persuade him, it is better to let him go again, because the important thing is not the result, but the experience. Sagittarius is a sign that sticks to itself. He knows that no matter what he turns out to be, he will never forget his original intention. He just want to let oneself happy, want to let their loved ones happy, as long as you do this what he would do, whether it is a good thing or a bad thing, the constellation Sagittarius is actually a very neutral, he hermaphrodite, he has both men's ambition and character of the atmosphere, also has the woman delicate and gentle, and sentimental side."
+
+
+
+
+    utter_Sagittarius_alone:
+    - text: "Sagittarius will play games when a person, with a friend to accompany with the words will be with friends even Mak open black, without a friend, will be a person quietly playing their favorite or don't like the game, what do not want to, what also do not want to think."
+
+
+
+    utter_The_advantages_of_Sagittarius:
+    - text: "Sagittarius is often give a person a kind of natural and unrestrained feelings along with the gender, they like to travel around, in the experience of time and time again more clear their way how to get back, so their self-confidence is not out of thin air, but worthy of well-informed, Sagittarius people are very heavy friendship, may not be familiar with the front of the person Sagittarius who does not take the initiative enthusiasm, But for their friends and relatives are all can do anything, sagittarians effusive, for life is full of fiery passion, they regardless of his personal gain or loss, whether in thought or in action, always ready to risk experience, often hear striker said very flower heart, actually striker underneath is a man of feeling extremely serious, They can love someone for a very long time, even when they are often surrounded by friends of the opposite sex. Sagittarius is the most honest and frank, enthusiasm, love freedom, the most loved and most worrying is that naive, although has the wisdom, can be too kind and easily believe that other people's character is very easy to be oppressed, only one is love in their hearts, once fell in love with, mouth, the in the mind is everywhere for the sake of the beloved, for the other half of their absolute loyalty, Absolutely responsible! In fact, love in Sagittarius, very much like a child. Everything is so simple, simple to others complicate them, Sagittarius people are naturally optimistic and positive, like the free life, do not like to be bound, especially in the face of life pressure and trouble, open-minded people they are willing to make deep friends with."
+
+
+
+    utter_Disadvantages_of_Sagittarius:
+    - text: "Idealism: Sagittarians tend to be Pollyannaish. If you happen to be successful in the future, say you have an ideal; If you don't succeed in the future, say you're imagining things. That's where the Pollyanna comes in. Don't be unconvinced, the success or failure of the hero. When you succeed, you throw in the trash can of the broken nature someone turned out, affixed with a reasonable reason for you, instantly let you tall. Shallow city, shape in the color: people in this life, from laughter can see your repair. Laughed when young, heartless; Young laughter, the world right; Then back hey hey to smile, see flowers in the fog; And then, a half-smile, you do not know whether he smiled, as to smile what? Why laugh? There's no way to know! The further the cultivation, it can be said that the joy and anger is not in the form of color, likes and dislikes do not speak in the table. This is, of course, a normal person's life progression. Not Sagittarius, life is only a smile, the joys and sorrows of all written in the face, the difference between the weather bulletin board hung in the chest. Trust others: believe that I am honest with others, people will be honest with me. As the saying goes, do not want to harm others and do not want to prevent others. Combined with a point, a glance let others see through the Sagittarius see through you, easy to be taken advantage of, deceived."
+
+
+
+
+    utter_Sagittarius_attitude_towards_work:
+    - text: "The basic spirit of Sagittarius is freedom and speed. They like to work in a challenging job. It is best to satisfy their strong curiosity and thirst for knowledge. No matter what setbacks, he will not be able to blow his confidence, such a positive attitude to work, not only has the courage to take risks, have a good tolerance, for the future has a strong risk, hate slow way of doing things. Sagittarius people's ability to understand things is very strong, like to try something new and more changes, once you find yourself interested in things, will shoot an arrow, swift and vigorous commitment, even by the powerful, also won't compromise easily, is in any case will not lose the confidence of the dreams and hopes."
+
+
+
+
+    utter_Sagittarius_rest:
+    - text: " Sagittarius likes to be in a daze. Usually they work so hard that they don't even have time to be in a daze. Often just a distraction, was the colleagues around to mercilessly interrupted. Or is their own guilty, afraid of delay work, so the slightest did not dare to slack off, more dare not to work time absent-minded. A daze is extremely comfortable for Sagittarius, and the mind is completely empty. What bother things do not want to sit quietly in the afternoon, look at the blue sky, look at the white clouds, the mood is comfortable."
+
+
+
+    utter_Sagittarius_lucky_thing:
+    - text: "Adventurous Sagittarius, the most suitable for their own nothing more than those can play a protective role in the objects, there will always be a lot of accidents, take a few things to protect themselves can protect themselves and protect themselves. For curious and active Sagittarius, they are often attacked by unknown reasons, so Sagittarius lucky objects are some of the more solid material. For example: leather bags, boots, etc., they all show a strong protective message."
+
+
+
+    utter_Sagittarius_and_friends:
+    - text: "Sagittarians have a very optimistic and cheerful side of their personality, and most of them are not afraid of any difficulties in life. Therefore, when they have problems with their friends, they will always go to their friends first, and then explain their sincerity to them, because for Sagittarius, the most painful thing is not to be trusted by others, or even be suspected by their close friends. Moreover, they are also the outgoing personality that will never leave any misunderstanding."
+
+
+
+    utter_Sagittarius_notes:
+    - text: "Sagittarius is the sign that always makes those around them feel relaxed and happy. They can be quite humorous even in the most mundane situations. In fact, Sagittarius itself is a very sunny, optimistic and positive sign, so most of the time with them will experience their positive energy. However, also therefore Sagittarius is often too careless about, as it is difficult to avoid mess up something a little error, but for Sagittarius, seems this situation is worth mentioning, because they always thinking logic is relatively broad has made it difficult for you to imagine remedy, they even think to get rid of this crisis on the other side. Maybe in the eyes of others, is a big thing, but in their eyes is a trivial matter. In life, Sagittarius is a popular sign, but that doesn't mean they have perfect ways of communicating with others. And that, in part, is because they're pretty straightforward. And this is the pros and cons of the thing, free and easy with the attitude and way, although honest people without any reason to refute, can undoubtedly still hurt some people."
+
+
+
+
+
+
+
+
+
+    utter_Capricornus_time:
+    - text: "Capricornus isDecember 22 to January 19."
+
+
+
+    utter_Before_Capricornus:
+    - text: "The sign preceding Capricornus is Sagittarius"
+
+
+    utter_After_Capricornus:
+    - text: "Capricornus's next sign is Aquarius."
+
+
+    utter_Hobby_Capricornus:
+    - text: "There is a famous saying that books are the ocean of knowledge, reading seems to be a simple matter, but it can bring us far more than the increase of knowledge so simple, sometimes even may change a person's destiny, and reading for the philosophy of never too old to learn is the greatest fun for Capricorn. As long as a leisure down they will be infatuated in the world of books and unable to extricate themselves. As the saying goes, life is movement, we all know that exercise can strengthen physique, especially sitting in the office workers should be more go out for a bit of activity, the sweat also eased the pressure at the same time, this is the gym regulars, gradually exercise in their eyes already is not just a hobby, It has become a habit and an indispensable part of life. Capricorn usually silent, but their hands-on ability is super, Capricorn has nothing to do with like their own tinkering to do some things, such as flower arrangement, paper cutting, origami handwork are their speciality, in the process of making their own hands can not only active thinking but also improve the creativity and imagination, The sight of a finished product will fill you with achievement and pride. Close to hiking tour as far across the province to go abroad, anyway as long as it is about play travel is little not Capricorn figure, they are very enjoy the travel process, full of unknown and novelty because you can make new friends and growth stories broaden the horizons, only go out found that the goodness of life, to see this wonderful world, So sometimes a change of scenery may not be such a bad thing."
+
+
+    utter_Three_views_Capricornus:
+    - text: "Career: in the career will always be in a rational side, and everything pay attention to principles and rules, everything from reality, a strong sense of time, for themselves is also very strict. Have a strong organizational leadership and driving force. Love: Capricorn in emotional point of view is very conservative and passive, and not too good at communication, cause it's hard to build up close relationship with others, but once with each other any more, you will be in a relatively stable, such as the other's status, family, life insurance is to consider their conditions, But once fall in love with each other's words will be more loyal, although the lack of warm romantic taste, but after marriage is absolutely will be home. Money: Capricorn values practical benefits as well as some material security. Some too conservative money view, usually life is mostly regular and simple, want to spend money or more conservative, financial management youdao, very know the budget. They are natural money managers."
+
+
+    utter_Afraid_of_Capricornus:
+    - text: "Capricorn is afraid of the unknown and of situations that are beyond their control. Capricorn is a person who doesn't like surprises. They feel embarrassed, and when they do, they don't know what to expect. They are rarely able to immerse themselves in that kind of busy environment. Despite how busy and noisy the place is, they are still very independent and self-centered. Capricorn is terrified of rejection and would rather miss out than make the first move. Capricorns are those who seldom express their feelings to others. Even if they like someone very much, they will show their affection appropriately. And if the other person doesn't respond, or is. If this means no, then the Capricorn will choose to give up and return to their own safe position. Capricorns are very afraid of being indebted. Capricorns are like this. They prefer to go the extra mile themselves rather than owe favors to others, especially those they don't know or have close relationships with. Capricorn would rather lose than take advantage in material matters. Capricorn is a very thorough person, the world does not have so many benefits can let you take advantage of, some aspects take advantage of, there is always another need you to pay more place, so Capricorn ah, would rather eat more small losses also do not want to, when the time comes to suffer big losses."
+
+      
+    utter_Looks_Capricornus:
+    - text: "The appearance is usually ordinary, the dress is usually conservative and simple, making people look more comfortable and trustworthy. They trust everything to them, and they can deal with it seriously. Their conscientious and meticulous attitude makes people look like them."
+
+
+    utter_Ability_Capricornus:
+    - text: "Capricorn is a relatively silent constellation in the 12 constellations, Capricorn is not good at communicating with people, no matter what things are like silently implementation, even if it is like a person, they will not pretend, but secretly behind the attention. At work, Capricorn also does not like to advertise the false power, they will through their actual ability to prove everything, so through the hard work of the Capricorn will be the career of success, outstanding ability to only the strong can control."
+
+
+    utter_Expression_Capricornus:
+    - text: "Circumspect, not easily promise, Capricorn is a lot of advantages, Capricorn talk always keeps a lot of reservations, because Capricorn is a person of great emphasis on credit, if cannot do, Capricorn is never hit swollen face depth, Capricorn men would like to listen to opinions, Capricorn because although you can't praise people, But Capricorn's opinions are often the most pragmatic and sincere. Especially when he is in a confused state, often a word from Capricorn can wake him up. For impractical and love to daydream, although Capricorn personality honest will not pour cold water on people, but honest Capricorn a lack of interest, even perfunctory words are too lazy to say the appearance, sometimes it is really the whole body of the cell will roll up. Capricorn, lacking imagination, lacks expectation for things that can't be seen."
+
+
+    utter_Solve_Capricornus:
+    - text: "When they meet things, they will not think so much about the emotional above things, they deal with the way is very direct, because this constellation is very simple. If there is a problem, they will solve it. They will not think about the messy problem and what the result will be when they solve it. If it is a job or a personal problem, you can leave it to the Capricorn and it will be no problem. But when it comes to people emotionally, they don't deal with it as well, it just gets worse. Because they really don't think about the feelings of others, let alone the emotions of others. If they have a problem in their relationship, the first thing they think about is how to solve the problem. If the two of them are fighting a lot, it is usually the other person who is fighting all the time. Capricorns are almost always silent. They will look at you quietly, they will feel very naive, it is clearly a very simple question, to pull out those have no, make the original simple question more and more complex."
+
+
+    utter_Treat_parents_Capricornus:
+    - text: "Don't care about the process, so you pay attention, is the right attitude. Capricorns treat their parents with all their heart. This is the right attitude. Spending more time with your parents is more realistic than surprises, but also the right attitude. So spend more time with your parents, this is what you should do no matter how busy you are. Simple and sincere company is the best, so that parents like and are satisfied with it. The method is not important but the heart is the most important, and even indulge yourself."
+
+
+
+    utter_Treat_children_Capricornus:
+    - text: "Capricorns really don't want to spank their children. They believe that good children are not made by beating, but by discipline. So they will be very careful to educate children, with them say if they again so noisy disobedience, what kind of end. They will also tell their children how hard they are, so that the children to understand the hard work of mom and dad. In short, Capricorn will rely on good intentions, well advised children to realize their mistakes."
+
+
+
+    utter_Fortune_Capricornus:
+    - text: "The single Capricorn is still focused on work, and although you may have a few romantic partners around you, you will not put too much effort into your relationship. You will try to find a way to make the best of both. Capricorn's reputation and reputation will be greatly enhanced when they enter the working world. However, Pluto's tense aspect to Mars will still cause you to distrust the people around you, and you will be inclined to get involved in things that don't matter to you. Try to relax yourself, and don't let your mind wander too much. Capricorns' fortunes as a whole are very strong, and the upward trend of their fortunes is very obvious. Your current wealth has been built up bit by bit. You won't get a big fortune all at once, but a small amount of income can add up to a very substantial savings."
+
+
+
+    utter_Capricornus_man_character:
+    - text: "Capricorn men belong to the studious coquetty personality, their heart is extremely serious and deep, belongs to the passive personality. So if you do not take the initiative, you will never open their mind door, found that and appearance is not the same as the Capricorn. When dealing with people, they are not comfortable dealing with strangers, but they will be polite. If you are a good friend, you will find that the man has a great sense of humor and is approachable. Their steady personality will make you feel that this man is reliable. However, because of some work reasons, they may appear eager for quick success and lack of care for others, but this will not affect their evaluation among friends. When it comes to love, the Capricorn man is pragmatic and the kind of sign who wants to make the best of life first. They are brave, determined, persistent, serious and even a little stuffy. He doesn't know how to be romantic. He doesn't say sweet words. He's not very sweet. But mature and stable characteristics, will let them appear very dependable, although not often say I love you, but if said that is the real deal. They are loyal to love, will not easily give up a relationship, at least if they really like a person, in the bottom of my heart is not easily put down. Capricorns are industrious, brave and intelligent. They always find a way to get along well with their partner in a marriage. They are also very responsible and willing to do anything for their home. The Capricorn man is looking for a marriage that brings security and also makes for a happier and happier marriage. Finding a wife to keep at home and not to worry about will make the Capricorn man responsible. Marry the faithful Capricorn and you are buying a lifetime insurance policy for your marriage."
+
+
+
+    utter_Capricornus_personality:
+    - text: "Capricorn is a down-to-earth sign. They don't indulge in fantasy. They are more practical. He is down-to-earth and cautious. There is a kind of will not give up until the end. They have strong family values and a sense of responsibility. Have goals and big dreams, and can take action to pursue them. They give a simple, kind, lovely appearance, in fact, the heart will hide a lot of things. So often because of this strong contrast, lead to their heart is very contradictory. It's easy to be influenced by the outside world and you can be happy one moment and depressed the next. They are complex, suspicious and often unpredictable. On the one hand, they are positive and capable of action. On the other, they are low and tend to suppress their desires. Once they have a goal, they will devote themselves to it, often stubbornly, until they succeed. Sometimes too much attention to themselves, it is very lack of communication with peers, do not know how to adapt to change. The appearance of cold, give a person a feeling of hard to approach. With this extreme personality, it is difficult for them to make close friends, or even to be easily isolated from others. Capricorns are tolerant, independent and self-reliant. They often like to do things themselves and make them perfect according to their own preferences. This kind of personality often helps them to achieve some success in their career. They are born with great endurance, no matter what kind of pressure will not give up speaking out of turn, and even more setbacks will be more brave. But sometimes because of this stubbornness, lead to their own often suffering. But they remain outwardly calm, which is why they are thought to be unpredictable."
+
+
+
+
+
+    utter_Capricornus_woman_character:
+    - text: "Capricorn women are easygoing and calm in their dealings. They do not dress up too much in everyday life, even on more formal occasions. They are not natural dresser types. All the pursuit of plain is their attitude to life, their character of this kind of plain water, sometimes let a lot of people difficult to understand. But because of that, most of them don't get involved in the so-called struggle for power, the so-called struggle. They all disdain to get involved and just keep to their original intentions. Capricorn women are more respected than popular. It's not that people don't like Capricorn friends, it's just that what they say is like their personality, which can be rigorous to the point of being rigid. Truthfulness is one of the qualities of Capricorn friends. Their advice may sound impersonal, but they are truly loyal to their character and, on reflection, they have a point. So even if their feedback doesn't sound considerate at times, it doesn't stop people from confiding in a Capricorn woman. Capricorn women not only give good advice but also keep secrets for others, which makes them all the more respected. Capricorn girl character is practical, steady, also have the spirit and determination to move towards the goal, not to achieve the goal is not to let go. Capricorn women's endurance is surprisingly strong, is the most endurance of the twelve zodiac signs, at the same time they are also very diligent, very responsible. Conservative and stubborn Capricorn woman, very rich sense of justice, there is a pair of uneven road to draw a sword to help chivalrous heart."
+
+
+
+    utter_Get_along_with_Capricornus:
+    - text: "Capricorn hates lying. They want everyone around them to be sincere enough to treat them, even if they are silent, and they think everything is fine. Of course, there is another possibility is the other lies to deceive until they, let you will never know the truth, so Capricorn of that man will have no alert, but if you can't do it but want to deceive them, although in the moment there is no obvious Capricorn, but their heart is since then no longer dare to believe each other. CAPRICORN (Dec. 22 - Jan. 20) Capricorns actually enjoy playfulness with those around them, and will find it amusing if the other plays a harmless joke on them. The Goat may even engage in a bit of banter, which will lead to a closer bond. However, when they are in a serious conversation, hoping to get the most out of the other person's mind, but the other person does not care, still joking with them, they will feel angry, think that the other person does not respect them, and may even reconsider the relationship. They will make their own judgments and only listen to advice they agree with. If someone forces them to change, the Capricorn may decide that this is not the way they want it to be. Although they will not quarrel with the Capricorn, they will even do what the Capricorn wants them to do, but they have their own plan in mind."
+
+
+
+    utter_Different_Capricornus:
+    - text: "First of all, they have different goals in life, or to be more precise, they stick to their goals differently than others. This seems to be like their obsession, he will set a goal for themselves, not to reach the goal will not give up, most people do not have the willpower like Capricorn, a lot of people will give up halfway, or halfway to change direction, but they will not, they will never admit defeat, will not give up. Capricorns have a different view of love. Most people are experiencing the bitterness of love, suffered a setback in love, become do not believe or don't want to anyone is emotional involvement, and Capricorn, are they really funny, watch the bitter experience, others listened to other people's love story, will fear about it, will feel emotional unreliable, he had never experienced, no experience, Can say that love is a harmful thing, this kind of god association and the victim of paranoia I also served, at least you have experienced, you have failed you to deny ah. Capricorn is the steady bearer of the horoscopes. It is quite rational and calm. Always haughty, the Capricorn we see is always the stereotypical, well-established Capricorn, usually a high-achieving student and a workaholic."
+
+
+
+    utter_Capricornus_alone:
+    - text: "Capricorn children in a time of solitude, sitting alone like to do things, or playing games or watching movies, time from the game fingertips or TV delimited away, really reluctant, leisurely time, hope time to stay."
+
+
+
+    utter_The_advantages_of_Capricornus:
+    - text: "The greatest advantage of Capricorn is that it is steady and steady. It is well known that Capricorn was born on December 22, BBB 0 and January 19. So for Capricorn, they symbolize the beginning of winter, the beginning of cold. Capricorn is a very down-to-earth and responsible sign. Anyone who works with or socialises with Capricorn will have a strong sense of security and steadiness. They are like a furnace in winter, warming everyone around them. Capricorn's nature is quite gentle and gentle. And very responsible, also have a strong sense of family responsibility. Another great advantage of Capricorn is that they will be very responsible in a relationship. If she likes each other and wants to live a good life with each other, then she must be very dedicated and affectionate to go hand in hand with each other. The Capricorn thinks they will love a person if they identify with him. This is also because of their steadfast and steady prompted, they will not become the so-called cheating and playing with women's feelings of men or slag women. Also capricorns tend to be simple in their thinking. They are very responsible for the people they like or decide to be with. So I have contact with Capricorn people will feel that they are very responsible, and practical and steady, is the best choice for good friends, because they do not have so much mind and scheming, to get along with people around. And they will be more steadfast and steady when it comes to relationships. Let a person have very sufficient sense of security and steadfast feeling. Therefore, for Capricorn, steadfast and steady is their greatest strength. Therefore, in my opinion, the biggest advantage of Capricorn is the steadfast, stable, responsible."
+
+
+
+    utter_Disadvantages_of_Capricornus:
+    - text: "Capricorn are not good at language expressions, especially their inner thoughts, never how to express it, may be you used to the calm and indifferent, a lot of things want to hide in the heart Capricorn is a very practical signs of the zodiac, life has no emotional appeal, also don't know what romance, he also never struggle to arrange a lot of programs to promote romantic atmosphere and occasion. So the Capricorn lover doesn't have to think about what the Capricorn will surprise him or her. Capricorn is more practical and realistic. It is the Capricorn's consistent style to do things. He is more self-motivated and will not take opportunistic measures. It is not bad to have this kind of idea, but too persistent to know the truth or the result, sometimes it is easy to hurt others and myself. Perhaps used to struggle in the cause of the Capricorn, more attention to detail, so for a lot of things, he is very dispute, especially in the Capricorn male body, too dispute about the character will let the opposite sex is not like, and in the girl body, although still speak sense, but the general people are not too like too dispute. Capricorn also has a very bad defect, that is a little selfish, will burn Bridges, when it is beneficial to their own, for their own use, when there is no use value of others do not care. A practical, profit-oriented person. In fact, Capricorn values his career and work. He doesn't want to betray him, nor should he want to burn any Bridges over the river."
+
+
+    utter_Capricornus_attitude_towards_work:
+    - text: "Capricorn people, have always been very reliable people, has been dealing with things up will be very strong, for this point of view, they have always been a lot of responsibility, and even in the vitality is very tenacious, are like to help others, and even will always be very like a lot of achievements to people. Capricorn person, never will be very stable, has always been so, so basically play to their abilities, has always been so, hold hands in the personality, the things are so, acquisitiveness is very strong, so basically will not to rely on other people close to the place, the personality is conservative, in the face of things never how much protection to itself, So basically they are very approachable, even in terms of their work attitude, they are really easygoing. Capricorn people treat work, have been very insist on, if in the identified things, will continue to complete, and even always rely on their own characteristics, so never choose to continue to move forward, and even the troops according to the performance of their own for serious this point."
+
+
+
+
+    utter_Capricornus_rest:
+    - text: "Capricorn will try to pick up a new hobby. From gardening to scrapbooking to photography, you always set a higher bar for yourself, and you'll reap the benefits of honing a new skill. You have your tenacity and perseverance, and you will certainly try a variety of hobbies for your persistence."
+
+
+
+    utter_Capricornus_lucky_thing:
+    - text: "Capricorns are workaholics, and their passion for work is different from that of ordinary people. They don't like shopping or entertainment. Work is their whole life, including interests and hobbies. The power of the magic stone to the mind cannot be underestimated. Sapphire and emerald appear on the list of lucky objects for Capricorn. They can help Capricorn make decisions when they are indecisive. Incense is a great way to soothe your spirit. Don't forget to light it when you get home."
+
+
+    utter_Capricornus_and_friends:
+    - text: "Capricorn are basically honest, reliable, responsible people, although a little slow, but the quality is absolutely not a problem. Their appearance seems to be unremarkable, but they work hard, but all over the radiance. Basically, your Capricorn colleagues will keep you at arm's length at first, but once you get on well with each other, you can become encouraging partners who work together to make progress. However, for the playful Air sign, your Capricorn colleagues can be a little boring. On the surface, they always don't care about it. In fact, they look forward to others' care. They take the initiative to get close to them and pay their feelings first."
+
+
+    utter_Capricornus_notes:
+    - text: "Capricorns are not good at expressing their feelings, but they have a good eye for people, so don't play games with them. As long as you are sincere, they can be very soft. No matter how hard you say during a quarrel, you can, but never mention the Capricorn family. Capricorns are very, very short term protectors. Their family is their bottom line. Don't try to reason with the Capricorn. They have a pole in their heart that they know what they should do and what they should not do. Capricorn hates being lectured by others."
+
+
+
+
+
+
+
+
+
+
+
+
+    utter_Cancer_time:
+    - text: "Cancer is June 22 to July 22"
+
+
+    utter_Before_Cancer:
+    - text: "The sign preceding Cancer is Gemini"
+
+
+
+    utter_After_Cancer:
+    - text: "Cancer's next sign is Leo"
+
+
+    utter_Hobby_Cancer:
+    - text: "Cancer's interests and hobbies are very artistic, as a member of the water signs, they are delicate, emotional, usually have a lot of life and creative inspiration, so more suitable for writing, composition, painting and so on. Cancers are usually more innermost, general leisure activities will not be too far from home, so they do not like a person to travel outside, social. Cancer won't consider a job if their job requires them to travel regularly. So you rarely see them spending a lot of time outside on their own, and if they do, it's mostly with the family. Also Cancer is a very loving sign, they are usually very fond of small animals, so most of the family will keep pets. They are the most dedicated walkers, the most indulgent and the least willing to give their pets away. They will have a flood of compassion for their pets, in addition to take care of them in every possible way, but will not leave them when they are in trouble, and always provide them with a happy and warm home."
+
+
+    utter_Three_views_Cancer:
+    - text: "Career: Cancer in his career is not so strong ambition, but he should be responsible for things, he wants to do, he will be serious and diligent to do, although he does not like the work he will have a lot of complaints, but things he will handle very well, complain to complain, things can be done. Love: Cancer always puts others more important than themselves. When Cancer falls in love with someone like this, they will be unable to extricate themselves and give without a bottom line, which will only hurt themselves. Money: The Cancer is a master when it comes to money, and will not be jealous or whiny because of lack of money."
+
+
+    utter_Afraid_of_Cancer:
+    - text: "Cancers are afraid that others will not be happy, and always take into account the feelings of others and ignore their own. Cancers are afraid that everything is no longer good, including the world, humanity and love. Cancer is most afraid of lies, even white ones, and doesn't like that Cancer is afraid of a lack of understanding. Understanding is so important to Cancer, it is the most meaningful thing in life. Cancer is afraid of losing faith, this belief is the Cancer philosophy, if destroyed, Cancer will collapse."
+
+
+    utter_Looks_Cancer:
+    - text: "The standard character of Cancer is firmness and perseverance, round face, fleshy, the brow is often locked, and there are obvious lines, which can fully see its melancholy nature. The eyes are full of emotion, the nose of a lion, the corners of the mouth slightly drooping, the stubby neck and the round chin, giving people an understanding maternal feel."
+
+
+    utter_Ability_Cancer:
+    - text: "Cancer is a very strong constellation, with the strongest maternal complex, not only can be kind to every friend around, to their family and relatives are very care, is a very responsible constellation, but also has a very capable level of affairs. Cancer is a very strong constellation, good personality, decided that they have a strong ability to deal with things, and the ability to deal with things to reach five stars, not only can each want to make good friends and leaders, superiors and colleagues, neighbors are very good, the ability to deal with things to reach the highest."
+
+
+
+    utter_Expression_Cancer:
+    - text: "Cancer is a person who knows how to consider the feelings of others. For example, when Cancer sees a face of doubt on the other side, Cancer will stop and ask the other side if they did not make it clear just now, so that they are in a circle. If the other person did not hear clearly, then Cancer will be very patient to try again, not upset at all."
+
+    utter_Solve_Cancer:
+    - text: "They are not good at solving this kind of problem. If they are forced to solve it, they may use their appearance to pretend to be poor and use their hard work to make others not have the heart to care."
+
+
+
+
+    utter_Treat_parents_Cancer:
+    - text: "Cancer people, treat their parents to recognize the degree, indeed is more than the average person will do, even if again busy, will also want to make a phone call, or send some money back, care about their parents' life. But once because of career reasons, their care for their parents, into money and excuses, at this time, often will cause harm to their parents, or even loss. In fact, Cancer's original intention is enough, as long as you remember that sometimes cooking a meal for your parents is more important than how much money you give them, it is really the most correct attitude towards your parents."
+
+
+
+    utter_Treat_children_Cancer:
+    - text: "When faced with a disobedient child, the most common thing Cancer will do is scare the child directly. They will scare the child and then they will be taken away by their uncle, or some evil spirit will come to catch the disobedient child. Cancer knows this is not a permanent solution, but all they need is to calm the child down right now, right away. They are fed up with their children's noise, so they may decide this is the best solution."
+
+
+
+    utter_Fortune_Cancer:
+    - text: If you're single, the favorable aspect of Venus and Mars will bring your love life into full swing, and you will have the opportunity to meet more quality members of the opposite sex. Cancers who have entered the workplace need to take some time to evaluate their abilities and make realistic plans. They should not act rashly on the spur of the moment, so as not to get the best results with half the effort. Students who are still studying need to lay a solid foundation for themselves and carefully challenge difficult problems. When you have consolidated the foundation of your knowledge building, you will find that the problems in front of you will be solved. Their financial situation is generally stable. They don't overspend, they don't have large sums of money in their accounts. They live in a stable and orderly way, and they do well in their small lives."
+
+
+    utter_Cancer_man_character:
+    - text: "Cancer boys are low-key, docile and amiable, approachable and sedate, often called sunshine boy. Cancer boys have a good personality, leaving people with a gentle and gentle image. They tend to be slow, quiet and reserved, but they are definitely not the flippant, nagging type."
+
+
+
+    utter_Cancer_personality:
+    - text: "Cancer's personality is gentle, sincere, sensitive, and lack of sense of security, self-protection consciousness is strong, so I am also very slow heat, also shows that people attach importance to feelings, friends once chosen, they hope to be a lifetime. Cancers are usually loving and generous. They are very emotional and can be very strange at times. Loyal to friends and family, they attach great importance to the family, are the guardians of the family, full of gentle temperament. Have strong willpower, considerate, thrifty."
+
+
+    utter_Cancer_woman_character:
+    - text: "Cancer girls are very gentle and have a strong dedication to love. They are easy to get hurt in the emotional development with the opposite sex. They have a strong tendency to exclude other members of the opposite sex and are extremely hysterical. Although there is a strong maternal nature, but also more self-centered egoist. For love is very enthusiastic persistent, but almost will not take the initiative to express, the heart is far more than the surface of fanatical. Sometimes they are very stubborn and insist on their own ideas, and sometimes they are fickle and irritable, falling into a state of self-appreciation. A small number of people will lack basic human etiquette."
+
+
+
+    utter_Get_along_with_Cancer:
+    - text: "1. Don't follow the cancer of extreme emotion With cancer deeply, you will be more and more found in their warm, bright or quiet under the mask of actually have an unusually sensitive heart, you will find that their happy almost perfect, but will find them very easy because things again soon preoccupied, or questioning their relations with others is determined. All derived from the nature of cancer crave security, even sometimes crab crab will pass the emotional reaction to test each other about their attitude, if you because he should extreme emotions and disturbed your pace, because he was a moment of silence and anger, noisy, and even the cold war, that will only make him feel to get along with you is unable to get inside in secure, And they end up leaving you out of self-preservation. The best way to do this is to respond to changes. No matter how his mood changes, as long as you don't change your mind, gradually he will come to believe that you are really a reliable person. There are only a few Cancer friends you can trust. If you want to be a close confidant or a loving companion for Cancer, go ahead. Accept their dependence on you, especially psychologically. What you need to accept is the Cancer's complex emotions, such as memories, sadness, childlike coquettish behavior and so on. It's a natural emotional magnifying glass, and it's easy to see all the innermost human emotions in a Cancer who trusts you. All you have to do is stand by him and watch, rather than waving your hands when he asks for help or tells you something, and the Crab's attachment will grow stronger and stronger. 3, the cancer need feedback to do guarantee Cancer will trust to oneself is very good, kind and considerate and also other constellations is difficult to give protection, of course the premise is that you really is very important to him, no matter friendship or love, with Pisces get pleasure from a completely different is that the pay is definitely have requirements of cancer, they need the same feedback. They will judge by their own values whether the reward is satisfactory or not. First, what Cancer needs most is affection. Second, what Cancer needs most is benefits. Many people think that Cancer is a very weak sign. They are always obsessed with their emotions. They always seem to have a lot of small emotions, which makes them a very vulnerable species. Think they cannot bear a single blow, but do you notice, every irresolute Cancer are strong walk on their own road never change, they are so the mouth said dissatisfaction, but still adhere to the people in the heart. Please do not be confused by the weak Cancer surface and no scruple of its vicious words, to know that the crab crab pliers is not decoration, when you completely ignore his feelings, thoroughly sting his heart, you will find that all the soft and weak are all gone, replaced by the strong crab pliers full of explosive counterattack."
+
+
+
+    utter_Different_Cancer:
+    - text: "Cancer emotional reaction is quite sensitive, the need for a sense of security is very high, prone to emotional loss of control, sometimes people feel unreasonable, full of shy gentle, very family-oriented, defensive heart is more heavy, at the same time a little neurotic, nostalgic."
+
+
+
+
+    utter_Cancer_alone:
+    - text: "Cancer will entertain themselves when they are alone, whether it's watching a TV series or watching some popular entertainment software, they will be very lazy when they are alone, so they will relax and enjoy."
+
+
+
+
+    utter_The_advantages_of_Cancer:
+    - text: "Cancers are domestic animals, and a warm feeling in their home will support them in their never-ending journey to success. So he or she does everything for the sake of a happier life for himself and his family. Cancers are known for their imagination, sensitivity and empathy. In interpersonal communication, they can easily read others' thoughts and subconsciously seek protection. Therefore, they are able to avoid any danger or trap skillfully. Cancer represents motherhood. Its energy is gentle and submissive, but it is also very defensive. Protective tendencies and empathetic traits create the urge to nurture, care for, and act as mothers."
+
+
+    utter_Disadvantages_of_Cancer:
+    - text: "Cancers are super sensitive, they may talk to you one second, the next second they immediately turn against you, you must be unconsciously stepped into their minefield, and may also imagine a lot of their own plot, the more you want to get angry and sad. To put it bluntly, overprotective. The Crab's nature is to walk sideways, and Cancers put this nature to good use. The other half of Cancer, in particular, must be able to feel their gentle face under the unswerving domineering momentum. Cancer's complex mind, often in a deep state of self-protection, will only be tested to win his trust. As long as any link, you stimulate his sensitive defense, it will fall short. People with a strong Cancer disposition can also be quite grumpy. They have no tolerance for sand, tsundere, sometimes very playful, and have a controlling and dramatic attitude towards things, which is often suffocating."
+
+
+
+
+    utter_Cancer_attitude_towards_work:
+    - text: "Cancers are workaholics. They completely forget everything when they are working. And in the mind of Cancer, everyone in the young, should spend a lot of time and energy in the work, must not be greedy for pleasure, will work at will. Cancers take their work seriously and will not leave the office until they have confirmed the details. And Cancer feels that only when they are young, they can work hard to make money and enjoy their happiness when they are old. Do not choose peace when they should work hard."
+
+
+
+
+    utter_Cancer_rest:
+    - text: "In the minds of Cancer people, the best way to take a vacation is to spend time with family. Attach importance to the family and feelings of their hearts will always keep a warm lamp, according to the direction of the home. Instead of talking to family members over the phone, it is better to return to the family and accompany each other. The plain warmth is simple but meaningful."
+
+
+
+
+    utter_Cancer_lucky_thing:
+    - text: "For the family-oriented Cancer, extravagant or impractical items will never catch your attention. It is better to spend a lot of money on something that will last a long time than to have something that is beautiful but impractical. Fur cushions or slippers are Cancer's favorite item, because they feel like home and are practical without wasting money. The fruity lip balm will keep them refreshed, and the bath salts will help keep them healthy because of their poor metabolism. These very practical things happen to be the lucky things of Cancer, fully embodies their home characteristics."
+
+
+
+    utter_Cancer_and_friends:
+    - text: Cancer people are very emotional, as long as it is a true friend, will treat sincerely. The little things that make you angry will soon be forgotten and won't hold a grudge. Cancer people, others to their own good will be remembered in the heart, a favor will be repaid. Cancer is not good at expressing their feelings, so they often use silence instead. Cancer can't handle being mistrusted, betrayed or betrayed by a friend. Cancer is a well-known fact that emotional, but some would say people have emotions, but is it true emotions in cancer is cancer people don't understand, their mood change is faster than the weather suddenly turn hostile, on one second maybe very happy, maybe next second is cool, you'll never guess what is miss his next expression, But a closer look did reveal signs."
+
+
+
+    utter_Cancer_notes:
+    - text: "Cancer is often a very understanding sign in life, so they may not be good at language expression, but in communication with people, they tend to be a good listener, good at summary. In addition, they are people who like to listen to others' ideas and are more willing to share their feelings and experiences with others in the process. In fact, Cancers are often very interested in the logic of others, because they often think about some interesting things. Their lack of expression will make others curious about them, and even want to peer into their inner world. However, this is why Cancers tend to hide themselves deeper. In fact, sometimes Cancers have too much concern, maybe they think too much about the consequences, which makes them unable to move forward. Sometimes opening your mind and learning to accept the ideas of others is also a way to communicate with others. If you have been silent, then finally just in the constant accumulation of pressure, let their pace more heavy. It takes a lot of time for Cancers to adapt to a relationship or environment, perhaps because they are uncertain about themselves, but it's good to let others know a little about them."
+
+
+
+
+
+
+
+
+
+
+    utter_Taurus_time:
+    - text: "Taurus is April 20th to May 20th."
+
+
+
+
+    utter_Before_Taurus:
+    - text: "The sign preceding Taurus is Aries"
+
+
+
+    utter_After_Taurus:
+    - text: "Taurus's next sign is Gemini"
+
+
+
+
+    utter_Hobby_Taurus:
+    - text: "Taurus is the classic version, had saved so much money, in addition to meet its own security is to satisfy his desire to eat all over the world, but in fact they often with friends discuss research and development of various new dishes, cooking and also recommend food from all over the world to each other, so the Taurus hobby is how tasted the food. Taurus appreciates lasting relationships and is used to a safe and comfortable environment. In fact, the ability to find value is also a reflection of your own worth and taste, whether it's food, music, stocks or real estate. The Taurus enjoys a peaceful and comfortable life through the accumulation of lasting value. Taurus's stable personality is reserved and does not like change. They are very patient and never impatient. The patron saint of Taurus is a symbol of love and beauty Venus, they have very good taste and full of artistic cells, so the interests of Taurus, culture and art related interest and the hobby is very good choice, like hobbies can cultivate a work of art collection, to participate in art activities."
+
+
+
+    utter_Three_views_Taurus:
+    - text: "Money: Taurus is one of the twelve zodiac signs that care about money, they care about money is not stingy performance, but he is very cherish their sweat in exchange for every penny, they are very thrifty, also good at calculation, so he will not squander money at will, they can control their desire. Taurus doesn't take advantage of anyone with money, so don't let anyone take advantage of him. Love Taurus has a little problem with the relationship. He felt that if a person love themselves, it must be unlimited to pay and investment, and when they feel that the other party is not so concerned about their own, it may give each other's love under the conclusion -- that is, do not love themselves. Career: Taurus has the right approach to business, as they will do everything down to earth. They are disdain for stealing, connections and backdoor deals. Taurus takes his work and career seriously and is responsible for what he does."
+
+
+    utter_Afraid_of_Taurus:
+    - text: "Taurus fears and expectations are often the same thing, not sure the status is marking time. Taurus is afraid to forget the past. Without it, Taurus may have nothing. Taurus afraid of nothing, the more insipid, the more representative of the heart to look forward to. Taurus is afraid of change, even if the situation is not good, but stability is peace of mind. Taurus is afraid of losing the material, material for Taurus is a security and security, irreplaceable. Taurus is afraid of being doubted and mistrustful. They also fear to encounter doubt and distrust. Taurus is afraid of comparison or being upstaged."
+
+    utter_Looks_Taurus:
+    - text: "Although Taurus looks ordinary, but they are eloquent, intelligent and lovely, they are most interested in change, is interesting, is to enjoy the moment, this is their most beautiful place, so only they want to seize the fate, it is almost no failure. Taurus women are not born beautiful, but they are the most special. They feel that appearance is a sign of a person, so the Taurus is careful about their appearance and does not dare to take the slightest slight. They will also let themselves become more and more beautiful, temperament more and more outstanding. The beauty of the Taurus woman is very unique, unique temperament, the most connotation, may look at the first glance, feel quite common, but the more they see the better."
+
+    utter_Ability_Taurus:
+    - text: "Taurus is a very conservative and special hard working constellation, slow heat and low-key personality, so that they naturally have a lot of friends, and never promiscuous, every friend and they are very intimate, this is also the Taurus friends, will be particularly willing to and their intimate fellowship. Even when it comes to business and business affairs, Taurus is always prepared, perfect and cautious, not eager for success, but in pursuit of steady progress."
+
+
+
+    utter_Expression_Taurus:
+    - text: "Taurus reaction is always slow for Taurus don't understand the part of the Taurus will repeatedly asked each other, make each other feel very gentleness considerate, Taurus and talk with slow Taurus, let a person feel very polite, Taurus is respect each other's appearance, but also for just friends, they think the Taurus is more attractive, This is because the Taurus will always give tactful-but-reserved answers, which will make the other person think that the Taurus is well-bred. Usually get along with acquaintances, they should be the most intolerable Taurus stubborn do not know how to change, often think again after a long time, Taurus or according to their old conservative ideas to do, and in communication with others, Taurus invariable way of speaking, also easy to let others would not listen to Taurus talk. If the Taurus tries to accept others' ideas in their interactions with them, perhaps the Taurus will find that the facts that the Taurus used to insist on are unnecessary and new experiences will be unforgettable."
+
+
+
+    utter_Solve_Taurus:
+    - text: "When it comes to small things, Taurus will tend to swallow their pride and consider themselves unlucky. They consider it a blessing to suffer losses and tend not to care about others. For example, they will suffer in silence if the buyer sends the wrong goods or the quality is wrong. They often tell themselves to forget it, this is a small thing, the seller is not easy, or don't go to trouble him, there is no need to haggle with others for a few dollars of things. When confronted with an important problem, Taurus is the go-to solver. On the one hand, they think about their own interests, on the other hand, they also think about the other person's feelings, so they are more compromise when they solve problems. This brings a very big benefit to solving the problem. Taurus is not a person who likes to avoid problems. They just like to put their happiness first. Small things can not be solved, but big things must be solved carefully. The Taurus person will not be misled by the outside world and his judgment will not play out. He can solve these problems smoothly with his own inner firm ideas."
+
+
+
+    utter_Treat_parents_Taurus:
+    - text: "Taurus is a very slow heat, sometimes the heart is very good to parents, but the need to understand the parents are very little, sometimes the parents take the initiative to say it, just know that is so. So Taurus does not lack money, time, and love for their parents, but often need to do more to take the initiative to care about their parents, take the initiative to treat their parents, this attitude is the most correct. Treat their parents, is not polite, but to take the initiative to care and love, so as to let parents feel at ease."
+
+
+
+    utter_Treat_children_Taurus:
+    - text: "Taurus deals with unruly children by not allowing them to eat. When the family sits around talking and laughing, Taurus punishes them for standing aside and watching the others eat. Taurus wants their children to be hungry, so they will remember the feeling next time, so they will remember it. Taurus will remind them not to eat dinner when they start to act out again, and usually the child will be honest."
+
+    utter_Fortune_Taurus:
+    - text: "Single Taurus, this year will not be a very good year for you and you will not have a strong desire to be single, so you will not be able to appreciate it when it happens. Taurus will be eager to establish themselves in business, prove themselves and improve their reputation and status. In fact, you do have the stage to show yourself, but your own ability is limited, so you need to work hard to achieve the results you want. Taurus's side finances are good, but their front finances are not. The undesirable aspect of Uranus and Pluto makes the possibility that your impulse consumes is bigger, the expenditure such as gift money, social entertainment also avoids hard."
+
+    utter_Taurus_man_character:
+    - text: "Whenever and wherever you meet a Taurus man. Will be attracted by their earnest and persistent. They take money and life very seriously. They won't be able to tell you how much they love you, how much they like you. They will not use romantic words to please your heart. Sometimes they can't remember the various programs or the birthdays of their wives, but they are actually taking every step and making every important decision in every aspect. They will first go through their own brains after careful thinking. Then decide whether or not to take action. They have a certain sense of security in life, although sometimes a little rigid, but they will fight up the shelves of the rules. A Taurus man doesn't talk too much. Not because they pretend to be so deep. It's just that they don't know how to express their true thoughts. When they communicate with them for the first time, they will appear very serious. They are not good at laughing and speaking, and they are also very cautious in doing things. But after you get to know them, you will find that they are also very funny. Taurus guys are very patient and they don't like to be constrained by others. They like to fly freely in the sky like birds. They like that feeling of freedom, so they don't like stiff girls. They pursue an ordinary life, a life without the storm. They will use the heart to pay for this family, carefully care for their family is his life task, when he is in a certain danger, he will do his best to resist. They take good care of themselves, will be the same as a baby pet, no matter big and small to ask. As a father, can be said to be close to the perfect, kind, amiable."
+
+
+
+    utter_Taurus_personality:
+    - text: "Taurus people are conservative. They are slow to heat, not rash, but steady and pragmatic. They are keen on the beauty of the material world, such as money and good food. As the name suggests, Taurus is very acquisitive and materialistic. Taurus is conservative, steady and stubborn. Taurus is associated with power. Born in a season when flowers are at their brightest, Taurus has an appreciation of beauty and loves nature. Strong family concept."
+
+
+
+    utter_Taurus_woman_character:
+    - text: "Not ruled by pure thought, the Taurus woman who dislikes the country or the fields is hard to spot. At heart, she is a mischievous tomboy. Slowly steady: her temperament and character is calm, down-to-earth and pleasant. All the people she was with had an immediate, harmonious feeling, like being in a hot bath. He spoke slowly and thoughtfully and firmly. Taurus people know that the bitter in the bitter food, only the best, they are hardworking, intelligent, intelligent, know how to achieve high quality of life through their own efforts. Desire for good things, have excellent ability, can organize life, pleasant. Able to work independently, ambitious, decisive, good at financial management, good at lobbying, strong working ability. Taurus woman is hardworking, but she is too slow to do anything. Whatever she does, she needs enough time or she can't get anything done right. Though she was slow and cautious, there was not a bone in her body that was lazy. This kind of inaction and strength will re-inject a ray of necdew into the heart of the partner, who is so reliable and reassuring."
+
+
+
+    utter_Get_along_with_Taurus:
+    - text: "Taurus is as stubborn as the bull, so they will not easily take orders from others. It is best for you to explain this to them patiently and gently. If you try to force them to do so, the Taurus will not go along with you. They know what to do without you telling them what to do. Of course, they don't resist as overtly as an Aries. Instead, they put aside what you asked them to do, and when you come back to them, the guy hasn't moved at all. This kind of nonviolent disobedience can sometimes be more frustrating than an overt refusal, so don't ignore the dissatisfaction on the Taurus face or you'll end up asking for it. Taurus put their own property and other things, interests look very heavy, so nothing please don't take his things away, more don't repeatedly push your luck, always take advantage of others. TAURUS: Although not in a hurry, the Bull may try to tame it. However, if you don't know where to stop, the Bull will become angry. Therefore, the proper way to deal with a Taurus is to return the favor and reciprocate the favor. Money is what Taurus people care about most. They may not be stingy, but you have to be careful not to involve them too much with money, especially borrowing money. If you can, you should avoid borrowing money from a Taurus, as that will only make him feel awkward and he will never forget the money he borrowed. If you do need to borrow money from a Taurus, write out your IOU with the interest. In their hearts, Taurus does not think that friends can borrow money without interest, because they regard the interest they have not yet received as property and income that they can surely obtain in the future. So pay your principal and interest on time. Even if he doesn't want your interest, buy him something. It's just another form of interest payment. Be sure not to pay back the amount you have borrowed from a Taurus, but with some benefits attached so that he will lend you money again in the future."
+
+
+
+    utter_Different_Taurus:
+    - text: "Taurus often has some unique characteristics, Taurus often shows a very self-centered state, Taurus is often a self-centered constellation, for them, they are always the king of their own world, everything must be centered on themselves."
+
+
+
+
+    utter_Taurus_alone:
+    - text: "When Taurus is alone, they like to be paralyzed, they will forget everything. In fact, they are inert in their bones. They are forced by life and have to rush about for life. When they finally have the time to be alone, they will cherish it especially. They lie in bed, swipe their phones, and go to sleep when they're tired. This is the ideal life for a Taurus."
+
+
+    utter_The_advantages_of_Taurus:
+    - text: "Taurus is a dependable sign, so to speak, well liked. Although in the life, Taurus people is a bit poor, also is not very good at play in the crowd, but people usually have a lot of pursuers, Taurus is there are so many suitors, presumably because Taurus people can give a person a kind of sense of security, and Taurus people together you will find that people are steadfast Taurus, and very patient, They will silently and selflessly accompany in your side, is a very reliable and patient people. On the surface, many people may think that Taurus is dull and boring, but actually Taurus is a person who really knows how to enjoy life. In life, Taurus people will never wronged themselves, they will buy whatever they like, and usually buy some brand goods, is a very taste people. In addition, Taurus people work very hard, usually in order to achieve a higher level of living for themselves. Taurus people have a pleasant personality and do not like to quarrel with others. They are peaceful and peaceful with the world. Taurus people are very aware that they are a late bloomer, as long as they are down to earth, hard work, even if there is no quarrel with others, eat a little loss is not much, there will be one day they can rise to the top, become a powerful and dignified person."
+
+
+
+
+    utter_Disadvantages_of_Taurus:
+    - text: "Taurus is a stingy sign, they will remember every expense, they will habitually calculate the effort is proportional to what they get, even when it comes to walking they will calculate the shortest way to go, even if it is only a few steps in the middle. In short, the Taurus pull really amazing make the gods cry point. However, if you can reach the heart of the Taurus and make him or her feel that you are important enough, their investment in you will not matter the cost. This means that although Taurus is a serious mattoid, they are very generous with the people they love. If you get together, you will find that Taurus mattoids are actually very good housekeepers. Taurus possessiveness is the number in the zodiac, you are still in phase ambiguity, Taurus will pretend not care for you, but after you enter the love, you will find the Taurus possessiveness is really strong, they will want to know all of your dynamic, you don't reply to them they will be able to more than one hundred phone calls to you, really is not hyperbole. Taurians are stubborn in many matters and rarely listen to others' advice. Even if they appear to listen, they will follow their own ideas. If they follow yours, trust me, they will try their own ideas again if given the chance."
+
+
+
+
+    utter_Taurus_attitude_towards_work:
+    - text: "Taurus is introspective by nature, work knot strong serious constellation, they think the work should be foot knot strong ground, because this can obtain their due salary. About them after all, if do not have certain material foundation, the day cannot last. Therefore, for Taurus, the first rule of hard work is to earn a large salary in order to make ends meet for themselves or their family. Taurus's strong and serious nature also affects their mood about homework. If they do not work well, they are likely to be fired, so Taurus's stable and secure life will be ruthlessly disrupted, so they lose their sense of security. Taurus can become manic and restless when they lose their sense of security, so it is necessary for them to do their homework to build up their sense of security. Taurus takes his family day seriously very much, they think, if oneself work hard, create a comfortable and beautiful family atmosphere for the family, parents can old have depend on, children also have raise. As a result, Taurus will spend most of their time on homework, but this will sometimes cause trouble for their family members, who will not be able to spend enough time with them in person."
+
+
+    utter_Taurus_rest:
+    - text: "The Taurus will enjoy their leisure life to the fullest when they are alone. Their goal in life is to be alone and enjoy themselves without being tied down by anyone. Given the opportunity to be alone and undisturbed, they may enjoy the peace of mind ahead of time."
+
+
+
+
+    utter_Taurus_lucky_thing:
+    - text: "Taurus is a solid sign, they are mostly simple, tangible items arouse their desire to buy. For Taurus, their lucky objects are the teapot, jade and throw pillows. They are as practical as the Taurus, and their lucky objects look heavy as well. Jade stone is good at home, which is very helpful to change bad luck, while a throw pillow can be kept in class or in the office. As for the teapot, he should use it more often. I believe that using more lucky objects will bring him some special luck."
+
+
+
+
+    utter_Taurus_and_friends:
+    - text: "Mature and steady, Taurus is cold and stubborn, but dedicated to the feelings, more attention to the feelings of love is all the more considerate, care; Seemingly simple, practical Taurus is the best at hiding, always like to hide their emotions, the appearance of a strong heart fragile Taurus once emotional unable to extricate themselves; The Taurus, who sometimes seems to have a large nerve, has a delicate mind and is very forgiving."
+
+
+
+    utter_Taurus_notes:
+    - text: "Don't cause him too much trouble, although the Taurus is considered to be a gentle and easy-going character. But please note that if you want to keep Niu treating you like this, it's best not to cause them too much trouble. Because Taurus is a troublesomen, they like to live a comfortable life and don't like too much stress in relationships. This is not a priority for them. If you are a troublesome friend, the Taurus will naturally exclude you from their circle of friends over time. Taurus are money-loving people. Many people say that Taurians are stingy, but they are not really stingy compared to the real Taurians. Taurus love of money is embodied in they like stable material basis for protection, so really care about niu niu is a lot of money, rather than frivolous lepta, niuniu values is very clear, one step a footprint on their own money is really make niuniu grounded, not the love of money and desire to take advantage of other people's psychology, even rarely with people in the money object, Because of this it is easy to give people in the small things to take advantage of, once or twice Taurus will not put in mind, if you are addicted to again and again so, Taurus will play from the bottom of my heart look down on you."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 session_config:
   session_expiration_time: 60
