@@ -1,0 +1,289 @@
+<svg width="600" height="600" version="1.1" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect width="600" height="600" fill="#312485" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.002" style="paint-order:markers stroke fill"/>
+  <path d="m300 248.3-3.709 39.03-12.46-15.36 7.07 18.47-35.66-16.3 31.95 22.72-19.53 3.113 19.53 3.113-31.95 22.72 35.66-16.3-7.07 18.47 12.46-15.36 3.709 39.03 3.709-39.03 12.46 15.36-7.07-18.47 35.66 16.3-31.95-22.72 19.53-3.113-19.53-3.113 31.95-22.72-35.66 16.3 7.07-18.47-12.46 15.36z" fill="#fff" style="paint-order:markers stroke fill"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="2.5">
+   <circle cx="300" cy="300" r="250" style="paint-order:markers stroke fill"/>
+   <circle cx="300" cy="300" r="240" style="paint-order:markers stroke fill"/>
+   <circle cx="300" cy="300" r="82" style="paint-order:markers stroke fill"/>
+   <circle cx="300" cy="300" r="73" style="paint-order:markers stroke fill"/>
+   <circle cx="300" cy="300" r="152" style="paint-order:markers stroke fill"/>
+   <path d="m300 50v177" style="paint-order:markers stroke fill"/>
+   <path d="m336.5 236.8 88.5-153.3" style="paint-order:markers stroke fill"/>
+   <path d="m363.2 263.5 153.3-88.5" style="paint-order:markers stroke fill"/>
+   <path d="m373 300h177" style="paint-order:markers stroke fill"/>
+   <path d="m363.2 336.5 153.3 88.5" style="paint-order:markers stroke fill"/>
+   <path d="m336.5 363.2 88.5 153.3" style="paint-order:markers stroke fill"/>
+   <path d="m300 373v177" style="paint-order:markers stroke fill"/>
+   <path d="m263.5 363.2-88.5 153.3" style="paint-order:markers stroke fill"/>
+   <path d="m236.8 336.5-153.3 88.5" style="paint-order:markers stroke fill"/>
+   <path d="m227 300h-177" style="paint-order:markers stroke fill"/>
+   <path d="m236.8 263.5-153.3-88.5" style="paint-order:markers stroke fill"/>
+   <path d="m263.5 236.8-88.5-153.3" style="paint-order:markers stroke fill"/>
+  </g>
+  <g transform="translate(-.5007)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <path d="m316.6 185.6c-0.834-2.391-1.668-4.783-1.112-7.009 0.5561-2.226 2.503-4.284 4.618-4.617 2.114-0.3334 4.395 1.057 6.091 3.199 1.696 2.142 2.809 5.035 3.587 8.094 0.7786 3.06 1.224 6.286 1.418 9.095s0.139 5.201 0.0834 7.592" style="paint-order:markers stroke fill"/>
+   <path d="m346 185.6c0.834-2.391 1.668-4.783 1.112-7.009-0.5561-2.226-2.503-4.284-4.618-4.617-2.114-0.3334-4.395 1.057-6.091 3.199-1.696 2.142-2.809 5.035-3.587 8.094-0.7786 3.06-1.224 6.286-1.418 9.095s-0.139 5.201-0.0834 7.592" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <circle cx="381.2" cy="223.8" r="9.012" style="paint-order:markers stroke fill"/>
+   <path d="m365.9 202.7c1.588 0 3.175 0 5.719 3.032 2.544 3.032 6.044 9.096 9.545 9.095s7.001-6.064 9.546-9.096c2.545-3.032 4.132-3.032 5.718-3.032" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <path d="m424.7 259.5a35 35 0 0 1-29.58 0" stroke-linecap="round" style="paint-order:markers stroke fill"/>
+   <path d="m402.8 262.1c-3.3e-4 7.622-6.7e-4 15.24-1e-3 22.86" style="paint-order:markers stroke fill"/>
+   <path d="m416.9 262.1c3.3e-4 7.622 6.7e-4 15.24 1e-3 22.86" style="paint-order:markers stroke fill"/>
+   <path d="m395.1 288.2a35 35 0 0 1 29.58 0" stroke-linecap="round" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <circle cx="397.9" cy="329.3" r="6.5" style="paint-order:markers stroke fill"/>
+   <path d="m394.2 323.9a35 35 0 0 1 34.87-3.05" stroke-linecap="round" style="paint-order:markers stroke fill"/>
+   <circle transform="scale(-1)" cx="-422.5" cy="-333.2" r="6.5" style="paint-order:markers stroke fill"/>
+   <path transform="scale(-1)" d="m-426.2-338.5a35 35 0 0 1 34.87-3.05" stroke-linecap="round" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <circle cx="371" cy="386.1" r="6.5" style="paint-order:markers stroke fill"/>
+   <path d="m371 379.6c-0.2567-1.525-0.5135-3.05-0.2776-5.763s0.9648-6.612 4.161-8.542c3.196-1.93 8.863-1.891 11.56 0.5939s2.431 7.414 1.939 10.6c-0.4918 3.186-1.208 4.629-2.45 7.239-1.242 2.61-3.009 6.385-2.93 9.533 0.0792 3.147 2.004 5.665 3.753 6.215 1.749 0.5501 3.322-0.8659 4.896-2.282" stroke-linecap="round" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <path d="m312.2 395.4c1.417-0.0787 2.833-0.1574 3.777 0.5362 0.944 0.6936 1.416 2.158 1.652 7.039s0.236 13.15 0.236 17.37v0.1794c0-4.15 0-12.55 0.3771-16.98 0.3771-4.421 1.131-4.855 2.232-5.469 1.101-0.6143 2.55-1.409 3.574-1.23 1.024 0.1789 1.624 1.33 1.924 6.064 0.2996 4.734 0.2996 13.04 0.2996 17.2v4.167c0-8.318 0-16.63 0.3805-21.06 0.3805-4.423 1.141-4.951 2.179-5.684 1.037-0.7329 2.352-1.671 3.365-1.457s1.724 1.579 2.08 6.48c0.3554 4.901 0.3554 13.34 0.4997 17.95 0.1443 4.614 0.4325 5.404 0.9585 6.376 0.526 0.9712 1.29 2.123 2.052 3.274" style="paint-order:markers stroke fill"/>
+   <path d="m334.6 408.2c1.733-2.179 3.466-4.358 4.731-4.637 1.265-0.2789 2.06 1.342 2.561 3.964 0.5006 2.622 0.7068 6.246-0.4243 9.495s-3.599 6.125-6.251 7.952c-2.651 1.827-5.486 2.604-8.322 3.382" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <path d="m267.9 416.8a8 8 0 0 1-4.429-8.982 8 8 0 0 1 7.81-6.268 8 8 0 0 1 7.81 6.268 8 8 0 0 1-4.429 8.982" style="paint-order:markers stroke fill"/>
+   <path d="m274.7 416.8h14.11" style="paint-order:markers stroke fill"/>
+   <path d="m253.8 416.8h14.11" style="paint-order:markers stroke fill"/>
+   <path d="m255.8 424.7h31.11" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m202.5 366.1c1.417-0.0787 2.833-0.1574 3.777 0.5362 0.944 0.6936 1.416 2.158 1.652 7.039s0.236 13.15 0.236 17.37v0.1794c0-4.15 0-12.55 0.3771-16.98 0.3771-4.421 1.131-4.855 2.232-5.469 1.101-0.6143 2.55-1.409 3.574-1.23 1.024 0.1789 1.624 1.33 1.924 6.064 0.2996 4.734 0.2996 13.04 0.2996 17.2v4.167c0-8.318 0-16.63 0.4689-21.03 0.4689-4.394 1.406-4.862 2.635-5.536 1.229-0.674 2.749-1.553 3.888-1.133 1.138 0.4203 1.894 2.139 2.058 6.981 0.1639 4.842-0.2633 12.81 0.0844 17.25 0.3477 4.446 1.47 5.372 2.464 5.861s1.862 0.5419 2.831 0.5608c0.9684 0.0188 2.041 3e-3 3.117-0.0123" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3" style="paint-order:markers stroke fill"/>
+  <path d="m230.8 393.6 3.268 4.336-3.268 4.336" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3" style="paint-order:markers stroke fill"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <path d="m179.8 330.3 11.95 11.95" style="paint-order:markers stroke fill"/>
+   <path d="m203.1 319-27.71 27.71" style="paint-order:markers stroke fill"/>
+   <path d="m190.6 319h12.51v12.51" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m170.1 258.4c2.211 1.297 4.421 2.593 5.776 3.868 1.355 1.275 1.856 2.527 2.054 5.443 0.1986 2.917 0.0955 7.498 0.1035 9.803 8e-3 2.305 0.1258 2.335 0.2283 0.0368 0.1025-2.298 0.1909-6.923 0.6475-9.944 0.4566-3.02 1.282-4.434 2.423-5.93 1.142-1.495 2.6-3.072 3.823-3.395s2.21 0.6044 2.762 1.584c0.552 0.9797 0.6698 2.011 0.7508 4.434 0.081 2.423 0.1252 6.239 0.2654 8.434 0.1402 2.195 0.3759 2.77 1.393 4.272 1.017 1.503 2.814 3.933 5.016 4.979 2.202 1.045 4.81 0.7065 6.548-0.4423s2.607-3.108 2.357-5.236c-0.25-2.128-1.62-4.426-3.513-5.414-1.893-0.9876-4.309-0.6636-6.143 0.9204-1.835 1.584-3.087 4.427-4.545 6.791-1.458 2.364-3.123 4.25-4.471 5.355-1.348 1.105-2.379 1.429-3.587 1.613-1.208 0.1842-2.593 0.2284-3.978 0.2726" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3" style="paint-order:markers stroke fill"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <path d="m196.7 216 8.662-7.601 1.414 8.22 10.08-8.927 1.503 8.397 8.927-8.309 2.386 8.309" style="paint-order:markers stroke fill"/>
+   <path d="m196.7 230.8 8.662-7.601 1.414 8.22 10.08-8.927 1.503 8.397 8.927-8.309 2.386 8.309" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3">
+   <path d="m256.8 189.6h22.72" style="paint-order:markers stroke fill"/>
+   <path d="m279 204a32.31 25.1 0 0 1 0-28.8" style="paint-order:markers stroke fill"/>
+   <path d="m257.3 175.2a32.31 25.1 0 0 1 0 28.8" style="paint-order:markers stroke fill"/>
+  </g>
+  <ellipse cx="268.2" cy="189.6" rx="4.979" ry="8.056" display="none" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="3" style="paint-order:markers stroke fill"/>
+  <g fill="#fff">
+   <circle cx="213" cy="98.54" r="1.469" style="paint-order:markers stroke fill"/>
+   <circle cx="216.7" cy="108.6" r="1.072" style="paint-order:markers stroke fill"/>
+   <circle cx="226.1" cy="106" r="1.27" style="paint-order:markers stroke fill"/>
+   <circle cx="235.1" cy="116.5" r="1.787" style="paint-order:markers stroke fill"/>
+   <circle cx="243.2" cy="136.8" r="1.667" style="paint-order:markers stroke fill"/>
+   <circle cx="256.7" cy="112.7" r="1.707" style="paint-order:markers stroke fill"/>
+   <circle cx="261.1" cy="109" r=".9131" style="paint-order:markers stroke fill"/>
+   <circle cx="264.5" cy="93.58" r="1.667" style="paint-order:markers stroke fill"/>
+   <circle cx="276.8" cy="93.18" r=".8734" style="paint-order:markers stroke fill"/>
+   <circle cx="275.7" cy="91.19" r="2.064" style="paint-order:markers stroke fill"/>
+   <circle cx="275.1" cy="79.24" r="1.548" style="paint-order:markers stroke fill"/>
+   <circle cx="283.7" cy="77.34" r=".4367" style="paint-order:markers stroke fill"/>
+   <circle cx="289" cy="80.08" r=".6749" style="paint-order:markers stroke fill"/>
+   <circle cx="288.8" cy="85.24" r="1.032" style="paint-order:markers stroke fill"/>
+   <circle cx="284" cy="89.76" r=".6352" style="paint-order:markers stroke fill"/>
+   <circle cx="274.4" cy="87.54" r=".4367" style="paint-order:markers stroke fill"/>
+   <circle cx="239.5" cy="125.7" r=".4367" style="paint-order:markers stroke fill"/>
+   <circle cx="248.2" cy="125.3" r=".4367" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m213 98.54 3.653 10.04 9.489-2.541v0l8.972 10.44 4.373 9.263 3.686 11.06 5.056-11.51 8.442-12.63 4.407-3.653 3.375-15.44 9.98-6.033 1.296 3.651 1.072 1.985 7.186-3.414 4.804-4.526 0.2382-5.161-5.36-2.739-8.536 1.906-0.7 8.299" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers stroke fill"/>
+  <g fill="#fff">
+   <circle cx="357.8" cy="98.36" r="3.233" style="paint-order:markers stroke fill"/>
+   <circle cx="316.6" cy="96.21" r="2.351" style="paint-order:markers stroke fill"/>
+   <circle cx="376.7" cy="109.4" r="2.449" style="paint-order:markers stroke fill"/>
+   <circle cx="381.8" cy="121" r="1.764" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m316.6 96.21 41.25 2.155 18.91 11.07 5.095 11.56" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers stroke fill"/>
+  <g fill="#fff">
+   <circle cx="462.9" cy="255.2" r="1.568" style="paint-order:markers stroke fill"/>
+   <circle cx="478.2" cy="261.3" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="481.9" cy="235.5" r="1.274" opacity=".5199" style="paint-order:markers stroke fill"/>
+   <circle cx="519.9" cy="248.1" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="527.7" cy="245.4" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="518.6" cy="255.4" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="508.1" cy="245.3" r="1.25" style="paint-order:markers stroke fill"/>
+   <circle cx="461.4" cy="246.1" r="2.253" style="paint-order:markers stroke fill"/>
+   <circle cx="472.3" cy="231.8" r="2.253" style="paint-order:markers stroke fill"/>
+   <circle cx="512.4" cy="268.3" r="2.057" style="paint-order:markers stroke fill"/>
+   <circle cx="490.6" cy="262.4" r=".5196" style="paint-order:markers stroke fill"/>
+   <circle cx="512.7" cy="279.7" r=".4936" style="paint-order:markers stroke fill"/>
+   <circle cx="488.1" cy="238.5" r=".788" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m519.9 248.1-11.85-2.743-19.98-6.855-6.18-2.942-9.601-3.723-10.97 14.3 1.568 9.111 15.28 6.074 12.4 1.137 21.79 5.819 6.172-12.83z" style="paint-order:markers stroke fill"/>
+   <path d="m527.7 245.4-7.74 2.645" style="paint-order:markers stroke fill"/>
+   <path d="m512.7 279.7-0.2711-11.47" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="423.9" cy="130.6" r="2.057" style="paint-order:markers stroke fill"/>
+   <circle cx="410.4" cy="141.7" r="1.568" style="paint-order:markers stroke fill"/>
+   <circle cx="424.8" cy="162.1" r="1.47" style="paint-order:markers stroke fill"/>
+   <circle cx="432.8" cy="166.3" r="1.568" style="paint-order:markers stroke fill"/>
+   <circle cx="445.7" cy="163.9" r="2.253" style="paint-order:markers stroke fill"/>
+   <circle cx="438.9" cy="152.2" r="1.666" style="paint-order:markers stroke fill"/>
+   <circle cx="439.8" cy="146.8" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="436.3" cy="141.8" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="444" cy="151.7" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="478.1" cy="178" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="478" cy="183.5" r=".8407" style="paint-order:markers stroke fill"/>
+   <circle cx="452.6" cy="171.9" r="2.078" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m423.9 130.6 12.34 11.17 3.527 4.997-0.8818 5.389 5.095-0.4899 1.715 12.22" style="paint-order:markers stroke fill"/>
+   <path d="m410.4 141.7 14.4 20.48 8.034 4.115 12.88-2.376 6.861 7.993 25.55 6.157-0.1321 5.469" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff" opacity=".7508">
+   <circle cx="469.8" cy="324.5" r="1.861" style="paint-order:markers stroke fill"/>
+   <circle cx="489.4" cy="355.1" r="2.449" style="paint-order:markers stroke fill"/>
+   <circle cx="485.2" cy="374.3" r="2.645" style="paint-order:markers stroke fill"/>
+   <circle cx="522.3" cy="363.2" r="1.764" style="paint-order:markers stroke fill"/>
+   <circle cx="487.1" cy="345.9" r=".9872" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m469.8 324.5 17.27 21.4 2.321 9.17-4.213 19.2" style="paint-order:markers stroke fill"/>
+   <path d="m489.4 355.1 32.92 8.132" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="458.7" cy="416.7" r="2.498" style="paint-order:markers stroke fill"/>
+   <circle cx="466" cy="421.1" r=".9307" style="paint-order:markers stroke fill"/>
+   <circle cx="444.6" cy="424.8" r=".5389" style="paint-order:markers stroke fill"/>
+   <circle cx="445.3" cy="432.2" r="2.449" style="paint-order:markers stroke fill"/>
+   <circle cx="456.7" cy="437.7" r="1.519" style="paint-order:markers stroke fill"/>
+   <circle cx="454.9" cy="445.1" r="2.449" style="paint-order:markers stroke fill"/>
+   <circle cx="424.4" cy="445.8" r="1.617" style="paint-order:markers stroke fill"/>
+   <circle cx="420.7" cy="435.3" r="1.617" style="paint-order:markers stroke fill"/>
+   <circle cx="405.1" cy="449.7" r="2.351" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m466 421.1-7.25-4.409-14.11 8.132 0.6858 7.397-24.59 3.135-15.63 14.35v0l19.35-3.919 30.47-0.6858 1.812-7.397-11.41-5.486" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers stroke fill"/>
+  <g fill="#fff">
+   <circle cx="362.2" cy="466" r="1.764" style="paint-order:markers stroke fill"/>
+   <circle cx="364.7" cy="475.7" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="357.7" cy="482.7" r=".8818" style="paint-order:markers stroke fill"/>
+   <circle cx="344.1" cy="482" r="1.959" style="paint-order:markers stroke fill"/>
+   <circle cx="336.2" cy="474.6" r=".4899" style="paint-order:markers stroke fill"/>
+   <circle cx="357.5" cy="494.3" r="1.029" style="paint-order:markers stroke fill"/>
+   <circle cx="361.9" cy="501.3" r="1.568" style="paint-order:markers stroke fill"/>
+   <circle cx="343.8" cy="495.3" r=".5878" style="paint-order:markers stroke fill"/>
+   <circle cx="345.2" cy="511.6" r=".9307" style="paint-order:markers stroke fill"/>
+   <circle cx="351" cy="514.8" r="1.225" style="paint-order:markers stroke fill"/>
+   <circle cx="340.5" cy="520.2" r="1.959" style="paint-order:markers stroke fill"/>
+   <circle cx="331.2" cy="499.7" r=".3919" style="paint-order:markers stroke fill"/>
+   <circle cx="323.1" cy="506.7" r="1.813" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m336.2 474.6 7.936 7.348-0.3429 13.28 18.08 6.025-4.409-7.005 0.294-11.56-13.62-0.7348" style="paint-order:markers stroke fill"/>
+   <path d="m362.2 466 2.547 9.699-6.956 7.005" style="paint-order:markers stroke fill"/>
+   <path d="m340.5 520.2 4.703-8.622 5.829 3.282 10.83-13.57" style="paint-order:markers stroke fill"/>
+   <path d="m323.1 506.7 8.181-7.054 12.54-4.409" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="245.4" cy="519.5" r=".8313" style="paint-order:markers stroke fill"/>
+   <circle cx="245.4" cy="510.5" r="1.108" style="paint-order:markers stroke fill"/>
+   <circle cx="262.5" cy="503.1" r="2.217" style="paint-order:markers stroke fill"/>
+   <circle cx="274.5" cy="478.1" r=".5542" style="paint-order:markers stroke fill"/>
+   <circle cx="243.1" cy="465.6" r="2.355" style="paint-order:markers stroke fill"/>
+   <circle cx="226.1" cy="483.6" r="1.386" style="paint-order:markers stroke fill"/>
+   <circle cx="227.5" cy="492.7" r="1.455" style="paint-order:markers stroke fill"/>
+   <circle cx="217" cy="495.7" r="1.095" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m217 495.7 10.53-2.979-1.386-9.145 16.97-17.94 31.45 12.47-12.05 25.01-17.11 7.413v9.006" style="paint-order:markers stroke fill"/>
+   <path d="m243.1 465.6 19.4 37.48" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="181.7" cy="417.3" r=".5878" style="paint-order:markers stroke fill"/>
+   <circle cx="184.9" cy="425.2" r="1.813" style="paint-order:markers stroke fill"/>
+   <circle cx="185.8" cy="433.3" r="1.861" style="paint-order:markers stroke fill"/>
+   <circle cx="187.2" cy="441.4" r="1.078" style="paint-order:markers stroke fill"/>
+   <circle cx="165.1" cy="430.1" r="1.91" style="paint-order:markers stroke fill"/>
+   <circle cx="158.4" cy="432.6" r="1.029" style="paint-order:markers stroke fill"/>
+   <circle cx="157.1" cy="439.3" r="2.008" style="paint-order:markers stroke fill"/>
+   <circle cx="158.6" cy="447.8" r="1.274" style="paint-order:markers stroke fill"/>
+   <circle cx="157.8" cy="456.3" r="1.764" style="paint-order:markers stroke fill"/>
+   <circle cx="147.4" cy="456.3" r="1.764" style="paint-order:markers stroke fill"/>
+   <circle cx="136.7" cy="453.7" r=".9307" style="paint-order:markers stroke fill"/>
+   <circle cx="131.7" cy="449.5" r=".8818" style="paint-order:markers stroke fill"/>
+   <circle cx="135.9" cy="443.4" r="1.715" style="paint-order:markers stroke fill"/>
+   <circle cx="143.1" cy="441" r=".4409" style="paint-order:markers stroke fill"/>
+   <circle cx="170" cy="429.4" r=".5633" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m181.7 417.3 3.184 7.838 0.9307 8.132 1.421 8.132" style="paint-order:markers stroke fill"/>
+   <path d="m184.9 425.2-14.89 4.213-4.899 0.7348-6.711 2.547-1.323 6.662 1.519 8.475-0.7348 8.475-10.39 0.049-10.73-2.596-5.046-4.164 4.262-6.123 7.201-2.449" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="133.4" cy="323.8" r=".3291" style="paint-order:markers stroke fill"/>
+   <circle cx="130.6" cy="331.7" r="1.559" style="paint-order:markers stroke fill"/>
+   <circle cx="137.4" cy="344" r=".3429" style="paint-order:markers stroke fill"/>
+   <circle cx="129.7" cy="344.6" r="1.715" style="paint-order:markers stroke fill"/>
+   <circle cx="123.2" cy="339.1" r="1.151" style="paint-order:markers stroke fill"/>
+   <circle cx="112.8" cy="336.8" r="1.053" style="paint-order:markers stroke fill"/>
+   <circle cx="109.8" cy="330" r="1.732" style="paint-order:markers stroke fill"/>
+   <circle cx="108.6" cy="347.5" r="1.801" style="paint-order:markers stroke fill"/>
+   <circle cx="98.46" cy="349.8" r="1.666" style="paint-order:markers stroke fill"/>
+   <circle cx="91.65" cy="346.7" r="1.617" style="paint-order:markers stroke fill"/>
+   <circle cx="104.2" cy="358.2" r=".9307" style="paint-order:markers stroke fill"/>
+   <circle cx="92.19" cy="340.4" r=".8328" style="paint-order:markers stroke fill"/>
+   <circle cx="82.98" cy="351.3" r="1.225" style="paint-order:markers stroke fill"/>
+   <circle cx="74.02" cy="349.8" r=".9307" style="paint-order:markers stroke fill"/>
+   <circle cx="97.68" cy="359.7" r="1.029" style="paint-order:markers stroke fill"/>
+   <circle cx="89.25" cy="366.4" r="1.568" style="paint-order:markers stroke fill"/>
+   <circle cx="88.08" cy="376.1" r=".8328" style="paint-order:markers stroke fill"/>
+   <circle cx="89.01" cy="383.1" r="1.127" style="paint-order:markers stroke fill"/>
+   <circle cx="102.7" cy="382.6" r="1.47" style="paint-order:markers stroke fill"/>
+   <circle cx="111" cy="385.6" r="1.764" style="paint-order:markers stroke fill"/>
+   <circle cx="117.7" cy="381.9" r="1.617" style="paint-order:markers stroke fill"/>
+   <circle cx="112" cy="375.5" r=".9307" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m104.2 358.2-5.731-8.475 10.09-2.268z" style="paint-order:markers stroke fill"/>
+   <path d="m112 375.5-1.029 10.14" style="paint-order:markers stroke fill"/>
+   <path d="m137.4 344-7.74 0.5878-6.466-5.486" style="paint-order:markers stroke fill"/>
+   <path d="m109.8 330 2.987 6.863" style="paint-order:markers stroke fill"/>
+   <path d="m92.19 340.4-0.5388 6.368" style="paint-order:markers stroke fill"/>
+   <path d="m133.4 323.8-2.84 7.846-7.404 7.402-10.41-2.253-4.234 10.66" style="paint-order:markers stroke fill"/>
+   <path d="m74.02 349.8 8.965 1.568 8.671-4.605 6.809 3.037" style="paint-order:markers stroke fill"/>
+   <path d="m117.7 381.9-6.711 3.723-8.279-2.988-13.72 0.4409-0.9307-6.956 1.176-9.699 8.426-6.76 6.515-1.421" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="#fff">
+   <circle cx="120.7" cy="221.1" r="1.764" style="paint-order:markers stroke fill"/>
+   <circle cx="121.4" cy="233" r="1.764" style="paint-order:markers stroke fill"/>
+   <circle cx="130.7" cy="256.1" r="1.176" style="paint-order:markers stroke fill"/>
+   <circle cx="123.2" cy="266.8" r="1.91" style="paint-order:markers stroke fill"/>
+   <circle cx="111.9" cy="266.5" r="1.127" style="paint-order:markers stroke fill"/>
+   <circle cx="105.5" cy="272.1" r="1.617" style="paint-order:markers stroke fill"/>
+   <circle cx="94.59" cy="264.9" r="1.176" style="paint-order:markers stroke fill"/>
+   <circle cx="78.04" cy="264.3" r="1.666" style="paint-order:markers stroke fill"/>
+   <circle cx="84.53" cy="259.6" r=".5144" style="paint-order:markers stroke fill"/>
+   <circle cx="94.59" cy="254.2" r="1.078" style="paint-order:markers stroke fill"/>
+   <circle cx="102.6" cy="243.5" r="1.877" style="paint-order:markers stroke fill"/>
+  </g>
+  <path d="m120.7 221.1 0.6858 11.9-18.8 10.52-7.998 10.64-10.07 5.364-6.491 4.776 16.56 0.5878 10.92 7.201 6.417-5.633 11.22 0.2939 7.544-10.73-9.307-23.02" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5" style="paint-order:markers stroke fill"/>
+  <g fill="#fff">
+   <circle cx="175.9" cy="129.6" r="1.818" style="paint-order:markers stroke fill"/>
+   <circle cx="159.3" cy="138.9" r="1.278" style="paint-order:markers stroke fill"/>
+   <circle cx="172.2" cy="147.3" r="1.868" style="paint-order:markers stroke fill"/>
+   <circle cx="159.2" cy="154.1" r="1.081" style="paint-order:markers stroke fill"/>
+   <circle cx="140.8" cy="144.8" r="1.917" style="paint-order:markers stroke fill"/>
+   <circle cx="142.9" cy="153.3" r=".7372" style="paint-order:markers stroke fill"/>
+   <circle cx="131.3" cy="154.2" r=".6389" style="paint-order:markers stroke fill"/>
+   <circle cx="134.3" cy="164.4" r="1.18" style="paint-order:markers stroke fill"/>
+   <circle cx="147.2" cy="176.6" r="2.015" style="paint-order:markers stroke fill"/>
+   <circle cx="153.5" cy="164.4" r="1.229" style="paint-order:markers stroke fill"/>
+   <circle cx="167.5" cy="162.3" r="1.18" style="paint-order:markers stroke fill"/>
+   <circle cx="168.5" cy="168.4" r="1.278" style="paint-order:markers stroke fill"/>
+   <circle cx="181.5" cy="175.5" r="2.064" style="paint-order:markers stroke fill"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="0" stroke-width="1.5">
+   <path d="m172.2 147.3-12.98 6.832-18.48-9.289" style="paint-order:markers stroke fill"/>
+   <path d="m181.5 175.5-12.93-7.077-1.032-6.045-13.96 2.113-6.291 12.19-12.93-12.19-2.998-10.22 11.6-0.8847-2.163-8.503 18.58-5.898 16.51-9.387" style="paint-order:markers stroke fill"/>
+  </g>
+ </g>
+</svg>

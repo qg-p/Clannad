@@ -1,0 +1,7 @@
+FROM chatrobot
+WORKDIR /app
+COPY . .
+#RUN pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com/pypi/simple/
+EXPOSE 5000
+#CMD ["gunicorn", "app:app", "-c", "./gunicorn.conf.py"]
+CMD ["python", "app.py"]

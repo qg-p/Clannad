@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Zodiac Bot</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+
+<body>
+  <!-- partial:index.partial.html -->
+  <section class="msger">
+    <header class="msger-header">
+      <div class="msger-header-title">
+        <!--i class="fas fa-bug"></i> Zodiac Bot <i class="fas fa-bug"></i-->
+		🔮 Zodiac Bot 🔮
+      </div>
+    </header>
+
+    <main class="msger-chat">
+    </main>
+
+    <form class="msger-inputarea">
+      <input type="text" class="msger-input" id="textInput" placeholder="Enter your message...">
+      <button type="submit" class="msger-send-btn">Send</button>
+    </form>
+  </section>
+  <!-- partial -->
+  <script src='https://use.fontawesome.com/releases/v5.0.13/js/all.js'></script>
+  <script>
+
+    const msgerForm = get(".msger-inputarea");
+    const msgerInput = get(".msger-input");
+    const msgerChat = get(".msger-chat");
+
+
+    const BOT_IMG = "static/profiles/botimg.svg";//"https://image.flaticon.com/icons/svg/327/327779.svg";
+    const PERSON_IMG = "static/profiles/personimg.svg";//"https://image.flaticon.com/icons/svg/145/145867.svg";
+    const BOT_NAME = "Zodiac Bot";
+    const PERSON_NAME = "You";
+
+    msgerForm.addEventListener("submit", event => {
+      event.preventDefault();
+
+      const msgText = msgerInput.value;
+      if (!msgText) return;
+
+      appendMessage(PERSON_NAME, PERSON_IMG, "right", msgText);
+      msgerInput.value = "";
+      botResponse(msgText);
+    });
+
+	function appendMessage(name, img, side, text) {
+	  appendMessageTxt(name, img, side, text);
+	}
+    function appendMessageTxt(name, img, side, text) {
+      //   Simple solution for small app
+      const msgHTML = `
+<div class="msg ${side}-msg">
+  <div class="msg-img" style="background-image: url(${img})"></div>
+  <div class="msg-bubble">
+    <div class="msg-info">
+      <div class="msg-info-name">${name}</div>
+      <div class="msg-info-time">${formatDate(new Date())}</div>
+	</div>
+	<div class="msg-text">
+	  ${text}
+	</div>
+  </div>
+</div>
+`;
+
+      msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+      msgerChat.scrollTop += 500;
+	}
+    function appendMessageImg(name, img, side, imgsrc) {
+      const msgHTML = `
+<div class="msg ${side}-msg">
+  <div class="msg-img" style="background-image: url(${img})"></div>
+  <div class="msg-bubble">
+    <div class="msg-info">
+      <div class="msg-info-name">${name}</div>
+      <div class="msg-info-time">${formatDate(new Date())}</div>
+	</div>
+	<img src=${imgsrc} />
+  </div>
+</div>
+`;
+      msgerChat.insertAdjacentHTML("beforeend", msgHTML);
+      msgerChat.scrollTop += 500;
+    }
+
+    function botResponse(rawText) {
+
+      // Bot Response
+      $.get("/get", { msg: rawText }).done(function (data) {
+        console.log(rawText);
+        console.log(data);
+		var list = eval('('+data+')')
+		for (var i=0; i<list.length; i++) {
+		  var msgStruct = list[i];
+		  const type = msgStruct[0];
+	      const content = msgStruct[1];
+		  const side = "left";
+		  if (type == "text") {
+		    appendMessageTxt(BOT_NAME, BOT_IMG, side, content);
+		  }
+		  if (type == "image") {
+		    appendMessageImg(BOT_NAME, BOT_IMG, side, content);
+		  }
+		}
+
+      });
+
+    }
+
+
+    // Utils
+    function get(selector, root = document) {
+      return root.querySelector(selector);
+    }
+
+    function formatDate(date) {
+      const h = "0" + date.getHours();
+      const m = "0" + date.getMinutes();
+
+      return `${h.slice(-2)}:${m.slice(-2)}`;
+    }
+    // flag
+    appendMessageTxt(BOT_NAME, BOT_IMG, "left", "Hi, welcome to Rasa Zodiac Bot! Go ahead and send me a message. ✡")
+
+
+
+
+  </script>
+
+</body>
+
+</html>

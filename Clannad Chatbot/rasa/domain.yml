@@ -1,0 +1,202 @@
+version: "2.0"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - Leo_time
+  - Leo_man_is_character
+  - Leo_personality
+  - Leo_woman_is_character
+  - Get_along_with_Leo
+  - Different_Leo
+  - Leo_alone
+  - The_advantages_of_Leo
+  - Disadvantages_of_Leo
+  - Leo_is_attitude_towards_work
+  - Leo_is_rest
+  - Leo_is_lucky_thing
+  - Leo_and_friends
+  - Leo_notes
+  - Before_Leo
+  - After_Leo
+  - Hobby_Leo
+  - Three_views_Leo
+  - Afraid_of_Leo
+  - Looks_Leo
+  - Ability_Leo
+  - Expression_Leo
+  - Solve_Leo
+  - Treat_parents_Leo
+  - Treat_children_Leo
+  - Fortune_Leo
+  - Constellation_fortune
+  - Constellation_characteristics
+  - Constellation_shortcomings
+  - Constellation_time
+  - Constellation_graphics
+  - Astrology_origin
+  - Know_constellation
+  - Ascendant_constellation
+  - Think_constellations
+  - Like_constellations
+  - Hate_constellation
+  - Constellation_friends
+  - Constellation_oneself
+  - Constellation_treat
+  - Constellation_luck
+  - Constellation_talent
+
+responses:
+    utter_greet:
+    - text: "Hey! How are you?"
+
+    utter_cheer_up:
+    - text: "Here is something to cheer you up:"
+
+
+    utter_did_that_help:
+    - text: "Did that help you?"
+
+    utter_happy:
+    - text: "Great, carry on!"
+
+    utter_goodbye:
+    - text: "Bye"
+
+    utter_iamabot:
+    - text: "I am a bot, powered by Rasa."
+
+    utter_Leo_time:
+    - text: "Leo is July 23 to August 22."
+
+    utter_Leo_man_character:
+    - text: "Leo man is character is high self-esteem, show off and strong leadership.They love face and are confident. They often care about what others think of themselves, and they often make themselves unhappy. They are born with super confidence and perseverance. They seem rigorous and indifferent, but they are lonely, fragile and delicate. He never bowed his head in front of any difficulties. He always held his head high and overcame difficulties with perseverance"
+
+    utter_Leo_personality:
+    - text: "Leo is the fifth house of the zodiac, and the sun is the ruling star. Just like the sun, Leo radiates dazzling light and is the messenger of light and justice. The lion is independent and self-centered. He has his own ideals and loves to express himself. He hopes to be appreciated by everyone. The lion is a good hand, will try to do everything to be the most perfect. Lions live up to their reputation, mostly domineering side leak, has excellent leadership."
+
+    utter_Leo_woman_character:
+    - text: "Pretending to be strong.She is romantic and generous by nature, and he likes high quality goods. They often dress luxuriantly and shine brightly, and their manners are full of brilliance. Their inborn temperament gives people the image of indifference and domineering, and they have their own personality. They are born with a kind of imposing manner, not deliberately pretended, but born. And very strong, the pursuit of perfection"
+
+    utter_Get_along_with_Leo:
+    - text: "One way to get along: don't tear down the Leo platform in front of everyone. Leo is always extreme to face, and Leo likes to be in front of the crowd, become the focus of the public is the pursuit of Leo, if you want to live in peace with Leo, please remember not to tear down the stage of Leo in front of the public, so that Leo can not get off the stage. If you let the hot tempered Leo lose face, then be ready to bear the machine gun attack of Leo. The gentle Leo will ignore you angrily.Two ways to get along: don't ignore Leo. If you want to make peace with Leo, please don't ignore Leo. Lions need to emphasize their own sense of existence to get a sense of security, if you ignore Leo, Leo will think your attitude is very unfriendly, and then you have no good face. If it is serious cold violence, then the lion will take some measures and treat you as the enemy.Three ways to get along: don't take yourself too lightly. Leo has its own standards when choosing friends. The people who can become friends under the careful selection of Leo are mostly commensurate with the level of Leo. They also have a strong self-confidence in themselves. If you are cowardly and self abased, and belittle yourself every day, Leo will disdain to get along with you. People always hold their heads high when they are full of confidence, Instead of shrinking from the dark, be confident. The open-minded Leo will naturally regard you as someone of equal status."
+
+    utter_Different_Leo:
+    - text: "And Aquarius, discord, but there is a kind of inexplicable fear and respect. As a matter of fact, it is very suitable for the lion and Pisces to be friends. However, when they are lovers, their personalities are a little conflicting. One is as gentle as water, and the other is as warm as fire. But if both sides are willing to make concessions, it is good to be together. And Aries, should belong to the most similar character of a class of people. And Taurus, super big discord, and it is not like. And Gemini, where the good can play together, where the bad to avoid. And cancer, good, very match, whether it is character or other aspects are very well. And the lion, it should be said that they are the two constellations that know each other best, but because of this, sometimes they will hate the similarity of each other very much, or they will alienate each other. And virgins, it is easy to play, the easiest to become good friends. And Libra, they can play together. And Scorpio, love each other, kill each other and abuse each other. And Sagittarius, the easiest to be a partner. And Capricorn, do not appreciate the dull Capricorn, but it can also be considered to get alongWhat does Leo like to do alone"
+
+    utter_Leo_alone:
+    - text: "Sometimes they fantasize about themself after success or play games"
+
+    utter_The_advantages_of_Leo:
+    - text: "Leo is advantage 1, heavy sentiment heavy righteousness.Leo usually gives people the feeling of being strong and arrogant, but it doesn't affect their kindness. They like to help people around them and won't do things that harm others and benefit themselves. They value emotion more. In their eyes, friendship and face are equally important. If their friends are in trouble, they will go to help without hesitation, They deeply know that friends are their life is wealth..Leo is advantage 2, progress.The outstanding advantage of lion mouth is that it is particularly progressive, and they will drive the people around you to make progress together. When you are with them, you will never feel lazy, because they will supervise you to make progress together.Leo is advantage three, king style.Leo gives outsiders the biggest impression is that they are king style, strong leadership, respected by everyone, and decisive and independent. They are good at strategizing, and know how to use their ability and power to achieve their goals. But the principle is that we can only work hard in a proper way, not by despicable means. Lions have been shaping the dignity is not built, they are sent out from the bones are decent characters..Leo is advantages four, the most generous.Due to the love of face, generosity has become the advantage of Leo. Once a friend borrows money from them, his inner self-esteem will start to cause trouble. No matter how much money he has, as long as he can afford it, Leo will borrow it immediately without saying a word. Leo thinks that people who are not willing to borrow money have no face. How can they not have face. However, Leo is generosity is not due to face problems, but also largely because of their kindness. Although Leo people have a big temper, they are reluctant to speak and act faster than anyone else. Leo is the most generous of the twelve constellations..Leo advantage 5, positive self-confidence, positive energy.Leo people always have confidence in themselves. No matter what difficulties they encounter, Leo people are full of no fear at all! As long as it is something that the Leo people identify and recognize, then they will do their best to finish and do well. In order to achieve their ideal, it can be said that the Leo people will spare no effort to eliminate all difficulties and dangers. No matter how big the storm is, the Leo people will also use full positive energy to turn the tide and save the danger, just for the thrilling rainbow after the storm!"
+
+    utter_Disadvantages_of_Leo:
+    - text: "Glass heart + good face + quick temper.The copyright belongs to the author. For commercial reprint, please contact the author for authorization. For non-commercial reprint, please indicate the source..It is very sensitive, but try to act like you can do anything. Leo is a typical soft player. If you make the lion angry, it can be solved by a Jiao, but if you are tough with TA, then TA will treat it equally. Empathy is strong. Conceited, sometimes not listening to other people is opinions. Heavy burden, good face, very concerned about other people is eyes. No matter what I do, I'm afraid that other people is ideas will go against me. Or fear of denial. It is emotional. I'm very dedicated to my feelings. It is the kind that if you don't get into it, it is OK. Once you get into it, it is over. I will try my best to be nice to the people I like. But in the feelings is a more awkward person. Used to compete with him, unwilling to bow first. A lot of words are always scruple about this scruple that, dare not say. It leads to deep accumulation. Is in front of the person you like will become cowardly. There is no feeling of arrogance. Lions are very proud, if willing to bow in front of you, coax you, put down all face, it must love you. Lions are never afraid to express their love. I'm very loyal to my friends. I'm willing to help if I can. Generous, not stingy. In fact, it is a bit stingy, but I won't save money at all. Mild obsessive-compulsive disorder. For example, now I think the answer is messy, and I am in the process of typesetting. I love to cry. But I don't cry in front of people who are just as friendly. Very restrained. I'm also afraid of breaking other people is hearts. Even if I have a problem with others, I will say it in a euphemistic way. Self confidence + inferiority complex. I deny myself intermittently. Yan Kong. Of course, it is for myself. I have high requirements for my appearance and clothes. Of course, I love handsome and beautiful women. He is very easygoing and can speak well in front of familiar people. Between ideal and reality. I love fantasy, but I also think about reality. I really don't want to do things I don't like. Three minutes of heat. There is no plan for things. Get used to going step by step. Work impetuous, sink heart. I like to be used to myself. If you suddenly want to do something when you are doing something, or if you suddenly want to do something, you will immediately put down what you should do and do what you shouldn't do."
+
+    utter_Leo_attitude_towards_work:
+    - text: "1. Leo A is characterized by an indomitable mentality. The more difficult it is, the more you want to try and conquer it. This iron will, as well as the quick heart to carry it out, can turn decay into magic. Therefore, they can devote themselves to challenging work and express their views at any time. Because he likes to lead others, he often conflicts with colleagues or supervisors in his work. Because the ideal is too high, when things are not as perfect as they imagine or can not reach the set goal, they will appear anxious and lose confidence.2. Outgoing personality, tolerance to others is the unique charm of Leo, and inner loneliness is the biggest weakness. Although Leo people tend to be angry, impatient and unstable, they are naturally optimistic. The biggest problem is that they can't bear to be flattered by others and like to hear praise. Although it is good to have confidence in yourself, be careful that overconfidence will do more harm to you. If you can get popularity, let people around you cheer, you will be willing to make any sacrifice to meet their vanity.3. Leo is bold, confident and generous, with fighting spirit, cheerful personality, freedom and noble sentiment. Do anything can go all out, unremitting efforts, no fear, once decided to do things, absolutely carry through to the end, personality although some impatient, like great success, but it is the main reason for Leo success.4. Leo, who is as enthusiastic as fire, has a strong self-esteem and is not easy to compromise. Most of them bear a lot of work pressure in their heart. They are warm in appearance but lonely in heart. However, Leo, who has a good will and self-motivated, never has the idea of money is better than everything in his mind, so he is generous in spending money, never stingy, and hates stinginess very much. When he sees people in trouble, he will not hesitate to lend a helping hand. He has a strong sense of justice, so he has a good interpersonal relationship."
+
+    utter_Leo_rest:
+    - text: "Leo has very little leisure time and will think about how to get busy several times"
+
+    utter_Leo_lucky_thing:
+    - text: "Leo is biggest problem is that he can't save money. It is easy to spend money like running water. So the lion is first choice of lucky items should be a stable partner who can control him and stimulate his sense of responsibility. Sometimes the lion is too big to do things without thinking. A stable partner can complement him. As long as he has a lover, he will change greatly. He is stingy to himself and willing to pay to his family If this first choice can't get such a lucky item, it should be a cool wallet, so that he can reduce his impulse when spending money. As long as he is willing to save money, there should be not many unlucky things"
+
+    utter_Leo_and_friends:
+    - text: "Leo of self will not sacrifice or pay for others, but hope to get others' contribution. There is no loyalty in their world, only control..Leo is generous, strong feelings, is an extraordinary person, his enthusiasm and prestige make his career and ideal can be successful. Arrogance is the outstanding characteristic of his character. In addition, he is broad-minded, farsighted, and has the ability to eliminate difficulties and control the situation. Therefore, it is easy for people to have respect and admiration for him. At the same time, they are generous, generous and sincere, and will not mystify and treat others falsely. They have a clear sense of gratitude and resentment. One is one and the other is two. They treat you sincerely as a friend. I don't hate you in my heart, but I'm friends with you on the surface."
+
+    utter_Leo_notes:
+    - text: "Leo is one of the 12 constellations that loves to listen to lies. If you want a lion to lie, it will make him uncomfortable. But a little white lie will make him dizzy. It is said that the king in the fairy tale the emperor is new clothes is the standard Leo, and the two black-and-white tailors must be Gemini. When the king put on his new clothes and walked the street, he didn't know his face and laughed loudly, ha ha, the king is not dressed! My child is definitely Sagittarius!.Leo boy with great personality, has the ability and toughness different from ordinary people. That is one of the reasons you're blessed with success. The self-confident and opinionated lion man, with outstanding leadership skills, not only has full prestige, but also has many followers around him. On the contrary, you cannot be ordered to be self-centered. Such self-esteem and pride of the lion man, in fact, the heart is lonely and fragile, just covered up with a cold appearance."
+
+    utter_Before_Leo:
+    - text: "The sign preceding Leo is Cancer"
+
+    utter_After_Leo:
+    - text: "Leo's next sign is Virgo"
+
+    utter_Hobby_Leo:
+    - text: "The Leo is quite romantic, and loves beautiful things, showing off, luxury and being surrounded and admired. Leos are life-loving, fun-loving, brave, and stick to principles and ideas."
+
+    utter_Three_views_Leo:
+    - text: "Career: Leo has a strong desire to succeed, and is usually a good organizer and manager. Money: Leo often gives a person the impression of luxury, they are the advocate of famous brand, under the surface of good face very forthright, generous very willing to spend a lot of money for friends, for love. Although Leo spends a lot of money, they know how to make money. Love: Leo is a sign full of love and positive energy, strong feelings, the pursuit of vigorous love, is the dream of dreams"
+
+    utter_Afraid_of_Leo:
+    - text: "Leos are afraid of losing face and being trusted by others. They are forced into decline by life, stealing the limo from Leo and causing harm to others due to their emotional outbursts"
+
+    utter_Looks_Leo:
+    - text: "Never give up, never say die, there is a life, struggle more than hot heart. This kind of person has a super self-confidence, even if born in poverty, but also maintain an inviolable dignity. They also have a stubborn tenacity, a strong belief in their own ideas, and a strong personality."
+
+    utter_Ability_Leo:
+    - text: "Leo is energetic and outgoing. They are able to put their abilities into full play. They have a strong desire to lead, and they want to impress others and gain praise for everything they do."
+
+    utter_Expression_Leo:
+    - text: "Leos have a flexible mind and will react differently to different situations. They will change the way they communicate with others, and their flexible mind will help them cope with social situations in a timely manner."
+
+    utter_Solve_Leo:
+    - text: "The way they solve problems is to challenge others and listen to those who are stronger than others, rather than lower their heads and talk the truth to others, which they think is the most ineffective method."
+
+    utter_Treat_parents_Leo:
+    - text: "Leo can't turn a blind eye to their parents, the ones who raised them to be adults. Because that kind of behavior is against their own conscience, against their own moral code. Therefore, Leo would rather be wronged by themselves than make their parents suffer."
+
+    utter_Treat_children_Leo:
+    - text: "They love their children very much, because they also love freedom, of course, the children are also very free, the child's mind is very open, unrestrained, so cultivate the children's imagination will be very good"
+
+    utter_Fortune_Leo:
+    - text: "Leo will have the best career luck, love will be on a straight line, and financial luck will be slightly better in the first half of the year"
+
+    utter_Constellation_talent:
+    - text: " Aries - challenge. Taurus - integration. Gemini - creative. Cancer - love. Virgo - call. Libra - communication. Scorpio - discovery. Sagittarius - expand. Capricorn - build. Aquarius - innovation. Pisces - comfort."
+
+    utter_Constellation_luck:
+    - text: " Aries - OK. Taurus - good. Gemini - average. Cancer - very good. Virgo - not bad. Libra - not bad. Scorpio - poor. Sagittarius - very bad. Capricorn - average. Aquarius - OK. Pisces - good."
+
+    utter_Constellation_treat:
+    - text: " Aries - gentle. Taurus - stingy. Gemini - strange. Cancer - kindness. Virgo - picky. Libra - fair. Scorpio - insidious. Sagittarius - enthusiasm. Capricorn - take off. Aquarius - literature and art. Pisces - turn over."
+
+    utter_Constellation_oneself:
+    - text: " Aries - sheep. Taurus - Taurus. Gemini - twins. Cancer - crab. Virgo woman. Libra - Libra. Scorpio - Scorpio. Sagittarius - bow and arrow. Capricorn - Scorpio. Aquarius - water cup. Pisces - fish."
+
+    utter_Constellation_friends:
+    - text: " Cancer .Because I am cancer."
+
+    utter_Hate_constellation:
+    - text: " Sagittarius. Because Baidu says Sagittarius is the most unworthy cancer. "
+
+    utter_Like_constellations:
+    - text: " Cancer .Because I am cancer"
+
+    utter_Think_constellations:
+    - text: " Sitting to see, lying to see, how comfortable to see"
+
+    utter_Ascendant_constellation:
+    - text: " In Western astrology, the rising constellation, also known as the birth star position."
+
+    utter_Know_constellation:
+    - text: " I don't know a lot about it. How about Baidu in detail.lol"
+
+    utter_Astrology_origin:
+    - text: " People divide the sky into several regions, and each region is a constellation. This kind of astronomical knowledge was understood long before there were historical records "
+
+    utter_Constellation_graphics:
+    - text: " Aries - sheep. Taurus - Taurus. Gemini - twins. Cancer - crab. Virgo - woman. Libra - Libra. Scorpio - Scorpio. Sagittarius - bow and arrow. Capricorn - Scorpio. Aquarius - water cup. Pisces - fish."
+
+    utter_Constellation_time:
+    - text: " Aries - March 21 - April 20 Taurus - April 21 - May 21 Gemini - May 22 - June 21 cancer - June 22 - July 22 Leo - July 23 - August 23 Virgo - August 24 - September 23 Libra - September 24 - October 23 Scorpio - October 24 - November 22 Sagittarius - November 23 - December 21 Capricorn - December 22 - January 20 Aquarius - January 21 - February 19 Pisces - February 20 - March 20"
+
+    utter_Constellation_shortcomings:
+    - text: " Aries - stubborn. Taurus - prejudice. Gemini - indecisive. Cancer - lust. Virgo - picky. Libra - temptation. Scorpio - merciless. Sagittarius - indecisive. Capricorn - stubborn. Aquarius - disobedience. Pisces - flinch."
+
+    utter_Constellation_characteristics:
+    - text: " Aries - full of hope. Taurus - romantic. Gemini - diversity. Cancer - sixth sense. Virgo - methodical. Libra - idealism. Scorpio - mystery. Sagittarius - reason. Capricorn - superior. Aquarius - originality. Pisces - conscious. "
+
+    utter_Leo_fortune:
+    - text: " In 2021, Leos comprehensive fortunes will be vigorous, which means that his studies, career, financial, emotional and healthy fortunes will continue to develop in a good direction. "
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

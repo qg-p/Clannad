@@ -1,0 +1,249 @@
+version: "2.0"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_great
+  - action: utter_happy
+
+- story: sad path 1
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: mood_unhappy
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_goodbye
+
+- story: Leo path
+  steps:
+  - intent: Leo_time
+  - action: utter_Leo_time
+  
+- story: Leo_man_is_character path
+  steps:
+  - intent: Leo_man_is_character
+  - action: utter_Leo_man_character
+  
+- story: Leo_personality path
+  steps:
+  - intent: Leo_personality
+  - action: utter_Leo_personality
+  
+- story: Leo_woman_is_character path
+  steps:
+  - intent: Leo_woman_is_character
+  - action: utter_Leo_woman_character
+  
+- story: Get_along_with_Leo path
+  steps:
+  - intent: Get_along_with_Leo
+  - action: utter_Get_along_with_Leo
+  
+- story: Different_Leo path
+  steps:
+  - intent: Different_Leo
+  - action: utter_Different_Leo
+  
+- story: Leo_alone path
+  steps:
+  - intent: Leo_alone
+  - action: utter_Leo_alone
+  
+- story: The_advantages_of_Leo path
+  steps:
+  - intent: The_advantages_of_Leo
+  - action: utter_The_advantages_of_Leo
+  
+- story: Disadvantages_of_Leo path
+  steps:
+  - intent: Disadvantages_of_Leo
+  - action: utter_Disadvantages_of_Leo
+  
+- story: Leo_is_attitude_towards_work path
+  steps:
+  - intent: Leo_is_attitude_towards_work
+  - action: utter_Leo_attitude_towards_work
+  
+- story: Leo_is_rest path
+  steps:
+  - intent: Leo_is_rest
+  - action: utter_Leo_rest
+  
+- story: Leo_is_lucky_thing path
+  steps:
+  - intent: Leo_is_lucky_thing
+  - action: utter_Leo_lucky_thing
+  
+- story: Leo_and_friends path
+  steps:
+  - intent: Leo_and_friends
+  - action: utter_Leo_and_friends
+  
+- story: Leo_notes path
+  steps:
+  - intent: Leo_notes
+  - action: utter_Leo_notes
+
+- story: Before_Leo path
+  steps:
+  - intent: Before_Leo
+  - action: utter_Before_Leo
+
+- story: After_Leo path
+  steps:
+  - intent: After_Leo
+  - action: utter_After_Leo
+
+- story: Hobby_Leo path
+  steps:
+  - intent: Hobby_Leo
+  - action: utter_Hobby_Leo
+
+- story: Three_views_Leo path
+  steps:
+  - intent: Three_views_Leo
+  - action: utter_Three views_Leo
+
+- story: Afraid_of_Leo path
+  steps:
+  - intent: Afraid_of_Leo
+  - action: utter_Afraid_of_Leo
+
+- story: Looks_Leo path
+  steps:
+  - intent: Looks_Leo
+  - action: utter_Looks_Leo
+
+- story: Ability_Leo path
+  steps:
+  - intent: Ability_Leo
+  - action: utter_Ability_Leo
+
+- story: Expression_Leo path
+  steps:
+  - intent: Expression_Leo
+  - action: utter_Expression_Leo
+
+- story: Solve_Leo path
+  steps:
+  - intent: Solve_Leo
+  - action: utter_Solve_Leo
+
+- story: Treat_parents_Leo path
+  steps:
+  - intent: Treat_parents_Leo
+  - action: utter_Treat_parents_Leo
+
+- story: Treat_children_Leo path
+  steps:
+  - intent: Treat_children_Leo
+  - action: utter_Treat_children_Leo
+
+- story: Fortune_Leo path
+  steps:
+  - intent: Fortune_Leo
+  - action: utter_Fortune_Leo
+
+- story: Constellation_fortune path
+  steps:
+  - intent: Constellation_fortune
+  - action: utter_Constellation_fortune
+  
+- story: Constellation_characteristics path
+  steps:
+  - intent: Constellation_characteristics
+  - action: utter_Constellation_characteristics
+  
+- story: Constellation_shortcomings path
+  steps:
+  - intent: Constellation_shortcomings
+  - action: utter_Constellation_shortcomings
+  
+- story: Constellation_time path
+  steps:
+  - intent: Constellation_time
+  - action: utter_Constellation_time
+  
+- story: Constellation_graphics path
+  steps:
+  - intent: Constellation_graphics
+  - action: utter_Constellation_graphics
+  
+- story: Astrology_origin path
+  steps:
+  - intent: Astrology_origin
+  - action: utter_Astrology_origin
+  
+- story: Think_constellations path
+  steps:
+  - intent: Think_constellations
+  - action: utter_Think_constellations
+  
+- story: Like_constellations path
+  steps:
+  - intent: Like_constellations
+  - action: utter_Like_constellations
+  
+- story: Hate_constellations path
+  steps:
+  - intent: Hate_constellation
+  - action: utter_Hate_constellation
+  
+- story: Constellation_friends path
+  steps:
+  - intent: Constellation_friends
+  - action: utter_Constellation_friends
+  
+- story: Constellation_oneself path
+  steps:
+  - intent: Constellation_oneself
+  - action: utter_Constellation_oneself
+  
+- story: Constellation_treat path
+  steps:
+  - intent: Constellation_treat
+  - action: utter_Constellation_treat 
+
+- story: Constellation_luck path
+  steps:
+  - intent: Constellation_luck
+  - action: utter_Constellation_luck
+
+- story: Constellation_talent path
+  steps:
+  - intent: Constellation_talent
+  - action: utter_Constellation_talent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

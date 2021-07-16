@@ -1,0 +1,644 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let is go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: Leo_time
+  examples: |
+    -Leo Time
+    -When is Leo is time?
+    -I want to know the Leo time
+    -You know what time it is in Leo
+    -Can you tell me what time is Leo
+    -I don't know Leo time
+    -Is there anything you want to tell me about Leo time
+    -Leo_time
+    -Leo specific time
+    -When is Leo
+
+- intent: Leo_man_is_character
+  examples: |
+    -Leo man is character
+    -What is Leo man is character?
+    -I want to know the Leo man is character
+    -What is Leo man is character like
+    -You know what character it is in Leo man
+    -What do you think of Leo man is character
+    -Is there anything you want to tell me about Leo man is character
+
+- intent: Leo_personality
+  examples: |
+    -Leo personality
+    -What is Leo personality?
+    -I want to know the Leo personality
+    -What is Leo personality like
+    -You know what personality it is in Leo
+    -What do you think of Leo personality
+    -Is there anything you want to tell me about Leo personality
+    
+- intent: Leo_woman_is_character
+  examples: |
+    -Leo woman is character
+    -What is Leo woman is character?
+    -I want to know the Leo woman is character
+    -What is Leo woman is character like
+    -You know what character it is in Leo woman
+    -What do you think of Leo woman is character
+    -Is there anything you want to tell me about Leo woman is character
+    
+- intent: Get_along_with_Leo
+  examples: |
+    -How to get along with Leo
+    -Eight don't is with Leo
+    -Good for you and Leo
+    -What should you pay attention to when you are with Leo
+    -How to communicate with Leo
+
+- intent: Different_Leo
+  examples: |
+    -What is the difference between Leo and other constellations
+    -What is unique about Leo
+    -Leo is special
+    -the difference between Leo and other constellations
+    -Different Leo
+
+- intent: Leo_alone
+  examples: |
+    -What does Leo like to do alone
+    -What will Leo do when they are alone
+    -Leo is way to be alone
+    -You know what will Leo do when they are alone
+    -I want to know What does Leo like to do alone
+
+- intent: The_advantages_of_Leo
+  examples: |
+    -The advantages of Leo
+    -What are the advantages of Leo
+    -What are the good qualities of Leo
+    -What are the attractions of Leo
+    -Excellent Leo
+
+- intent: Disadvantages_of_Leo
+  examples: |
+    -Disadvantages of Leo
+    -What are the disadvantages of Leo
+    -What makes you hate Leo
+    -What are the disgusting things about Leo
+    -Leo is shortcomings
+
+- intent: Leo_is_attitude_towards_work
+  examples: |
+    -Leo is attitude towards work
+    -How does Leo treat work
+    -Do you know Leo is work attitude
+    -I want to know how Leo works
+    -What is Leo is attitude towards work
+
+
+- intent: Leo_is_rest
+  examples: |
+    -What do Leo do in their spare time
+    -Leo how to relax
+    -Leo at leisure
+    -Do you know What do Leo do in their spare time
+    -I want to know Leo at leisure
+
+- intent: Leo_is_lucky_thing
+  examples: |
+    -What lucky things do Leo have?
+    -Do you know What lucky things do Leo have
+    -I want to know What lucky things do Leo have
+    -How can Leo change his fortune
+    -What does Leo need to be lucky
+
+- intent: Leo_and_friends
+  examples: |
+    -How do Leo treat friends
+    -What do Leo think of friendship
+    -How good are Leo to friends
+    -What is Leo is attitude towards friends
+    -Leo: how to get along with friends
+    -What do you think of Leo and his friends
+    -Leo is sincerity to friends
+    -Leo how to treat the friendship correctly
+
+- intent: Leo_notes
+  examples: |
+    -What should Leo pay attention to
+    -Leo should pay more attention to it
+    -Do you know What should Leo pay attention to
+    -I want to know Leo should pay more attention to it
+    -Tell me more about Leo
+    -Leo: what you need to watch out for
+
+- intent: Before_Leo
+  examples: |
+    -Before_Leo
+    -Before Leo
+    -pre-Leo
+    -Preceding Leo
+    -Preceding_Leo
+    -Leo before
+    -Leo_before
+    -Leo Before
+    -Leo_Before
+    -What is the sign before Leo?
+    -What is it before Leo?
+    -What is before Leo?
+    -You know what is before Leo?
+    -You know what is the sign before Leo?
+    -You know what is it before Leo?
+    -Can you tell me what is before Leo?
+    -Can you tell me what the sign before Leo?
+    -Can you tell me what it before Leo?
+    -I don't know what is before Leo
+    -I don't know what is the sign before Leo
+    -I don't know what is it before Leo
+    -Is there anything you want to tell me about what is it before Leo?
+    -Is there anything you want to tell me about what is the sign before Leo?
+    -Is there anything you want to tell me about what is before Leo?
+    -I want to know what is it before Leo
+    -I want to know what is the sign before Leo
+    -I want to know what is before Leo
+
+- intent: After_Leo
+  examples: |
+    -After_Leo
+    -After Leo
+    -Next_Leo
+    -Next Leo
+    -Leo after
+    -Leo_after
+    -Leo After
+    -Leo_After
+    -What is the sign after Leo?
+    -What is it after Leo?
+    -What is after Leo?
+    -You know what is after Leo?
+    -You know what is the sign after Leo?
+    -You know what is it after Leo?
+    -Can you tell me what is after Leo?
+    -Can you tell me what the sign after Leo?
+    -Can you tell me what it after Leo?
+    -I don't know what is after Leo
+    -I don't know what is the sign after Leo
+    -I don't know what is it after Leo
+    -Is there anything you want to tell me about what is it after Leo?
+    -Is there anything you want to tell me about the sign after Leo?
+    -I want to know what is it after Leo
+    -I want to know what is the sign after Leo
+    -I want to know what is after Leo
+
+- intent: Hobby_Leo
+  examples: |
+    -What are Leo's hobbies?
+    -Hobbies_Leo
+    -Hobbies Leo
+    -Hobby_Leo
+    -Hobby Leo
+    -You know what are Leo's hobbies?
+    -Can you tell me what are Leo's hobbies?
+    -I don't know what are Leo's hobbies
+    -Is there anything you want to tell me about Leo's hobbies?
+    -I want to know what are Leo's hobbies
+    -Leo's hobby
+    -Leo's hobbies
+    -Hobbies of Leo's
+    -Hobbies about Leo
+    -Hobby about Leo
+
+- intent: Three_views_Leo
+  examples: |
+    -What are Leo's three views?
+    -Three views_Leo
+    -Three views Leo
+    -Three view_Leo
+    -You know what are Leo's three views?
+    -Can you tell me what are Leo's three views?
+    -I don't know what are Leo's three views
+    -Is there anything you want to tell me about Leo's three views?
+    -I want to know what are Leo's three views
+    -Leo's three view
+    -Leo's three views
+    -Three views of Leo's
+    -Three views about Leo
+
+- intent: Afraid_of_Leo
+  examples: |
+    -What are Leo's afraid of?
+    -Afraid of_Leo
+    -Afraid of about Leo
+    -You know what are Leo's afraid of?
+    -Can you tell me what are Leo's afraid of?
+    -I don't know what are Leo's afraid of
+    -Is there anything you want to tell me about what are Leo's afraid of?
+    -I want to know what are Leo's afraid of
+    -Leo's afraid of
+    -Afraid_Leo
+    -A Leo afraid of
+
+- intent: Looks_Leo
+  examples: |
+    -Leo_looks
+    -Leo looks
+    -Leo_Looks
+    -Leo Looks
+    -Looks_Leo
+    -Looks Leo
+    -What does a Leo look like?
+    -You know what does a Leo look like?
+    -Can you tell me what does a Leo look like?
+    -I don't know what does a Leo look like
+    -Is there anything you want to tell me about what does a Leo look like?
+    -I want to know what does a Leo look like
+
+- intent: Ability_Leo
+  examples: |
+    -How about Leo's ability to do things?
+    -Ability_Leo
+    -Ability Leo
+    -Ability of Leo
+    -Leo's ability
+    -You know how about Leo's ability to do things?
+    -Can you tell me how about Leo's ability to do things?
+    -I don't know how about Leo's ability to do things
+    -Is there anything you want to tell me about Leo's ability to do things?
+    -I want to know how about Leo's ability to do things
+
+- intent: Expression_Leo
+  examples: |
+    -How expressive is Leo?
+    -Expression_Leo
+    -Expression Leo
+    -Expression of Leo
+    -Leo's Expression
+    -You know how expressive is Leo?
+    -Can you tell me how expressive is Leo?
+    -I don't know how expressive is Leo
+    -Is there anything you want to tell me about Leo's ability of expression?
+    -I want to know how expressive is Leo
+    -You know how about Leo's ability of expression?
+    -Can you tell me how about Leo's ability of expression?
+    -I don't know how about Leo's ability of expression
+    -I want to know how about Leo's ability of expression
+
+- intent: Solve_Leo
+  examples: |
+    -How does Leo solve problems?
+    -Solve_Leo
+    -Solve problems_Leo
+    -Leo solve problems
+    -You know how does Leo solve problems?
+    -Can you tell me how does Leo solve problems?
+    -I don't know how does Leo solve problems
+    -Is there anything you want to tell me about how does Leo solve problems?
+    -I want to know how does Leo solve problems
+
+- intent: Treat_parents_Leo
+  examples: |
+    -How does Leo treat their parents?
+    -Treat parents_Leo
+    -Treat parents Leo
+    -Leo treat parents
+    -You know how does Leo treat their parents?
+    -Can you tell me how does Leo treat their parents?
+    -I don't know how does Leo treat their parents
+    -Is there anything you want to tell me about how does Leo treat their parents?
+    -I want to know how does Leo treat their parents
+
+- intent: Treat_children_Leo
+  examples: |
+    -How does Leo treat children?
+    -Treat children_Leo
+    -Treat children Leo
+    -Leo treat children
+    -You know how does Leo treat children?
+    -Can you tell me how does Leo treat children?
+    -I don't know how does Leo treat children
+    -Is there anything you want to tell me about how does Leo treat children?
+    -I want to know how does Leo treat children
+
+- intent: Fortune_Leo
+  examples: |
+    -How is Leo in fortune this year
+    -Fortune_Leo
+    -Fortune Leo
+    -Leo's fortune
+    -You know how is Leo in fortune this year?
+    -Can you tell me how is Leo in fortune this year?
+    -I don't know how is Leo in fortune this year
+    -Is there anything you want to tell me about how is Leo in fortune this year?
+    -I want to know how is Leo in fortune this year
+
+- intent: Leo_fortune
+  examples: |
+    -constellation fortune
+    -constellation fortune query
+    -What's constellation's luck this year
+    -constellation luck today
+    -I want to know constellation fortune query
+    -Do you know what's constellation's luck this year
+    -Is constellation lucky now
+    -constellation's best fortune tomorrow
+    -The complete forecast of constellation's fortune
+    -constellation's fortune in the coming week
+    -What's the outlook for this year？
+
+- intent: Constellation_characteristics 
+  examples: |
+    -What are the characteristics of each constellation
+    -Do you know the characteristics of each of the twelve constellations
+    -I want to know what are the characteristics of each constellation
+    -All the characteristics of the twelve constellations
+    -The basic characteristics of the twelve constellations
+    -Constellation characteristics
+    -How to look at the basic characteristics of the twelve constellations
+    -What are the basic characteristics of the twelve constellations
+    -How to evaluate the basic characteristics of the twelve constellations
+    -The strongest characteristics of the twelve constellations
+
+- intent: Constellation_shortcomings
+  examples: |
+    -What are the disadvantages of each constellation
+    -The biggest drawback of the twelve constellations
+    -I want to know what are the disadvantages of each constellation
+    -Constellation shortcomings
+    -Do you know the biggest drawback of the twelve constellations
+    -How to view the shortcomings of different constellations
+    -How to evaluate the shortcomings of the twelve constellations
+    -What are the shortcomings of different constellations
+    -Do you have any different disadvantages of constellation
+
+- intent: Constellation_time 
+  examples: |
+    -Time period of each constellation, online waiting
+    -What are the twelve constellations and the corresponding time
+    -The most accurate and up-to-date date table of 12 constellations
+    -What is the time of each constellation
+    -Constellation time
+    -How to know the time of the twelve constellations
+    -I want to know the most accurate and up-to-date date table of 12 constellations
+    -Do you know what is the time of each constellation
+    -Constellation time division
+    -I want to know something about Constellation time division
+
+- intent: Constellation_graphics
+  examples: |
+    -What is the figure of each constellation
+    -Do you know what is the figure of each constellation
+    -I want to know what is the figure of each constellation
+    -What are the representative figures of the twelve constellations?
+    -How to know what is the representative figure of the twelve constellations?
+    -Constellation graphics
+    -Tell me what the representative figure of the twelve constellations is
+    -Different figures of the twelve constellations
+    -I want to know something about Different figures of the twelve constellations
+
+- intent: Astrology_origin
+  examples: |
+    -What is the origin of constellations
+    -I want to know the origin of astrology
+    -Do you know what is the origin of constellations
+    -The origin of astrology
+    -How do you know the origin of constellations
+    -Tell me the origin of constellations
+    -Can you tell me the origin of constellations
+    -What is the origin of the twelve constellations
+    -How do all the constellations come into being
+    -Where does constellation theory originate
+
+- intent: Know_constellation
+  examples: |
+    -Do you know the constellation
+    -Do you know much about constellations
+    -What do you know about constellations
+    -How much do you know about constellations
+    -I want to know if you know constellation
+    -Tell me what you know about constellations
+    -I want to hear what you know about constellations
+    -I want to see what you know about constellations
+    -Please show me what you know about constellations
+
+- intent: Ascendant_constellation
+  examples: |
+    -What is the rising sign
+    -I want to know what is the rising sign
+    -Do you know what is the rising sign
+    -Tell me about your understanding of the rising sign
+    -Tell me what the rising sign is
+    -What is my rising sign
+    -How to check your rising sign
+    -Can you tell me about your understanding of the rising sign
+    -What does the rising constellation stand for
+    -How does the rising sign work out
+
+- intent: Think_constellations
+  examples: |
+    -What do you think of constellations
+    -How do you view the constellations
+    -How do you think about the constellation
+    -What do you think about constellations?
+    -Do you know constellations
+    -I want to know understanding of constellation
+    -Tell me about constellations
+    -Can you tell me about constellations
+    -Regarding constellations, what do you recognize?
+
+- intent: Like_constellations
+  examples: |
+    -Which constellation do you like best
+    -What's your favorite constellation
+    -I want to know which constellation do you like best
+    -Do you know what's your favorite constellation
+    -Tell me what's your favorite constellation
+    -Can you tell me what's your favorite constellation
+    -Twelve constellations what constellations do you prefer best?
+    -Chat a chat your favorite constellation, see which constellation is most popular
+    -What the favorite constellation is and why the favorit
+
+- intent: Hate_constellation
+  examples: |
+    -Which constellation do you hate most
+    -What's your least favorite constellation
+    -I want to know your least favorite constellation
+    -Tell me the sign you hate the most
+    -What do you think of your favorite constellation
+    -How to describe your least favorite constellation
+    -Talk about your favorite constellation
+    -How to evaluate your least favorite constellations
+
+- intent: Constellation_friends
+  examples: |
+    -Which constellation do you want to make friends with
+    -Which constellation is best for making friends
+    -The best constellation for making friends
+    -I want to know the best constellation for making friends
+    -What do you think is the best constellation for making friends
+    -Tell me what constellation you think is best for making friends
+    -Constellation friends
+    -Best constellation friend
+    -My favorite constellation friends
+    -Among the twelve constellations, the four most suitable for friends
+
+- intent: Constellation_oneself
+  examples: |
+    -How does each constellation see itself
+    -How do people of the twelve constellations evaluate themselves from the bottom of their hearts
+    -What do you think of your constellations
+    -How to treat constellation correctly
+    -Constellation_oneself
+    -How do people of the twelve sign think of other constellations
+    -In your eyes, can constellation knowledge be taken seriously, and what do you think of it?
+    -How to look at constellations, how to look at yourself, what constellations
+    -Constellation oneself
+    -How do you want others to see you
+
+- intent: Constellation_treat
+  examples: |
+    -How does each constellation treat others
+    -Constellation_treat
+    -Twelve constellations: good at treating others differently and have different attitudes towards different people
+    -Always like to treat others differently
+    -Twelve constellations are how to love a person, how to do in the face of betrayal, how to meet difficulties
+    -Treat family and friends especially gentle, treat outsider very tough constellation, are you like this
+    -How to see what constellation others are at the first sight
+    -Constellation treat
+    -The constellation who is extremely kind-hearted and doesn't know how to hurt others, especially the first one heart
+    -Who are the constellations that you want others to pay attention to in every move
+
+- intent: Constellation_luck
+  examples: |
+    -What's the luck of each constellation
+    -Everyone's fortune is different. What's the fortune of the constellations
+    -What's the trend of each constellation?
+    -I want to know how lucky each constellation is this year?
+    -Can the constellation fortune be believed? Why does the content fortune of each constellation say not
+    -Constellation_luck
+    -Constellation fortune query Today's fortune query Daily Horoscope
+    -Detailed explanation of daily constellation
+    -Constellation luck
+    -What do you think of the horoscope of each month
+
+- intent: Constellation_talent
+  examples: |
+    -The talent of every constellation
+    -The talent of the twelve constellations
+    -What are the unusual talents of the twelve constellations? Astrology tells you
+    -Everyone has a unique talent, so the natural talent of 12 constellations is different
+    -Each constellation has a talent. What is your talent?
+    -Which of the two constellations has amazing talent?
+    -What are the innate talents of the 12 constellations
+    -What are the unique talents of the twelve constellations?
+    -What are the talents of the 12 constellations
+    -Constellation talent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

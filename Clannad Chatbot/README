@@ -1,0 +1,9 @@
+# Zodiac chat robot
+
+run:
+1. rasarun
+2. runsrv
+
+sketch: final_html\final_test.html
+
+require: rasa, docker
